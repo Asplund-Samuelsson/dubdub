@@ -18,7 +18,7 @@ Linux operating system (Tested on Ubuntu 20.04 LTS)
 
 Python 3.7.6 (Tested with 3.7.6)
 
-R ≥ 3.6.1 (Tested with 3.6.1)
+R ≥ 3.6.3 (Tested with 3.6.3)
 
 Python libraries: ...
 
