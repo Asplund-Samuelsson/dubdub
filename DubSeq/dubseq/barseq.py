@@ -179,21 +179,21 @@ def parse_args():
                         help='Barseq layout file with index2 sequneces',
                         type=str)
 
-    parser.add_argument('--primer1-pos',
+    parser.add_argument('-p', '--primer1-pos',
                         dest='pos1',
                         help='Position of primer1',
                         default=14,
                         type=int
                         )
 
-    parser.add_argument('--primer1-sequence',
+    parser.add_argument('-l', '--primer1-sequence',
                         dest='sequence1',
                         help='Sequence of primer1',
                         default='CAGCGTACG',
                         type=str
                         )
 
-    parser.add_argument('--primer2-sequence',
+    parser.add_argument('-r', '--primer2-sequence',
                         dest='sequence2',
                         help='Sequence of primer2',
                         default='AGAGACC',

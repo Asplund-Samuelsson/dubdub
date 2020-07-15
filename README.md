@@ -20,6 +20,8 @@ Python 3.7.6 (Tested with 3.7.6)
 
 R ≥ 3.6.3 (Tested with 3.6.3)
 
+GNU parallel 20161222 (Tested with 20161222)
+
 Python libraries: ...
 
 R libraries: ...
