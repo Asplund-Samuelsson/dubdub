@@ -1,6 +1,6 @@
 import struct
-from . import util
-from .blat import BlatRecord
+import util
+from blat import BlatRecord
 
 
 class Primer:

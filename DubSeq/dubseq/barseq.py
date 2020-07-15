@@ -1,12 +1,14 @@
+#!/usr/bin/env python3
+
 import re
 import os
 import sys
 import argparse
 import logging
 import pandas as pd
-from .core.barcode import Barcode, BarcodeTag, BarcodeStat
-from .core.fastq import FastqReader, FastqRecord, FastqFileStat
-from .core import util
+from barcode import Barcode, BarcodeTag, BarcodeStat
+from fastq import FastqReader, FastqRecord, FastqFileStat
+import util
 
 
 class Context:
@@ -95,17 +97,17 @@ def parse_args():
 
     parser = argparse.ArgumentParser(
         description='''
-        The narseq program processes the results of BarSeq assays to extract the 
+        The narseq program processes the results of BarSeq assays to extract the
         up barcodes and caluclate the number of reads supporting each barcode.
 
         The expected structure of a sequence read:
 
         ---[primer1]<barcode>[primer2]--
-        
-        Barseq program first extracts barcodes given the expected coordinates and sequences 
+
+        Barseq program first extracts barcodes given the expected coordinates and sequences
         of primers. The --primer-position-shifts paramter allows flexibility in the coordiates
         of primers.
-        
+
         There are two predefined modes for newer multiplexing designs:
         1. n25 mode (--n25) means 11:14 nt before the pre-sequence, corresponding to a read with
 	            2:5 Ns, GTCGACCTGCAGCGTACG, N20, AGAGACC
@@ -113,15 +115,15 @@ def parse_args():
 	            1:4 Ns, index2, GTCGACCTGCAGCGTACG, N20, AGAGACC
 
         All extracted barcodes are filtered by the quality of their sequences controlled
-        by --min-barcode-quality parameter. 
-        
-        To minimize the amount of erroneous barcodes cased by sequence errors introduced by PCR, 
+        by --min-barcode-quality parameter.
+
+        To minimize the amount of erroneous barcodes cased by sequence errors introduced by PCR,
         similar barcodes were identified for each extracted and mapped barcode. Two barcodes are
-        considered to be similar if their sequnece is different by exactly one nucleotide. A given 
-        barcode is considered to be true (recommended) barcode if all idnetified similar barcodes 
+        considered to be similar if their sequnece is different by exactly one nucleotide. A given
+        barcode is considered to be true (recommended) barcode if all idnetified similar barcodes
         are less frequent, and the ratio of frequencies of a given barcode and the most abundant
         similar barcode is greater than a threshold defined by --sim-ratio-threshold parameter.
-        
+
 
         Bagseq program produces the following types of files:
         1. *.barcodes - file that has all extracted barcodes (for each source fastq file)
@@ -167,7 +169,7 @@ def parse_args():
     parser.add_argument('--bs3',
                         dest='bs3',
                         help=''' means 1:4 + 6 + 9 = 16:19 nt before the pre-sequence, corresponding to
-	                        1:4 Ns, index2, GTCGACCTGCAGCGTACG, N20, AGAGACC 
+	                        1:4 Ns, index2, GTCGACCTGCAGCGTACG, N20, AGAGACC
                             The file describing index2 sequences should be specified
                             ''',
                         action='store_true')
@@ -208,8 +210,8 @@ def parse_args():
 
     parser.add_argument('-m', '--sim-ratio-threshold',
                         dest='sim_ratio_threshold',
-                        help='''The minimum ratio of frequencies of a given barcode and the most abundant similar 
-                        barcodes to consider the given barcode to be true (not caused by sequence errors 
+                        help='''The minimum ratio of frequencies of a given barcode and the most abundant similar
+                        barcodes to consider the given barcode to be true (not caused by sequence errors
                         introduced by PCR)
                         ''',
                         default=2,

@@ -13,9 +13,9 @@ while read INFILE; do
   SAMPLE=`echo $INFILE | rev | cut -f 1 -d / | cut -f 5- -d _ | rev`;
   # Define the sample outfile
   OUTFILE="${OUTDIR}/${SAMPLE}.fastq";
-  # Store the individual infile in a string in the associative array
+  # Make list of individual infiles in a string in the associative array
   INFILES[$OUTFILE]+="$INFILE ";
-# List input files
+# List input files (has to be done this end of the loop...)
 done < <(find $INDIR -name *.fastq.gz)
 
 # List the outfiles, which are keys in the associative array
