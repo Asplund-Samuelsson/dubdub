@@ -5,9 +5,9 @@ INDIR=$1 # Directory with fastq.gz files
 OUTDIR=$2 # Directory with barseq output
 
 # Define pre- and post-sequences flanking the barcodes left and right
-LSEQ=$3 # "ACGGATCCT"
-LPOS=$4 # "16"
-RSEQ=$5 # "ACTAAACAT"
+LSEQ=$3 # 9 nt perfectly matching the sequence upstream (left) of the barcode
+LPOS=$4 # Position of LSEQ start
+RSEQ=$5 # 9 nt perfectly matching the sequence downstream (right) of the barcode
 
 # Change to dubseq directory in order to run scripts there
 cd `dirname $0`/../DubSeq/dubseq
