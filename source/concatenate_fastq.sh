@@ -4,6 +4,9 @@
 INDIR=$1 # Directory with fastq.gz files
 OUTDIR=$2 # Directory with concatenated output fastq.gz files for each sample
 
+# Create output directory
+mkdir $OUTDIR
+
 # Create associative array to store lists of files
 declare -A INFILES
 

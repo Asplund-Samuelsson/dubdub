@@ -8,6 +8,9 @@ OUTDIR=$(realpath $2) # Directory with fscore output
 LIBRARY=$3 # The library to use
 LAYOUT=$(realpath $4) # Barseq layout file
 
+# Create fscore output directory
+mkdir $OUTDIR
+
 # Define bpag infile; "file with barcode pairs mapped to a genome"
 BPAG="`dirname $(realpath $0)`/../libraries/${LIBRARY}/${LIBRARY}.bpag.tab"
 

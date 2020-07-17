@@ -9,6 +9,9 @@ LSEQ=$3 # 9 nt perfectly matching the sequence upstream (left) of the barcode
 LPOS=$4 # Position of LSEQ start
 RSEQ=$5 # 9 nt perfectly matching the sequence downstream (right) of the barcode
 
+# Create output directory
+mkdir $OUTDIR
+
 # Change to dubseq directory in order to run scripts there
 cd `dirname $0`/../DubSeq/dubseq
 
