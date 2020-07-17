@@ -330,7 +330,7 @@ class Fitness:
             if not file_name.endswith('.bstat.tsv'):
                 continue
 
-            vals = file_name.split("_")
+            vals = file_name.split(".")
             for val in vals:
                 if val in Fitness.CONDITIONS:
                     itnum = val

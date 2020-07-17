@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # Define input and output directories
-INDIR=$1 # Directory with fastq.gz files
-OUTDIR=$2 # Directory with barseq output
+INDIR=$(realpath $1) # Directory with fastq.gz files
+OUTDIR=$(realpath $2) # Directory with barseq output
 
 # Define pre- and post-sequences flanking the barcodes left and right
 LSEQ=$3 # 9 nt perfectly matching the sequence upstream (left) of the barcode
