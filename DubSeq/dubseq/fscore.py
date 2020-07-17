@@ -1,11 +1,13 @@
+#!/usr/bin/env python3
+
 import os
 import sys
 import argparse
 import logging
-from .core.barcode import Barcode, BarcodeTag, BarcodeStat
-from .core.fastq import FastqReader, FastqRecord, FastqFileStat
-from .core import util
-from .core.fitness import BarseqLayout, Fitness
+from barcode import Barcode, BarcodeTag, BarcodeStat
+from fastq import FastqReader, FastqRecord, FastqFileStat
+import util
+from fitness import BarseqLayout, Fitness
 
 
 class Context:
@@ -50,23 +52,23 @@ def parse_args():
 
     parser = argparse.ArgumentParser(
         description='''
-        The fscore program calculates the fitness score of DubSeq fragments in a given sample based on the 
-        difference of read counts supporting a given fragment in the stress and time-zero conditions. 
-        
-        The reference set of the DubSeq fragments, specified by --bpag-fname parameter, can be obtained by the bpag 
-        program that combines the results of the BPSeq and BAGSeq assays. Each fragment in this set is associated with 
-        a barcode which frequency under a given condition can be later estiamted in a BarSeq assay. The directory 
-        with restuls of the BarSeq assays procssed by the barseq program can be indicated with --input parameter.        
+        The fscore program calculates the fitness score of DubSeq fragments in a given sample based on the
+        difference of read counts supporting a given fragment in the stress and time-zero conditions.
+
+        The reference set of the DubSeq fragments, specified by --bpag-fname parameter, can be obtained by the bpag
+        program that combines the results of the BPSeq and BAGSeq assays. Each fragment in this set is associated with
+        a barcode which frequency under a given condition can be later estiamted in a BarSeq assay. The directory
+        with restuls of the BarSeq assays procssed by the barseq program can be indicated with --input parameter.
         The layout of the BarSeq experiment set is necessary to identiy time-zero samples and should be speicified with
-        --barseq-layout-fname parameter.   
-        
-        In order to calculate the fragment fitness scores (fscores), the program first identifies a subset of fragments that 
-        are well represented in time-zero samples. A given fragment is considered to be valid if at least in one time-zero 
+        --barseq-layout-fname parameter.
+
+        In order to calculate the fragment fitness scores (fscores), the program first identifies a subset of fragments that
+        are well represented in time-zero samples. A given fragment is considered to be valid if at least in one time-zero
         sample it is supported by more reads than a given threshold controlled by the --min-time0-read-count parameter.
-        
-        
-        The fitness score of a valid fragment is caluclated as a normalized log2 ratio of read counts supporting the associated 
-        barcode in the treatment sample and in time-zero samples. The fitness scores in a given sample are normalized so that 
+
+
+        The fitness score of a valid fragment is caluclated as a normalized log2 ratio of read counts supporting the associated
+        barcode in the treatment sample and in time-zero samples. The fitness scores in a given sample are normalized so that
         the median is set to zero.
 
         Bpseq program produces four types of files:

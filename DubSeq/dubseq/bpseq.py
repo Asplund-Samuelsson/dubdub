@@ -3,9 +3,9 @@ import sys
 import argparse
 import logging
 import struct
-from .core.barcode import Barcode, BarcodeTag, EMPTY_BARCODE, BarcodeStat, PairedBarcodeStat
-from .core.fastq import FastqReader, FastqRecord, FastqFileStat
-from .core import util
+from barcode import Barcode, BarcodeTag, EMPTY_BARCODE, BarcodeStat, PairedBarcodeStat
+from fastq import FastqReader, FastqRecord, FastqFileStat
+import util
 
 
 class Context:
@@ -65,52 +65,52 @@ def parse_args():
 
     parser = argparse.ArgumentParser(
         description='''
-        The bpseq program processes the results of BPSeq PCR assay to extract the pairs of 
-        aassociated barcodes. Each read is expected to have two associated 20-mer barocode 
+        The bpseq program processes the results of BPSeq PCR assay to extract the pairs of
+        aassociated barcodes. Each read is expected to have two associated 20-mer barocode
         tags: up and down tag.
 
         The expected structure of a sequence read:
 
         ---[dn_primer1]<dn_barcode>[dn_primer2]----[up_primer1]<up_barcode>[dn_primer2]---
         ...[........... down tag  ............]----[........... up tag  ..............]...
-        
-        Bpseq program first extracts up and down barcodes given the expected coordinates and 
-        sequences of primers. The --primer-position-shifts paramter allows flexibility in the 
+
+        Bpseq program first extracts up and down barcodes given the expected coordinates and
+        sequences of primers. The --primer-position-shifts paramter allows flexibility in the
         coordiates of primers.
-        
+
         All extracted barcodes are filtered by the quality of their sequences controlled
-        by --min-barcode-quality parameter. 
-        
-        Bpseq program implements two additional types of filters to minimize the number of 
-        erroneous pairs of barcodes: i) sequence errors introduced by PCR, ii) chimeric 
+        by --min-barcode-quality parameter.
+
+        Bpseq program implements two additional types of filters to minimize the number of
+        erroneous pairs of barcodes: i) sequence errors introduced by PCR, ii) chimeric
         constructs created by PCR
 
-        To minimize the amount of erroneous barcodes caused by sequence errors, similar 
-        barcodes were identified for each extracted barcode (up and down barcodes were processed 
-        separately). Two barcodes are considered to be similar if their sequnece is different 
-        by exactly one nucleotide. A given barcode is considered to be true (recommended) 
-        barcode if all idnetified similar barcodes are less frequent, and the ratio of frequencies 
+        To minimize the amount of erroneous barcodes caused by sequence errors, similar
+        barcodes were identified for each extracted barcode (up and down barcodes were processed
+        separately). Two barcodes are considered to be similar if their sequnece is different
+        by exactly one nucleotide. A given barcode is considered to be true (recommended)
+        barcode if all idnetified similar barcodes are less frequent, and the ratio of frequencies
         of a given barcode and the most abundant similar barcode is greater than a threshold
         defined by --sim-ratio-threshold parameter.
-        
-        To minimize the amount of erroneous barcode pairs caused by chimeras, barcode pairs 
-        associated with each up (down) barcode were collected. The presence of the same  
-        barcode in multiple barcode pairs is a sign of chimeric sequence. To distinguish the 
-        true barcode pair from the chimeric one, the frequency of a barcode pair was compared  
-        with frequncy of all associated barcode pairs. A given barcode pair is considered to  
-        be non-chimeric (recommended) if all associated barcode pairs are less frequent, and 
+
+        To minimize the amount of erroneous barcode pairs caused by chimeras, barcode pairs
+        associated with each up (down) barcode were collected. The presence of the same
+        barcode in multiple barcode pairs is a sign of chimeric sequence. To distinguish the
+        true barcode pair from the chimeric one, the frequency of a barcode pair was compared
+        with frequncy of all associated barcode pairs. A given barcode pair is considered to
+        be non-chimeric (recommended) if all associated barcode pairs are less frequent, and
         the ratio of frequencies of a given barcode pair and the most abundant associated
         barcode pair is greater than a theshold defined by --chim-ratio-threshold parameter.
-        
-        Overall, a given barcode pair is considered to be true barcode pair if up and down 
-        barcodes have high sequence quality, both up and down barcodes are recommended as 
+
+        Overall, a given barcode pair is considered to be true barcode pair if up and down
+        barcodes have high sequence quality, both up and down barcodes are recommended as
         non-erroneous, and barcode pair is recommended as non-chimeric.
 
         Bpseq program produces four types of files:
         1. *.barcodes - file that has all extracted barcode pairs (for each source fastq file)
         2. up.bstat.tsv - statistics for the up barcodes
         3. dn.bstat.tsv - statistics for the down barcodes
-        4. bpseq.tsv - the main output file with barcode paris, statistics  and recomendation 
+        4. bpseq.tsv - the main output file with barcode paris, statistics  and recomendation
         flags
 
         Examples to run the bpseq program:
@@ -122,7 +122,7 @@ def parse_args():
 
     parser.add_argument('-i', '--input',
                         dest='input',
-                        help='''fastq file (can be gzipped) or directory with fastq files 
+                        help='''fastq file (can be gzipped) or directory with fastq files
                         (can be gzipped).''',
                         type=str,
                         required=True
@@ -208,8 +208,8 @@ def parse_args():
 
     parser.add_argument('-m', '--sim-ratio-threshold',
                         dest='sim_ratio_threshold',
-                        help='''The minimum ratio of frequencies of a given and the most abundant similar 
-                        barcodes to consider the given barcode to be true (not caused by sequence errors 
+                        help='''The minimum ratio of frequencies of a given and the most abundant similar
+                        barcodes to consider the given barcode to be true (not caused by sequence errors
                         introduced by PCR)
                         ''',
                         default=2,
@@ -218,7 +218,7 @@ def parse_args():
 
     parser.add_argument('-c', '--chim-ratio-threshold',
                         dest='chim_ratio_threshold',
-                        help='''The minimum ratio of frequencies of a given barcode pair and the most abundant 
+                        help='''The minimum ratio of frequencies of a given barcode pair and the most abundant
                         associated barcode pair to consider the given barcode pair to be non-chimeric
                         ''',
                         default=2,

@@ -8,11 +8,11 @@ from scipy import stats
 from scipy import sparse
 from scipy.stats import poisson
 from scipy.optimize import nnls
-from limix.stats import qvalues
+from fdr import qvalues
 from sklearn.linear_model import ElasticNet
 from sklearn.linear_model import Lasso
 from sklearn.linear_model import Ridge
-from .util import print_prefix
+from util import print_prefix
 
 
 class BarseqLayoutItem:

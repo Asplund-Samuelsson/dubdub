@@ -2,10 +2,10 @@ import os
 import sys
 import argparse
 import logging
-from .core.barcode import Barcode, BarcodeTag, BarcodeStat
-from .core.fastq import FastqReader, FastqRecord, FastqFileStat
-from .core import util
-from .core.fitness import BarseqLayout, Fitness
+from barcode import Barcode, BarcodeTag, BarcodeStat
+from fastq import FastqReader, FastqRecord, FastqFileStat
+import util
+from fitness import BarseqLayout, Fitness
 
 
 class Context:
@@ -151,7 +151,7 @@ def parse_args():
     parser.add_argument('--gscore_varience_alpha',
                         dest='gscore_varience_alpha',
                         help=''' Correction to calculate a moderated version of a gene score variance
-                         Var_moderated = Var + alpha   
+                         Var_moderated = Var + alpha
                         ''',
                         default=0.02,
                         type=float

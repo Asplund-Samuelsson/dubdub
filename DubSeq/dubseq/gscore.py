@@ -2,10 +2,10 @@ import os
 import sys
 import argparse
 import logging
-from .core.barcode import Barcode, BarcodeTag, BarcodeStat
-from .core.fastq import FastqReader, FastqRecord, FastqFileStat
-from .core import util
-from .core.fitness import BarseqLayout, Fitness
+from barcode import Barcode, BarcodeTag, BarcodeStat
+from fastq import FastqReader, FastqRecord, FastqFileStat
+import util
+from fitness import BarseqLayout, Fitness
 
 
 class Context:
@@ -65,15 +65,15 @@ def parse_args():
 
     parser = argparse.ArgumentParser(
         description='''
-        The gscore program esimates the fitness score of genes using several methods. 
-        
-        First, the fintess scores of framgetms are calulcated folloing the approach 
-        implemnted in the fscore module of the DubSeq package (see the help for the fscore 
+        The gscore program esimates the fitness score of genes using several methods.
+
+        First, the fintess scores of framgetms are calulcated folloing the approach
+        implemnted in the fscore module of the DubSeq package (see the help for the fscore
         program).
 
-        For all genes (both protein coding genes and rnas) listed in the gff file 
-        (--genes-gff-fname parameter), gene fintess score is calculated using 5 approaches: 
-        1. Mean score - the score of each gene is calcalted as an average of fitness 
+        For all genes (both protein coding genes and rnas) listed in the gff file
+        (--genes-gff-fname parameter), gene fintess score is calculated using 5 approaches:
+        1. Mean score - the score of each gene is calcalted as an average of fitness
         2. CNNLS score (non-negative least squares used to caluclate noth positive and negative scores)
         3. Ridge score
         4. Lasso score
@@ -127,8 +127,8 @@ def parse_args():
 
     parser.add_argument('--ridge_alpha',
                         dest='ridge_alpha',
-                        help='''Regularization parameter alpha for the Ridge regression defining 
-                        the amount of regularization in the Ridge objective function:  
+                        help='''Regularization parameter alpha for the Ridge regression defining
+                        the amount of regularization in the Ridge objective function:
                         ||Ax-y||^2_2 + alpha * ||x||^2_2 ''',
                         default=1.0,
                         type=float
@@ -136,8 +136,8 @@ def parse_args():
 
     parser.add_argument('--lasso_alpha',
                         dest='lasso_alpha',
-                        help='''Regularization parameter alpha for the Lasso regression defining 
-                        the amount of regularization in the Lasso objective function:  
+                        help='''Regularization parameter alpha for the Lasso regression defining
+                        the amount of regularization in the Lasso objective function:
                         ||Ax-y||^2_2 + alpha * ||x||_1 ''',
                         default=3.35,
                         type=float
@@ -145,8 +145,8 @@ def parse_args():
 
     parser.add_argument('--enet_alpha',
                         dest='enet_alpha',
-                        help='''Regularization parameter alpha for the Elastic Net regression defining 
-                        the amount of regularization in the Elastic Net objective function:  
+                        help='''Regularization parameter alpha for the Elastic Net regression defining
+                        the amount of regularization in the Elastic Net objective function:
                         ||Ax-y||^2_2 + alpha * i1_ratio * ||x||_1 + 0.5 * alpha * (1-r1_ratio) * ||x||^2_2  ''',
                         default=3.62,
                         type=float
@@ -154,8 +154,8 @@ def parse_args():
 
     parser.add_argument('--enet_i1_ratio',
                         dest='enet_l1_ratio',
-                        help='''Regularization parameter l1_ratio for the Elastic Net regression defining 
-                        the amount of regularization in the Elastic Net objective function:  
+                        help='''Regularization parameter l1_ratio for the Elastic Net regression defining
+                        the amount of regularization in the Elastic Net objective function:
                         ||Ax-y||^2_2 + alpha * i1_ratio * ||x||_1 + 0.5 * alpha * (1-r1_ratio) * ||x||^2_2  ''',
                         default=0.7,
                         type=float
