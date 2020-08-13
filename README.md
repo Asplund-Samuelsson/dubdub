@@ -48,6 +48,9 @@ The demonstration example takes X to run on a Y.
 
 ...
 
+The PCA clustering analysis should look like this:
+![Example PCA](examples/example_PCA.png)
+
 ### Further instructions
 
 ...
