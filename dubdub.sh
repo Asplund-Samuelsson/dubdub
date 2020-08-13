@@ -91,3 +91,9 @@ echo -e "\n\e[92mStep $S: Done.\e[0m\n"
 echo -e "\n\e[94mStep $S: Performing PCA on gene scores...\e[0m\n"
 ${DUBDIR}/source/gscore_pca.R $WORKDIR
 echo -e "\n\e[92mStep $S: Done.\e[0m\n"
+
+# Clean up the working directory
+((S++))
+echo -e "\n\e[94mStep $S: Cleaning up output directory...\e[0m\n"
+${DUBDIR}/source/cleanup.sh $WORKDIR
+echo -e "\n\e[92mStep $S: Done.\e[0m\n"
