@@ -20,7 +20,7 @@ gscr = bind_rows(lapply(
   # Load each gene score file
   function (infile) {
     # Extract the itnum from the filename
-    itnum = str_split(gscr_files[1], "\\.")[[1]][1]
+    itnum = str_split(infile, "\\.")[[1]][1]
     # Load the infile and add the itnum
     read_tsv(file.path(gdir, infile)) %>% mutate(itnum = itnum)
   }

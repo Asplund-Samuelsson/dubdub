@@ -24,7 +24,7 @@ GNU parallel 20161222 (Tested with 20161222)
 
 Python libraries: ...
 
-R libraries: tidyverse
+R libraries: tidyverse, ggrepel, scales
 
 
 ## Installation guide

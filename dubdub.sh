@@ -85,3 +85,9 @@ echo -e "\n\e[92mStep $S: Done.\e[0m\n"
 echo -e "\n\e[94mStep $S: Creating combined gene score table...\e[0m\n"
 ${DUBDIR}/source/create_gscore_table.R $WORKDIR
 echo -e "\n\e[92mStep $S: Done.\e[0m\n"
+
+# Perform principal component analysis on gene scores
+((S++))
+echo -e "\n\e[94mStep $S: Performing PCA on gene scores...\e[0m\n"
+${DUBDIR}/source/gscore_pca.R $WORKDIR
+echo -e "\n\e[92mStep $S: Done.\e[0m\n"
