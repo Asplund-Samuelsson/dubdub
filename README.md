@@ -16,6 +16,8 @@ Analysis based on [Mutalik _et al._ (2019), DOI 10.1038/s41467-018-08177-8](http
 
 Linux operating system (Tested on Ubuntu 20.04 LTS)
 
+bash 5.0 (Tested with 5.0.17(1)-release)
+
 Python 3.7.6 (Tested with 3.7.6)
 
 R ≥ 3.6.3 (Tested with 3.6.3)
