@@ -14,17 +14,17 @@ Analysis based on [Mutalik _et al._ (2019), DOI 10.1038/s41467-018-08177-8](http
 
 ## System requirements
 
-Linux operating system (Tested on Ubuntu 20.04 LTS)
+Linux operating system (Tested on Ubuntu 18.04.5 LTS and Ubuntu 20.04 LTS)
 
-bash 5.0 (Tested with 5.0.17(1)-release)
+bash 4.0 (Tested with 4.4.20(1)-release and 5.0.17(1)-release)
 
-Python 3.7.6 (Tested with 3.7.6)
+Python 3.5.4 (Tested with 3.5.4 and 3.7.6)
 
 R ≥ 3.6.3 (Tested with 3.6.3)
 
 GNU parallel 20161222 (Tested with 20161222)
 
-Python libraries: ...
+Python libraries: numpy, scipy, pandas, sklearn
 
 R libraries: tidyverse, ggrepel, scales
 
@@ -42,9 +42,9 @@ Installation of the pipeline takes approximately X seconds.
 
 ### Commands
 
-`command`
+`./dubdub.sh -d example/results -f example/data -l example/example_barseq_layout.tab -L example -U CAGCGTACG -P 14 -D AGAGACC`
 
-The demonstration example takes X to run on a Y.
+The demonstration example takes 2 minutes and 30 seconds to run on a dual core 1.5 GHz system with 4 GB RAM.
 
 ### Expected output
 
