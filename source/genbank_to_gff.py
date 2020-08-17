@@ -37,7 +37,8 @@ for line in open(infile).readlines():
                 from_to = [range_values[2], range_values[1]]
         # Store initial feature attributes
         features[-1].update({
-            "start":from_to[0], "end":from_to[1],
+            "start":from_to[0].replace("<","").replace(">",""),
+            "end":from_to[1].replace("<","").replace(">",""),
             "pseudo":False, "product":""
         })
         # Skip features with "order"
@@ -103,7 +104,7 @@ for i in range(len(features)):
     locus_tag = "locus_tag=" + locus_tag
     ID = "ID=" + ID
     product = "product=" + features[i]['product'].replace(";", "_")
-    output += "\t" + ";".join([product, locus_tag, ID]) + "\n"
+    output += ";".join([product, locus_tag, ID]) + "\n"
     junk = outfile.write(output)
 
 outfile.close()
