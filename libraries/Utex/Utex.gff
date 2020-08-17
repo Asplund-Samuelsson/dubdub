@@ -1,60 +1,60 @@
-Unnamed_plasmid_	Custom	gene	336	836	.	+	0		product=hypothetical protein;locus_tag=M744_14235;ID=M744_14235
-Unnamed_plasmid_	Custom	gene	997	1512	.	-	0		product=hypothetical protein;locus_tag=M744_14240;ID=M744_14240
-Unnamed_plasmid_	Custom	gene	1617	1925	.	-	0		product=hypothetical protein;locus_tag=M744_14245;ID=M744_14245
-Unnamed_plasmid_	Custom	gene	1922	4981	.	-	0		product=hypothetical protein;locus_tag=M744_14250;ID=M744_14250
-Unnamed_plasmid_	Custom	gene	5157	6761	.	-	0		product=hypothetical protein;locus_tag=M744_14255;ID=M744_14255
-Unnamed_plasmid_	Custom	gene	6799	7332	.	-	0		product=hypothetical protein;locus_tag=M744_14260;ID=M744_14260
-Unnamed_plasmid_	Custom	gene	45877	2510	.	-	0		product=hypothetical protein;locus_tag=M744_13955;ID=M744_13955
-Unnamed_plasmid_	Custom	gene	3200	3772	.	+	0		product=hypothetical protein;locus_tag=M744_13960;ID=M744_13960
-Unnamed_plasmid_	Custom	gene	3870	4706	.	+	0		product=hypothetical protein;locus_tag=M744_13965;ID=M744_13965
-Unnamed_plasmid_	Custom	gene	4756	4959	.	-	0		product=hypothetical protein;locus_tag=M744_13970;ID=M744_13970
-Unnamed_plasmid_	Custom	gene	4964	5215	.	-	0		product=hypothetical protein;locus_tag=M744_13975;ID=M744_13975
-Unnamed_plasmid_	Custom	gene	5169	5447	.	-	0		product=hypothetical protein;locus_tag=M744_13980;ID=M744_13980
-Unnamed_plasmid_	Custom	gene	5773	6573	.	-	0		product=ABC transporter permease;locus_tag=M744_13990;ID=M744_13990
-Unnamed_plasmid_	Custom	gene	6575	7798	.	-	0		product=ABC transporter substrate-binding protein;locus_tag=M744_13995;ID=M744_13995
-Unnamed_plasmid_	Custom	gene	7824	8636	.	-	0		product=ABC transporter ATP-binding protein;locus_tag=M744_14000;ID=M744_14000
-Unnamed_plasmid_	Custom	gene	8633	9694	.	-	0		product=acyl-CoA dehydrogenase;locus_tag=M744_14005;ID=M744_14005
-Unnamed_plasmid_	Custom	gene	9705	10232	.	-	0		product=hypothetical protein;locus_tag=M744_14010;ID=M744_14010
-Unnamed_plasmid_	Custom	gene	10457	11983	.	-	0		product=acylase;locus_tag=M744_14015;ID=M744_14015
-Unnamed_plasmid_	Custom	gene	11980	12969	.	-	0		product=cysteine synthase;locus_tag=M744_14020;ID=M744_14020
-Unnamed_plasmid_	Custom	gene	13100	14281	.	-	0		product=chromate transporter;locus_tag=M744_14025;ID=M744_14025
-Unnamed_plasmid_	Custom	gene	14433	14981	.	-	0		product=protein SrpB;locus_tag=M744_14030;ID=M744_14030
-Unnamed_plasmid_	Custom	gene	15082	16101	.	-	0		product=protein SrpA;locus_tag=M744_14035;ID=M744_14035
-Unnamed_plasmid_	Custom	gene	16203	16781	.	-	0		product=carbonic anhydrase;locus_tag=M744_14040;ID=M744_14040
-Unnamed_plasmid_	Custom	gene	17000	17434	.	-	0		product=Rrf2 family transcriptional regulator;locus_tag=M744_14045;ID=M744_14045
-Unnamed_plasmid_	Custom	gene	17536	18081	.	+	0		product=hypothetical protein;locus_tag=M744_14050;ID=M744_14050
-Unnamed_plasmid_	Custom	gene	18331	18687	.	-	0		product=ferredoxin;locus_tag=M744_14055;ID=M744_14055
-Unnamed_plasmid_	Custom	gene	18782	18964	.	+	0		product=hypothetical protein;locus_tag=M744_14060;ID=M744_14060
-Unnamed_plasmid_	Custom	gene	19146	20135	.	+	0		product=cysteine synthase;locus_tag=M744_14065;ID=M744_14065
-Unnamed_plasmid_	Custom	gene	20132	21091	.	+	0		product=serine acetyltransferase;locus_tag=M744_14070;ID=M744_14070
-Unnamed_plasmid_	Custom	gene	21177	22106	.	+	0		product=membrane protein;locus_tag=M744_14075;ID=M744_14075
-Unnamed_plasmid_	Custom	gene	22371	24221	.	+	0		product=cysteine desulfurase;locus_tag=M744_14080;ID=M744_14080
-Unnamed_plasmid_	Custom	gene	24311	24661	.	+	0		product=sulfurtransferase;locus_tag=M744_14085;ID=M744_14085
-Unnamed_plasmid_	Custom	gene	24658	25041	.	-	0		product=DNA-binding protein;locus_tag=M744_14090;ID=M744_14090
-Unnamed_plasmid_	Custom	gene	25052	25318	.	-	0		product=hypothetical protein;locus_tag=M744_14095;ID=M744_14095
-Unnamed_plasmid_	Custom	gene	25452	26063	.	+	0		product=hypothetical protein;locus_tag=M744_14100;ID=M744_14100
-Unnamed_plasmid_	Custom	gene	26060	26884	.	+	0		product=chromosome partitioning protein ParB;locus_tag=M744_14105;ID=M744_14105
-Unnamed_plasmid_	Custom	gene	26987	27316	.	+	0		product=hypothetical protein;locus_tag=M744_14110;ID=M744_14110
-Unnamed_plasmid_	Custom	gene	27360	27575	.	+	0		product=hypothetical protein;locus_tag=M744_14115;ID=M744_14115
-Unnamed_plasmid_	Custom	gene	27566	27916	.	+	0		product=PemK family protein;locus_tag=M744_14120;ID=M744_14120
-Unnamed_plasmid_	Custom	gene	28006	28968	.	+	0		product=integrase;locus_tag=M744_14125;ID=M744_14125
-Unnamed_plasmid_	Custom	gene	28998	29240	.	-	0		product=hypothetical protein;locus_tag=M744_14130;ID=M744_14130
-Unnamed_plasmid_	Custom	gene	29495	29722	.	-	0		product=hypothetical protein;locus_tag=M744_14135;ID=M744_14135
-Unnamed_plasmid_	Custom	gene	29859	30449	.	-	0		product=hypothetical protein;locus_tag=M744_14140;ID=M744_14140
-Unnamed_plasmid_	Custom	gene	30613	31095	.	-	0		product=hypothetical protein;locus_tag=M744_14145;ID=M744_14145
-Unnamed_plasmid_	Custom	gene	31318	31992	.	+	0		product=chemotaxis protein CheY;locus_tag=M744_14150;ID=M744_14150
-Unnamed_plasmid_	Custom	gene	31961	33277	.	+	0		product=histidine kinase;locus_tag=M744_14155;ID=M744_14155
-Unnamed_plasmid_	Custom	gene	34519	35226	.	-	0		product=transcriptional regulator;locus_tag=M744_14165;ID=M744_14165
-Unnamed_plasmid_	Custom	gene	35310	36044	.	+	0		product=glutamine amidotransferase;locus_tag=M744_14170;ID=M744_14170
-Unnamed_plasmid_	Custom	gene	36272	37246	.	+	0		product=alcohol dehydrogenase;locus_tag=M744_14175;ID=M744_14175
-Unnamed_plasmid_	Custom	gene	37670	38101	.	+	0		product=hypothetical protein;locus_tag=M744_14185;ID=M744_14185
-Unnamed_plasmid_	Custom	gene	38616	38945	.	-	0		product=hypothetical protein;locus_tag=M744_14190;ID=M744_14190
-Unnamed_plasmid_	Custom	gene	38911	39204	.	-	0		product=hypothetical protein;locus_tag=M744_14195;ID=M744_14195
-Unnamed_plasmid_	Custom	gene	39753	39980	.	+	0		product=hypothetical protein;locus_tag=M744_14205;ID=M744_14205
-Unnamed_plasmid_	Custom	gene	41050	41649	.	-	0		product=hypothetical protein;locus_tag=M744_14210;ID=M744_14210
-Unnamed_plasmid_	Custom	gene	42382	43806	.	+	0		product=hypothetical protein;locus_tag=M744_14215;ID=M744_14215
-Unnamed_plasmid_	Custom	gene	44382	44597	.	+	0		product=hypothetical protein;locus_tag=M744_14220;ID=M744_14220
-Unnamed_plasmid_	Custom	gene	44853	45767	.	+	0		product=hypothetical protein;locus_tag=M744_14225;ID=M744_14225
+plasmid1	Custom	gene	336	836	.	+	0		product=hypothetical protein;locus_tag=M744_14235;ID=M744_14235
+plasmid1	Custom	gene	997	1512	.	-	0		product=hypothetical protein;locus_tag=M744_14240;ID=M744_14240
+plasmid1	Custom	gene	1617	1925	.	-	0		product=hypothetical protein;locus_tag=M744_14245;ID=M744_14245
+plasmid1	Custom	gene	1922	4981	.	-	0		product=hypothetical protein;locus_tag=M744_14250;ID=M744_14250
+plasmid1	Custom	gene	5157	6761	.	-	0		product=hypothetical protein;locus_tag=M744_14255;ID=M744_14255
+plasmid1	Custom	gene	6799	7332	.	-	0		product=hypothetical protein;locus_tag=M744_14260;ID=M744_14260
+plasmid2	Custom	gene	45877	2510	.	-	0		product=hypothetical protein;locus_tag=M744_13955;ID=M744_13955
+plasmid2	Custom	gene	3200	3772	.	+	0		product=hypothetical protein;locus_tag=M744_13960;ID=M744_13960
+plasmid2	Custom	gene	3870	4706	.	+	0		product=hypothetical protein;locus_tag=M744_13965;ID=M744_13965
+plasmid2	Custom	gene	4756	4959	.	-	0		product=hypothetical protein;locus_tag=M744_13970;ID=M744_13970
+plasmid2	Custom	gene	4964	5215	.	-	0		product=hypothetical protein;locus_tag=M744_13975;ID=M744_13975
+plasmid2	Custom	gene	5169	5447	.	-	0		product=hypothetical protein;locus_tag=M744_13980;ID=M744_13980
+plasmid2	Custom	gene	5773	6573	.	-	0		product=ABC transporter permease;locus_tag=M744_13990;ID=M744_13990
+plasmid2	Custom	gene	6575	7798	.	-	0		product=ABC transporter substrate-binding protein;locus_tag=M744_13995;ID=M744_13995
+plasmid2	Custom	gene	7824	8636	.	-	0		product=ABC transporter ATP-binding protein;locus_tag=M744_14000;ID=M744_14000
+plasmid2	Custom	gene	8633	9694	.	-	0		product=acyl-CoA dehydrogenase;locus_tag=M744_14005;ID=M744_14005
+plasmid2	Custom	gene	9705	10232	.	-	0		product=hypothetical protein;locus_tag=M744_14010;ID=M744_14010
+plasmid2	Custom	gene	10457	11983	.	-	0		product=acylase;locus_tag=M744_14015;ID=M744_14015
+plasmid2	Custom	gene	11980	12969	.	-	0		product=cysteine synthase;locus_tag=M744_14020;ID=M744_14020
+plasmid2	Custom	gene	13100	14281	.	-	0		product=chromate transporter;locus_tag=M744_14025;ID=M744_14025
+plasmid2	Custom	gene	14433	14981	.	-	0		product=protein SrpB;locus_tag=M744_14030;ID=M744_14030
+plasmid2	Custom	gene	15082	16101	.	-	0		product=protein SrpA;locus_tag=M744_14035;ID=M744_14035
+plasmid2	Custom	gene	16203	16781	.	-	0		product=carbonic anhydrase;locus_tag=M744_14040;ID=M744_14040
+plasmid2	Custom	gene	17000	17434	.	-	0		product=Rrf2 family transcriptional regulator;locus_tag=M744_14045;ID=M744_14045
+plasmid2	Custom	gene	17536	18081	.	+	0		product=hypothetical protein;locus_tag=M744_14050;ID=M744_14050
+plasmid2	Custom	gene	18331	18687	.	-	0		product=ferredoxin;locus_tag=M744_14055;ID=M744_14055
+plasmid2	Custom	gene	18782	18964	.	+	0		product=hypothetical protein;locus_tag=M744_14060;ID=M744_14060
+plasmid2	Custom	gene	19146	20135	.	+	0		product=cysteine synthase;locus_tag=M744_14065;ID=M744_14065
+plasmid2	Custom	gene	20132	21091	.	+	0		product=serine acetyltransferase;locus_tag=M744_14070;ID=M744_14070
+plasmid2	Custom	gene	21177	22106	.	+	0		product=membrane protein;locus_tag=M744_14075;ID=M744_14075
+plasmid2	Custom	gene	22371	24221	.	+	0		product=cysteine desulfurase;locus_tag=M744_14080;ID=M744_14080
+plasmid2	Custom	gene	24311	24661	.	+	0		product=sulfurtransferase;locus_tag=M744_14085;ID=M744_14085
+plasmid2	Custom	gene	24658	25041	.	-	0		product=DNA-binding protein;locus_tag=M744_14090;ID=M744_14090
+plasmid2	Custom	gene	25052	25318	.	-	0		product=hypothetical protein;locus_tag=M744_14095;ID=M744_14095
+plasmid2	Custom	gene	25452	26063	.	+	0		product=hypothetical protein;locus_tag=M744_14100;ID=M744_14100
+plasmid2	Custom	gene	26060	26884	.	+	0		product=chromosome partitioning protein ParB;locus_tag=M744_14105;ID=M744_14105
+plasmid2	Custom	gene	26987	27316	.	+	0		product=hypothetical protein;locus_tag=M744_14110;ID=M744_14110
+plasmid2	Custom	gene	27360	27575	.	+	0		product=hypothetical protein;locus_tag=M744_14115;ID=M744_14115
+plasmid2	Custom	gene	27566	27916	.	+	0		product=PemK family protein;locus_tag=M744_14120;ID=M744_14120
+plasmid2	Custom	gene	28006	28968	.	+	0		product=integrase;locus_tag=M744_14125;ID=M744_14125
+plasmid2	Custom	gene	28998	29240	.	-	0		product=hypothetical protein;locus_tag=M744_14130;ID=M744_14130
+plasmid2	Custom	gene	29495	29722	.	-	0		product=hypothetical protein;locus_tag=M744_14135;ID=M744_14135
+plasmid2	Custom	gene	29859	30449	.	-	0		product=hypothetical protein;locus_tag=M744_14140;ID=M744_14140
+plasmid2	Custom	gene	30613	31095	.	-	0		product=hypothetical protein;locus_tag=M744_14145;ID=M744_14145
+plasmid2	Custom	gene	31318	31992	.	+	0		product=chemotaxis protein CheY;locus_tag=M744_14150;ID=M744_14150
+plasmid2	Custom	gene	31961	33277	.	+	0		product=histidine kinase;locus_tag=M744_14155;ID=M744_14155
+plasmid2	Custom	gene	34519	35226	.	-	0		product=transcriptional regulator;locus_tag=M744_14165;ID=M744_14165
+plasmid2	Custom	gene	35310	36044	.	+	0		product=glutamine amidotransferase;locus_tag=M744_14170;ID=M744_14170
+plasmid2	Custom	gene	36272	37246	.	+	0		product=alcohol dehydrogenase;locus_tag=M744_14175;ID=M744_14175
+plasmid2	Custom	gene	37670	38101	.	+	0		product=hypothetical protein;locus_tag=M744_14185;ID=M744_14185
+plasmid2	Custom	gene	38616	38945	.	-	0		product=hypothetical protein;locus_tag=M744_14190;ID=M744_14190
+plasmid2	Custom	gene	38911	39204	.	-	0		product=hypothetical protein;locus_tag=M744_14195;ID=M744_14195
+plasmid2	Custom	gene	39753	39980	.	+	0		product=hypothetical protein;locus_tag=M744_14205;ID=M744_14205
+plasmid2	Custom	gene	41050	41649	.	-	0		product=hypothetical protein;locus_tag=M744_14210;ID=M744_14210
+plasmid2	Custom	gene	42382	43806	.	+	0		product=hypothetical protein;locus_tag=M744_14215;ID=M744_14215
+plasmid2	Custom	gene	44382	44597	.	+	0		product=hypothetical protein;locus_tag=M744_14220;ID=M744_14220
+plasmid2	Custom	gene	44853	45767	.	+	0		product=hypothetical protein;locus_tag=M744_14225;ID=M744_14225
 Chromosome	Custom	gene	32	799	.	+	0		product=3',5'-cyclic-nucleotide phosphodiesterase;locus_tag=M744_00005;ID=M744_00005
 Chromosome	Custom	gene	950	2170	.	+	0		product=serine protease;locus_tag=M744_00010;ID=M744_00010
 Chromosome	Custom	gene	2259	2984	.	+	0		product=ribose 5-phosphate isomerase;locus_tag=M744_00015;ID=M744_00015
