@@ -7,7 +7,10 @@ Automated [DubSeq](https://github.com/psnovichkov/DubSeq) data analysis.
 
 ## About
 
-`./dubdub.sh -d <results directory> -f <fastq.gz directory> -l <barseq layout table> -L <library> [-U <pre-sequence> -P <pre-sequence position> -D <post-sequence>]` to run pipeline in the _results directory_ using the specified _fastq.gz directory_ barcode sequencing files and _barseq layout table_ on the specified DubSeq _library_. Parameters in brackets are optional and are by default obtained from `config.sh`.
+```
+./dubdub.sh -d <results directory> -f <fastq.gz directory> -l <barseq layout table> -L <library> [-U <pre-sequence> -P <pre-sequence position> -D <post-sequence>]
+```
+to run pipeline in the _results directory_ using the specified _fastq.gz directory_ barcode sequencing files and _barseq layout table_ on the specified DubSeq _library_. Parameters in brackets are optional and are by default obtained from `config.sh`. It is not necessary to run the pipeline from within the DubDub directory.
 
 Analysis based on [Mutalik _et al._ (2019), DOI 10.1038/s41467-018-08177-8](https://www.nature.com/articles/s41467-018-08177-8) and [DubSeq version f452baa](https://github.com/psnovichkov/DubSeq/commit/f452baab7d9c9e56150803962dc755a5a39b78fd).
 
@@ -31,24 +34,131 @@ R libraries: tidyverse, ggrepel, scales
 
 ## Installation guide
 
+Run the following in a terminal to download the DubDub pipeline into the directory `dubdub`:
+
 ```
 git clone https://github.com/Asplund-Samuelsson/dubdub
 ```
 
-Installation of the pipeline takes approximately X seconds.
+Installation of the pipeline takes approximately 15 seconds depending on connection speed.
 
 
 ## Demonstration
 
+To run DubDub on a DubSeq dataset, it is necessary to provide gzipped FASTQ (`fastq.gz`) files and a barseq layout table describing the samples, as well as specifying a BagSeq library ("bpag" and GFF files). If different from the defaults configured in `config.sh`, it is also necessary to provide the correct upstream (pre-) and downstream (post-) sequences adjacent to the barcodes, as well as the expected beginning position of the upstream sequence.
+
+This demonstration will show how to run the DubDub pipeline.
+
 ### Commands
 
-`./dubdub.sh -d example/results -f example/data -l example/example_barseq_layout.tab -L example -U CAGCGTACG -P 14 -D AGAGACC`
+First, take a look at the compressed example FASTQ files in `example/data`:
 
-The demonstration example takes 2 minutes and 30 seconds to run on a dual core 1.5 GHz system with 4 GB RAM.
+```
+ls -1 example/data
+```
+
+```
+10_S10_L002_R1_001.fastq.gz
+15_S15_L002_R1_001.fastq.gz
+16_S16_L002_R1_001.fastq.gz
+17_S17_L002_R1_001.fastq.gz
+18_S18_L002_R1_001.fastq.gz
+19_S19_L002_R1_001.fastq.gz
+1_S1_L001_R1_001.fastq.gz
+1_S1_L002_R1_001.fastq.gz
+1_S1_L003_R1_001.fastq.gz
+1_S1_L004_R1_001.fastq.gz
+28_S28_L002_R1_001.fastq.gz
+45_S45_L002_R1_001.fastq.gz
+46_S46_L002_R1_001.fastq.gz
+```
+
+The pipeline assumes that each `fastq.gz` file name contains of four underscore-separated fields before the file extension, as in the output from multiple Illumina sequencing lanes. In the first listed file, those fields are `S10_L002_R1_001`. Everything after the fourth underscore, counting from the end, is assumed to be the sample name (which may include underscores). In the first listed file, the sample name is `10`.
+
+All `fastq.gz` files in the input directory will be concatenated per sample in a new directory when the pipeline is running. This is to allow supplying files that are separated by lanes. An example of multiple lanes for the same sample is seen for sample `1` above. The `fastq.gz` files may be provided in any number per sample and in any sub-directory structure; The pipeline will find them all.
+
+Now take a look at how sample information should be provided in the tab-delimited barseq layout file:
+
+```
+cat example/example_barseq_layout.tab
+```
+
+```
+sample	type	name
+1	stress	Nickel (II) chloride hexahydrate, 1.2mM
+10	LB	LB
+15	stress	Sodium nitrate, 200mM
+16	stress	Sodium nitrate, 300mM
+17	stress	Sisomicin sulfate salt, 0.001mg/ml
+18	stress	Sisomicin sulfate salt, 0.0025mg/ml
+19	stress	Sisomicin sulfate salt, 0.005mg/ml
+28	LB	LB
+45	Time0	Time0
+46	Time0	Time0
+```
+
+The example data is a chimeric dataset with barcodes from one experiment and sub-sampled sequencing data from [Mutalik _et al._ (2019), DOI 10.1038/s41467-018-08177-8](https://www.nature.com/articles/s41467-018-08177-8). The results will not make any biological sense, but similar samples should in general cluster in the PCA that is run automatically by DubDub. `Time0` or `stress` must be provided in the `type` column and denote untreated and treated samples, respectively.
+
+Next, inspect the `example` library provided in DubDub:
+
+```
+ls libraries/example
+```
+
+```
+example.bpag.tab  example.gff
+```
+
+The "BPAG" file `example.bpag.tab` contains BagSeq mappings of barcodes to genomic fragments generated by the DubSeq `bpag.py` script, while the GFF file `example.gff` contains genome annotations. Check how these files should be structured:
+
+```
+head -5 libraries/example/example.*
+```
+
+```
+==> libraries/example/example.bpag.tab <==
+barcode_up	barcode_dn	bpair_count	pos_from	pos_end	region_len	recommended	up_read_count	up_contig_id	up_pos	up_strand	dn_read_count	dn_contig_id	dn_pos	dn_strand
+CTCGGTGTTGCGGGTCCGCC	CCATTGAGATTCGCCTCCGG	2	1166684	1174542	7859	+	53	Chromosome	1166684	+	45	Chromosome	1174542	-
+GAAAGAGCGTGGTGCATTAG	TACCGGCATGGTGTGGGGCG	4	907275	848991	-58283	-	154	Chromosome	848991	-	114	Chromosome	907275	+
+AGGCGATCTTAGGGGCAGAT	GGCGTCTCGGTCCAGTAACC	49	3520019	2169440	-1350578	-	254	Chromosome	3520019	+	238	Chromosome	2169440	-
+GGGCGGGGTATAGACCTGTC	GTGTGAGTGATGGTGCCTAC	16	37586	44706	7121	+	77	Chromosome	37586	+	72	Chromosome	44706	-
+
+==> libraries/example/example.gff <==
+Chromosome	Custom	gene	-200	772	.	+	0	product=prenyltransferase;locus_tag=slr0611;ID=SGL_RS01875
+Chromosome	Custom	gene	811	1494	.	+	0	product=hypothetical protein;locus_tag=slr0612;ID=SGL_RS01880
+Chromosome	Custom	gene	1577	2098	.	+	0	product=hypothetical protein;locus_tag=slr0613;ID=SGL_RS01885
+Chromosome	Custom	gene	2172	2873	.	-	0	product=Ycf53-like protein;locus_tag=sll0558;ID=SGL_RS01890
+Chromosome	Custom	gene	3192	4268	.	-	0	product=magnesium-protoporphyrin IX monomethyl ester;locus_tag=sll1214;ID=SGL_RS01895
+```
+
+Note that the contig ID columns must contain matching IDs, and both the `locus_tag` and `ID` attributes in the ninth GFF column will be used by the pipeline. A new library may be set up manually and called by `dubdub.sh`.
+
+The demonstration example below takes 2 minutes and 30 seconds to run on a dual core 1.5 GHz system with 4 GB RAM. This command will run the DubDub pipeline in the directory `example/results`, which will be created automatically:
+
+```
+./dubdub.sh -d example/results -f example/data -l example/example_barseq_layout.tab -L example -U CAGCGTACG -P 14 -D AGAGACC
+```
+
+Note that non-default upstream and downstream sequences are needed for the example library. A default set of values may be written in the `config.sh` file, allowing the user to skip supplying the `-U`, `-P`, and `-D` flags for each run.
+
 
 ### Expected output
 
-...
+The pipeline will store five files in the specified output directory:
+
+```
+ls -1 example/results
+```
+
+```
+gene_score_PCA.pdf
+gene_scores.tab
+intermediate_data.tar.gz
+layout.tab
+sample_itnum.tab
+```
+
+The `gene_score_PCA.pdf` plots PCA results based on the NNLS gene fitness scores for all samples. The `gene_scores.tab` table contains all fitness scores for each gene in all samples. The `intermediate_data.tar.gz` compressed archive contains intermediate files and may be deleted to save space. The `layout.tab` table is a copy of the supplied barseq layout table, but with 'itnum' IDs instead of sample IDs. The `sample_itnum.tab` table maps 'itnum' IDs to the original sample IDs.
 
 The PCA clustering analysis should look like this:
 ![Example PCA](example/example_PCA.png)
