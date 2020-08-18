@@ -73,6 +73,21 @@ echo -e "\n\e[94mStep $S: Adding IT numbers to layout...\e[0m\n"
 ${DUBDIR}/source/add_itnum_to_layout.R $WORKDIR $LAYOUT
 echo -e "\n\e[92mStep $S: Done.\e[0m\n"
 
+# Perform fscore calculation if deduplicated barcodes are present in library
+DEDUP="`dirname $(realpath $0)`/libraries/${LIBRARY}/${LIBRARY}.dedup.bpag.tab"
+if [ -f "$DEDUP" ]; then
+	echo -e "\n\e[95mDedup detour: Calculating fragment fitness values...\e[0m\n"
+	${DUBDIR}/source/run_fscore.sh ${WORKDIR}/bstat ${WORKDIR}/fscore \
+	$LIBRARY ${WORKDIR}/layout.tab
+	echo -e "\n\e[95mDedup detour: Creating combined fragment score table...\e[0m\n"
+	${DUBDIR}/source/create_fscore_table.R $WORKDIR
+	echo -e "\n\e[95mDedup detour: Adding genes and multi-barcodes...\e[0m\n"
+	${DUBDIR}/source/finalize_fscore_table.R ${WORKDIR}/fragment_scores.tab \
+	${DUBDIR}/libraries/${LIBRARY}/${LIBRARY}.multi.bpag.tab \
+	${DUBDIR}/libraries/${LIBRARY}/${LIBRARY}.gff
+	echo -e "\n\e[93mDedup detour: Done.\e[0m\n"
+fi
+
 # Calculate gene fitness values
 ((S++))
 echo -e "\n\e[94mStep $S: Calculating gene fitness values...\e[0m\n"

@@ -65,19 +65,24 @@ dupl = bpag %>%
 odir = file.path(dubd, "libraries", olib)
 dir.create(odir)
 
-# Save duplicated barcodes to new library in separate file
-write_tsv(
-  filter(bpag, barcode_up %in% dupl),
-  file.path(odir, paste(olib, "multi", "bpag.tab", sep="."))
-)
+# If there are duplicates, save additional BPAG tables
+if (length(dupl) > 0) {
 
-# Save deduplicated barcodes to new library in separate file
-write_tsv(
-  bpag %>%
-    group_by(barcode_up) %>%
-    slice_head(1),
-  file.path(odir, paste(olib, "dedup", "bpag.tab", sep="."))
-)
+  # Save duplicated barcodes to new library in separate file
+  write_tsv(
+    filter(bpag, barcode_up %in% dupl),
+    file.path(odir, paste(olib, "multi", "bpag.tab", sep="."))
+  )
+
+  # Save deduplicated barcodes to new library in separate file
+  write_tsv(
+    bpag %>%
+      group_by(barcode_up) %>%
+      slice_head(1),
+    file.path(odir, paste(olib, "dedup", "bpag.tab", sep="."))
+  )
+
+}
 
 # Save unique barcodes to new library
 write_tsv(
