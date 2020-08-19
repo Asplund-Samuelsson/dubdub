@@ -17,11 +17,11 @@ Analysis based on [Mutalik _et al._ (2019), DOI 10.1038/s41467-018-08177-8](http
 
 ## System requirements
 
-Linux operating system (Tested on Ubuntu 18.04.5 LTS and Ubuntu 20.04.1 LTS)
+Linux operating system (Tested on Ubuntu 18.04.5 LTS, Ubuntu 20.04.1 LTS, and Linux Mint 18)
 
 bash 4.0 (Tested with 4.4.20(1)-release and 5.0.17(1)-release)
 
-Python 3.5.4 (Tested with 3.5.4 and 3.7.6)
+Python 3.5 (Tested with 3.5.2, 3.5.4 and 3.7.6)
 
 R ≥ 3.6.3 (Tested with 3.6.3)
 
@@ -49,7 +49,13 @@ To run DubDub on a DubSeq dataset, it is necessary to provide gzipped FASTQ (`fa
 
 ### Commands
 
-First, take a look at the compressed example FASTQ files in `example/data`:
+Before beginning the demonstration, make sure that the `dubdub` directory is the current working directory in your terminal:
+
+```
+cd dubdub
+```
+
+Now, first take a look at the compressed example FASTQ files in `example/data`:
 
 ```
 ls -1 example/data
