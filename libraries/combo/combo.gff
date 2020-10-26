@@ -1,4 +1,3 @@
-seqname	source	feature	start	end	score	strand	frame	attribute
 Utex_plasmid1	Custom	gene	336	836	.	+	0	product=hypothetical protein;locus_tag=M744_14235;ID=M744_14235
 Utex_plasmid1	Custom	gene	997	1512	.	-	0	product=hypothetical protein;locus_tag=M744_14240;ID=M744_14240
 Utex_plasmid1	Custom	gene	1617	1925	.	-	0	product=hypothetical protein;locus_tag=M744_14245;ID=M744_14245

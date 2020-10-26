@@ -78,7 +78,7 @@ if (length(dupl) > 0) {
   write_tsv(
     bpag %>%
       group_by(barcode_up) %>%
-      slice_head(1),
+      slice_head(n=1),
     file.path(odir, paste(olib, "dedup", "bpag.tab", sep="."))
   )
 
@@ -91,4 +91,4 @@ write_tsv(
 )
 
 # Save combined GFF to new library
-write_tsv(gene, file.path(odir, paste(olib, "gff", sep=".")))
+write_tsv(gene, file.path(odir, paste(olib, "gff", sep=".")), col_names=F)
