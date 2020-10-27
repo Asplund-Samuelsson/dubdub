@@ -49,10 +49,53 @@ gene = bind_rows(lapply(
         attribute = col_character()
       )
     ) %>% mutate(
+      lib = libr,
       seqname = paste(libr, seqname, sep="_")
     )
   }
 ))
+
+# If locus_tag or ID is non-unique, add library name to them
+gdup = gene %>%
+  mutate(
+    locus_tag = str_remove(
+      unlist(lapply(str_split(attribute, ";"), "[[", 2)),
+      "^locus_tag="
+    ),
+    ID = str_remove(
+      unlist(lapply(str_split(attribute, ";"), "[[", 3)),
+      "^ID="
+    ),
+    product = str_remove(
+      unlist(lapply(str_split(attribute, ";"), "[[", 1)),
+      "^product=")
+    )
+
+gdup = gdup %>%
+  group_by(locus_tag) %>%
+  mutate(Count = length(lib)) %>%
+  ungroup() %>%
+  mutate(
+    locus_tag = ifelse(Count > 1, paste(locus_tag, lib, sep="_"), locus_tag)
+  ) %>%
+  group_by(ID) %>%
+  mutate(Count = length(lib)) %>%
+  ungroup() %>%
+  mutate(
+    ID = ifelse(Count > 1, paste(ID, lib, sep="_"), ID)
+  )
+
+# Reconstruct attribute
+gene = gdup %>%
+  mutate(
+    attribute = paste(
+      paste("product=", product, sep=""),
+      paste("locus_tag=", locus_tag, sep=""),
+      paste("ID=", ID, sep=""),
+      sep=";"
+    )
+  ) %>%
+  select(-lib, -locus_tag, -ID, -product, -Count)
 
 # Determine duplicated UP barcodes
 dupl = bpag %>%

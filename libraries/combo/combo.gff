@@ -3054,33 +3054,33 @@ Syn6803_Chromosome	Custom	gene	1577	2098	.	+	0	product=;locus_tag=slr0613;ID=slr
 Syn6803_Chromosome	Custom	gene	2172	2873	.	-	0	product=;locus_tag=sll0558;ID=sll0558
 Syn6803_Chromosome	Custom	gene	3192	4268	.	-	0	product=;locus_tag=sll1214;ID=sll1214
 Syn6803_Chromosome	Custom	gene	4451	5389	.	-	0	product=;locus_tag=sll1213;ID=sll1213
-Syn6803_Chromosome	Custom	gene	5534	6622	.	-	0	product=GDP-D-mannose dehydratase;locus_tag=rfbD;ID=rfbD
+Syn6803_Chromosome	Custom	gene	5534	6622	.	-	0	product=GDP-D-mannose dehydratase;locus_tag=rfbD_Chromosome_5534_6622_-;ID=rfbD_Chromosome_5534_6622_-
 Syn6803_Chromosome	Custom	gene	7229	8311	.	+	0	product=photosystem II D1 protein;locus_tag=psbA2;ID=psbA2
-Syn6803_Chromosome	Custom	gene	8492	10471	.	+	0	product=arginine decarboxylase;locus_tag=speA;ID=speA
-Syn6803_Chromosome	Custom	gene	10622	12631	.	-	0	product=DNA ligase;locus_tag=lig;ID=lig
+Syn6803_Chromosome	Custom	gene	8492	10471	.	+	0	product=arginine decarboxylase;locus_tag=speA_Chromosome_8492_10471_+;ID=speA_Chromosome_8492_10471_+
+Syn6803_Chromosome	Custom	gene	10622	12631	.	-	0	product=DNA ligase;locus_tag=lig_Chromosome_10622_12631_-;ID=lig_Chromosome_10622_12631_-
 Syn6803_Chromosome	Custom	gene	12755	13363	.	+	0	product=;locus_tag=slr1315;ID=slr1315
 Syn6803_Chromosome	Custom	gene	13498	14529	.	+	0	product=iron(III) dicitrate transport system permease protein_ FecC;locus_tag=fecC;ID=fecC
 Syn6803_Chromosome	Custom	gene	14626	15675	.	+	0	product=iron(III) dicitrate transport system permease protein_ FecD;locus_tag=fecD;ID=fecD
 Syn6803_Chromosome	Custom	gene	15937	16743	.	+	0	product=iron(III) dicitrate transport system permease protein_ FecE;locus_tag=fecE;ID=fecE
-Syn6803_Chromosome	Custom	gene	16740	17687	.	+	0	product=iron(III) dicitrate transport system permease protein_ FecB;locus_tag=fecB;ID=fecB
+Syn6803_Chromosome	Custom	gene	16740	17687	.	+	0	product=iron(III) dicitrate transport system permease protein_ FecB;locus_tag=fecB_Chromosome_16740_17687_+;ID=fecB_Chromosome_16740_17687_+
 Syn6803_Chromosome	Custom	gene	17853	20408	.	-	0	product=ferric aerobactin receptor;locus_tag=iutA;ID=iutA
-Syn6803_Chromosome	Custom	gene	20615	21595	.	-	0	product=regulatory protein_ PchR;locus_tag=pchR;ID=pchR
+Syn6803_Chromosome	Custom	gene	20615	21595	.	-	0	product=regulatory protein_ PchR;locus_tag=pchR_Chromosome_20615_21595_-;ID=pchR_Chromosome_20615_21595_-
 Syn6803_Chromosome	Custom	gene	21838	23121	.	-	0	product=;locus_tag=sll1204;ID=sll1204
 Syn6803_Chromosome	Custom	gene	23139	24104	.	-	0	product=;locus_tag=sll1203;ID=sll1203
 Syn6803_Chromosome	Custom	gene	24101	25144	.	-	0	product=;locus_tag=sll1202;ID=sll1202
-Syn6803_Chromosome	Custom	gene	25266	27857	.	-	0	product=ferrichrome-iron receptor;locus_tag=fhuA;ID=fhuA
+Syn6803_Chromosome	Custom	gene	25266	27857	.	-	0	product=ferrichrome-iron receptor;locus_tag=fhuA_Chromosome_25266_27857_-;ID=fhuA_Chromosome_25266_27857_-
 Syn6803_Chromosome	Custom	gene	27990	29030	.	-	0	product=regulatory protein_ PcrR;locus_tag=pcrR;ID=pcrR
 Syn6803_Chromosome	Custom	gene	29098	29895	.	-	0	product=;locus_tag=sll1407;ID=sll1407
-Syn6803_Chromosome	Custom	gene	29968	32454	.	-	0	product=ferrichrome-iron receptor;locus_tag=fhuA;ID=fhuA
+Syn6803_Chromosome	Custom	gene	29968	32454	.	-	0	product=ferrichrome-iron receptor;locus_tag=fhuA_Chromosome_29968_32454_-;ID=fhuA_Chromosome_29968_32454_-
 Syn6803_Chromosome	Custom	gene	32524	32952	.	-	0	product=;locus_tag=sll1405;ID=sll1405
-Syn6803_Chromosome	Custom	gene	32912	33544	.	-	0	product=biopolymer transport ExbB protein;locus_tag=exbB;ID=exbB
+Syn6803_Chromosome	Custom	gene	32912	33544	.	-	0	product=biopolymer transport ExbB protein;locus_tag=exbB_Chromosome_32912_33544_-;ID=exbB_Chromosome_32912_33544_-
 Syn6803_Chromosome	Custom	gene	33891	35489	.	+	0	product=;locus_tag=slr1484;ID=slr1484
 Syn6803_Chromosome	Custom	gene	35566	36615	.	+	0	product=;locus_tag=slr1485;ID=slr1485
 Syn6803_Chromosome	Custom	gene	36721	38538	.	+	0	product=ABC transporter;locus_tag=slr1488;ID=slr1488
-Syn6803_Chromosome	Custom	gene	38644	39636	.	+	0	product=regulatory protein_ PchR;locus_tag=pchR;ID=pchR
-Syn6803_Chromosome	Custom	gene	39802	42363	.	+	0	product=ferrichrome-iron receptor;locus_tag=fhuA;ID=fhuA
-Syn6803_Chromosome	Custom	gene	42405	43397	.	+	0	product=iron(III) dicitrate-binding periplasmic protein;locus_tag=fecB;ID=fecB
-Syn6803_Chromosome	Custom	gene	43571	44506	.	+	0	product=iron(III) dicitrate-binding periplasmic protein;locus_tag=fecB;ID=fecB
+Syn6803_Chromosome	Custom	gene	38644	39636	.	+	0	product=regulatory protein_ PchR;locus_tag=pchR_Chromosome_38644_39636_+;ID=pchR_Chromosome_38644_39636_+
+Syn6803_Chromosome	Custom	gene	39802	42363	.	+	0	product=ferrichrome-iron receptor;locus_tag=fhuA_Chromosome_39802_42363_+;ID=fhuA_Chromosome_39802_42363_+
+Syn6803_Chromosome	Custom	gene	42405	43397	.	+	0	product=iron(III) dicitrate-binding periplasmic protein;locus_tag=fecB_Chromosome_42405_43397_+;ID=fecB_Chromosome_42405_43397_+
+Syn6803_Chromosome	Custom	gene	43571	44506	.	+	0	product=iron(III) dicitrate-binding periplasmic protein;locus_tag=fecB_Chromosome_43571_44506_+;ID=fecB_Chromosome_43571_44506_+
 Syn6803_Chromosome	Custom	gene	44442	44885	.	+	0	product=;locus_tag=slr1493;ID=slr1493
 Syn6803_Chromosome	Custom	gene	44948	46789	.	+	0	product=ABC transporter;locus_tag=slr1494;ID=slr1494
 Syn6803_Chromosome	Custom	gene	47007	48017	.	-	0	product=;locus_tag=sll1401;ID=sll1401
@@ -3092,9 +3092,9 @@ Syn6803_Chromosome	Custom	gene	50246	51895	.	+	0	product=;locus_tag=slr1495;ID=s
 Syn6803_Chromosome	Custom	gene	52260	53108	.	-	0	product=transposase;locus_tag=sll1397;ID=sll1397
 Syn6803_Chromosome	Custom	gene	53453	54127	.	-	0	product=;locus_tag=sll1396;ID=sll1396
 Syn6803_Chromosome	Custom	gene	54533	55657	.	+	0	product=hydrogenase isoenzymes formation protein_ HypD;locus_tag=hypD;ID=hypD
-Syn6803_Chromosome	Custom	gene	55669	56511	.	-	0	product=dTDP-6-deoxy-L-mannose-dehydrogenase;locus_tag=rfbD;ID=rfbD
-Syn6803_Chromosome	Custom	gene	56556	57224	.	-	0	product=peptide methionine sulfoxide reductase;locus_tag=msrA;ID=msrA
-Syn6803_Chromosome	Custom	gene	57340	58815	.	-	0	product=glycogen (starch) synthase;locus_tag=glgA;ID=glgA
+Syn6803_Chromosome	Custom	gene	55669	56511	.	-	0	product=dTDP-6-deoxy-L-mannose-dehydrogenase;locus_tag=rfbD_Chromosome_55669_56511_-;ID=rfbD_Chromosome_55669_56511_-
+Syn6803_Chromosome	Custom	gene	56556	57224	.	-	0	product=peptide methionine sulfoxide reductase;locus_tag=msrA_Chromosome_56556_57224_-;ID=msrA_Chromosome_56556_57224_-
+Syn6803_Chromosome	Custom	gene	57340	58815	.	-	0	product=glycogen (starch) synthase;locus_tag=glgA_Chromosome_57340_58815_-;ID=glgA_Chromosome_57340_58815_-
 Syn6803_Chromosome	Custom	gene	59039	59650	.	-	0	product=;locus_tag=sll1392;ID=sll1392
 Syn6803_Chromosome	Custom	gene	59746	60423	.	+	0	product=;locus_tag=slr1501;ID=slr1501
 Syn6803_Chromosome	Custom	gene	60524	61522	.	+	0	product=ABC transporter;locus_tag=slr1113;ID=slr1113
@@ -3103,7 +3103,7 @@ Syn6803_Chromosome	Custom	gene	63588	64361	.	+	0	product=;locus_tag=slr1115;ID=s
 Syn6803_Chromosome	Custom	gene	64393	64914	.	+	0	product=;locus_tag=slr1116;ID=slr1116
 Syn6803_Chromosome	Custom	gene	64987	65748	.	+	0	product=;locus_tag=slr1117;ID=slr1117
 Syn6803_Chromosome	Custom	gene	65827	67533	.	-	0	product=;locus_tag=sll1064;ID=sll1064
-Syn6803_Chromosome	Custom	gene	67606	68361	.	+	0	product=UDP-N-acetyl-D-mannosaminuronic acid transferase;locus_tag=rffM;ID=rffM
+Syn6803_Chromosome	Custom	gene	67606	68361	.	+	0	product=UDP-N-acetyl-D-mannosaminuronic acid transferase;locus_tag=rffM_Chromosome_67606_68361_+;ID=rffM_Chromosome_67606_68361_+
 Syn6803_Chromosome	Custom	gene	68400	69059	.	-	0	product=;locus_tag=sll1063;ID=sll1063
 Syn6803_Chromosome	Custom	gene	69284	69985	.	+	0	product=;locus_tag=slr1119;ID=slr1119
 Syn6803_Chromosome	Custom	gene	70016	70393	.	-	0	product=;locus_tag=sll1062;ID=sll1062
@@ -3112,10 +3112,10 @@ Syn6803_Chromosome	Custom	gene	70944	74042	.	-	0	product=;locus_tag=sll1060;ID=s
 Syn6803_Chromosome	Custom	gene	73978	74229	.	-	0	product=;locus_tag=ssl2069;ID=ssl2069
 Syn6803_Chromosome	Custom	gene	74498	74785	.	+	0	product=;locus_tag=ssr1853;ID=ssr1853
 Syn6803_Chromosome	Custom	gene	74995	75804	.	+	0	product=type 4 prepilin peptidase;locus_tag=hofD;ID=hofD
-Syn6803_Chromosome	Custom	gene	75955	76500	.	-	0	product=adenylate kinase;locus_tag=adk;ID=adk
+Syn6803_Chromosome	Custom	gene	75955	76500	.	-	0	product=adenylate kinase;locus_tag=adk_Chromosome_75955_76500_-;ID=adk_Chromosome_75955_76500_-
 Syn6803_Chromosome	Custom	gene	76580	77407	.	-	0	product=dihydrodipicolinate reductase;locus_tag=dapB;ID=dapB
 Syn6803_Chromosome	Custom	gene	77494	77874	.	-	0	product=thioredoxin M;locus_tag=trx;ID=trx
-Syn6803_Chromosome	Custom	gene	78467	80800	.	-	0	product=phosphoribosylformyl glycinamidine synthetase II;locus_tag=purL;ID=purL
+Syn6803_Chromosome	Custom	gene	78467	80800	.	-	0	product=phosphoribosylformyl glycinamidine synthetase II;locus_tag=purL_Chromosome_78467_80800_-;ID=purL_Chromosome_78467_80800_-
 Syn6803_Chromosome	Custom	gene	80938	81690	.	+	0	product=;locus_tag=slr1122;ID=slr1122
 Syn6803_Chromosome	Custom	gene	81696	82259	.	-	0	product=;locus_tag=sll1054;ID=sll1054
 Syn6803_Chromosome	Custom	gene	82291	83853	.	-	0	product=;locus_tag=sll1053;ID=sll1053
@@ -3131,7 +3131,7 @@ Syn6803_Chromosome	Custom	gene	93128	95152	.	+	0	product=ribonuclease E;locus_ta
 Syn6803_Chromosome	Custom	gene	95236	95808	.	+	0	product=ribonuclease HII;locus_tag=rhnB;ID=rhnB
 Syn6803_Chromosome	Custom	gene	95818	96228	.	-	0	product=mutator MutT protein;locus_tag=mutT;ID=mutT
 Syn6803_Chromosome	Custom	gene	96325	98481	.	-	0	product=polyribonucleotide nucleotidyltransferase;locus_tag=pnp;ID=pnp
-Syn6803_Chromosome	Custom	gene	98609	99199	.	-	0	product=leader peptidase I;locus_tag=lepB;ID=lepB
+Syn6803_Chromosome	Custom	gene	98609	99199	.	-	0	product=leader peptidase I;locus_tag=lepB_Chromosome_98609_99199_-;ID=lepB_Chromosome_98609_99199_-
 Syn6803_Chromosome	Custom	gene	99402	100793	.	+	0	product=malic enzyme;locus_tag=me;ID=me
 Syn6803_Chromosome	Custom	gene	100794	101771	.	-	0	product=cysteine synthase;locus_tag=cysM;ID=cysM
 Syn6803_Chromosome	Custom	gene	101884	102831	.	-	0	product=;locus_tag=sll0711;ID=sll0711
@@ -3147,7 +3147,7 @@ Syn6803_Chromosome	Custom	gene	113025	114188	.	+	0	product=;locus_tag=slr0728;ID
 Syn6803_Chromosome	Custom	gene	114319	114624	.	+	0	product=;locus_tag=slr0729;ID=slr0729
 Syn6803_Chromosome	Custom	gene	114874	115272	.	+	0	product=;locus_tag=slr0730;ID=slr0730
 Syn6803_Chromosome	Custom	gene	115269	116477	.	+	0	product=;locus_tag=slr0731;ID=slr0731
-Syn6803_Chromosome	Custom	gene	116518	117693	.	-	0	product=NifS protein;locus_tag=nifS;ID=nifS
+Syn6803_Chromosome	Custom	gene	116518	117693	.	-	0	product=NifS protein;locus_tag=nifS_Chromosome_116518_117693_-;ID=nifS_Chromosome_116518_117693_-
 Syn6803_Chromosome	Custom	gene	117869	118336	.	+	0	product=;locus_tag=slr0732;ID=slr0732
 Syn6803_Chromosome	Custom	gene	118333	119532	.	-	0	product=;locus_tag=sll0703;ID=sll0703
 Syn6803_Chromosome	Custom	gene	119570	119962	.	-	0	product=;locus_tag=sll0702;ID=sll0702
@@ -3158,7 +3158,7 @@ Syn6803_Chromosome	Custom	gene	123501	123995	.	-	0	product=transposase;locus_tag
 Syn6803_Chromosome	Custom	gene	123989	124348	.	-	0	product=transposase;locus_tag=sll0699;ID=sll0699
 Syn6803_Chromosome	Custom	gene	124452	126443	.	-	0	product=drug sensory protein A;locus_tag=dfr;ID=dfr
 Syn6803_Chromosome	Custom	gene	126639	127064	.	+	0	product=photosystem I subunit II;locus_tag=psaD;ID=psaD
-Syn6803_Chromosome	Custom	gene	127186	128712	.	+	0	product=anthranilate synthetase alpha-subunit;locus_tag=trpE;ID=trpE
+Syn6803_Chromosome	Custom	gene	127186	128712	.	+	0	product=anthranilate synthetase alpha-subunit;locus_tag=trpE_Chromosome_127186_128712_+;ID=trpE_Chromosome_127186_128712_+
 Syn6803_Chromosome	Custom	gene	128802	129710	.	+	0	product=geranylgeranyl pyrophosphate synthase;locus_tag=crtE;ID=crtE
 Syn6803_Chromosome	Custom	gene	129791	130186	.	+	0	product=;locus_tag=slr0740;ID=slr0740
 Syn6803_Chromosome	Custom	gene	130167	131039	.	-	0	product=;locus_tag=sll0696;ID=sll0696
@@ -3167,13 +3167,13 @@ Syn6803_Chromosome	Custom	gene	131877	132407	.	+	0	product=;locus_tag=slr0742;ID
 Syn6803_Chromosome	Custom	gene	132483	133859	.	+	0	product=N utilization substance protein;locus_tag=nusA;ID=nusA
 Syn6803_Chromosome	Custom	gene	134437	137442	.	+	0	product=initiation factor IF-2;locus_tag=infB;ID=infB
 Syn6803_Chromosome	Custom	gene	137444	138112	.	+	0	product=;locus_tag=slr0236;ID=slr0236
-Syn6803_Chromosome	Custom	gene	138295	140535	.	+	0	product=glycogen operon protein_ GlgX;locus_tag=glgX;ID=glgX
+Syn6803_Chromosome	Custom	gene	138295	140535	.	+	0	product=glycogen operon protein_ GlgX;locus_tag=glgX_Chromosome_138295_140535_+;ID=glgX_Chromosome_138295_140535_+
 Syn6803_Chromosome	Custom	gene	140585	141007	.	+	0	product=;locus_tag=slr0238;ID=slr0238
 Syn6803_Chromosome	Custom	gene	141123	141416	.	-	0	product=transposase;locus_tag=ssl0426;ID=ssl0426
 Syn6803_Chromosome	Custom	gene	141648	142442	.	+	0	product=precorrin methylase;locus_tag=cbiF;ID=cbiF
 Syn6803_Chromosome	Custom	gene	142559	142981	.	+	0	product=;locus_tag=slr0240;ID=slr0240
 Syn6803_Chromosome	Custom	gene	142981	143826	.	+	0	product=;locus_tag=slr0241;ID=slr0241
-Syn6803_Chromosome	Custom	gene	144061	144543	.	+	0	product=bacterioferritin comigratory protein;locus_tag=bcp;ID=bcp
+Syn6803_Chromosome	Custom	gene	144061	144543	.	+	0	product=bacterioferritin comigratory protein;locus_tag=bcp_Chromosome_144061_144543_+;ID=bcp_Chromosome_144061_144543_+
 Syn6803_Chromosome	Custom	gene	144554	145081	.	+	0	product=;locus_tag=slr0243;ID=slr0243
 Syn6803_Chromosome	Custom	gene	145164	145529	.	-	0	product=;locus_tag=sll0230;ID=sll0230
 Syn6803_Chromosome	Custom	gene	145761	146615	.	+	0	product=;locus_tag=slr0244;ID=slr0244
@@ -3188,14 +3188,14 @@ Syn6803_Chromosome	Custom	gene	153622	153996	.	+	0	product=;locus_tag=slr0249;ID
 Syn6803_Chromosome	Custom	gene	154143	154679	.	+	0	product=;locus_tag=slr0250;ID=slr0250
 Syn6803_Chromosome	Custom	gene	154703	155461	.	+	0	product=ABC transporter;locus_tag=slr0251;ID=slr0251
 Syn6803_Chromosome	Custom	gene	155473	156258	.	+	0	product=;locus_tag=slr0252;ID=slr0252
-Syn6803_Chromosome	Custom	gene	156391	156651	.	+	0	product=photosystem I subunit X;locus_tag=psaK;ID=psaK
+Syn6803_Chromosome	Custom	gene	156391	156651	.	+	0	product=photosystem I subunit X;locus_tag=psaK_Chromosome_156391_156651_+;ID=psaK_Chromosome_156391_156651_+
 Syn6803_Chromosome	Custom	gene	156741	157013	.	-	0	product=;locus_tag=ssl0410;ID=ssl0410
 Syn6803_Chromosome	Custom	gene	157050	158615	.	-	0	product=NADH dehydrogenase subunit 2;locus_tag=ndhB;ID=ndhB
 Syn6803_Chromosome	Custom	gene	158757	159737	.	-	0	product=alkaline phosphatase;locus_tag=phoA;ID=phoA
 Syn6803_Chromosome	Custom	gene	159812	159961	.	-	0	product=;locus_tag=sgl0002;ID=sgl0002
 Syn6803_Chromosome	Custom	gene	160004	160093	.	-	0	product=;locus_tag=ycf6;ID=ycf6
 Syn6803_Chromosome	Custom	gene	160258	161058	.	+	0	product=;locus_tag=slr0254;ID=slr0254
-Syn6803_Chromosome	Custom	gene	161088	161642	.	-	0	product=bacterioferritin comigratory protein;locus_tag=bcp;ID=bcp
+Syn6803_Chromosome	Custom	gene	161088	161642	.	-	0	product=bacterioferritin comigratory protein;locus_tag=bcp_Chromosome_161088_161642_-;ID=bcp_Chromosome_161088_161642_-
 Syn6803_Chromosome	Custom	gene	161768	163663	.	-	0	product=L-glutamine:D-fructose-6-P amidotransferase;locus_tag=glmS;ID=glmS
 Syn6803_Chromosome	Custom	gene	164037	165821	.	-	0	product=potential FMN-protein;locus_tag=sll0219;ID=sll0219
 Syn6803_Chromosome	Custom	gene	165871	166389	.	-	0	product=;locus_tag=sll0218;ID=sll0218
@@ -3233,7 +3233,7 @@ Syn6803_Chromosome	Custom	gene	197231	197557	.	+	0	product=;locus_tag=slr1101;ID
 Syn6803_Chromosome	Custom	gene	197624	200185	.	+	0	product=;locus_tag=slr1102;ID=slr1102
 Syn6803_Chromosome	Custom	gene	200405	202525	.	+	0	product=;locus_tag=slr1103;ID=slr1103
 Syn6803_Chromosome	Custom	gene	202554	204395	.	+	0	product=;locus_tag=slr1104;ID=slr1104
-Syn6803_Chromosome	Custom	gene	204604	206397	.	+	0	product=elongation factor EF-G;locus_tag=fus;ID=fus
+Syn6803_Chromosome	Custom	gene	204604	206397	.	+	0	product=elongation factor EF-G;locus_tag=fus_Chromosome_204604_206397_+;ID=fus_Chromosome_204604_206397_+
 Syn6803_Chromosome	Custom	gene	206863	208338	.	-	0	product=;locus_tag=sll1037;ID=sll1037
 Syn6803_Chromosome	Custom	gene	208549	209427	.	-	0	product=;locus_tag=sll1036;ID=sll1036
 Syn6803_Chromosome	Custom	gene	209527	209826	.	-	0	product=;locus_tag=ssl2009;ID=ssl2009
@@ -3244,8 +3244,8 @@ Syn6803_Chromosome	Custom	gene	213031	215037	.	-	0	product=;locus_tag=sll1033;ID
 Syn6803_Chromosome	Custom	gene	215504	216229	.	-	0	product=;locus_tag=ccmN;ID=ccmN
 Syn6803_Chromosome	Custom	gene	216264	218327	.	-	0	product=carbon dioxide concentrating mechanism protein_ CcmM;locus_tag=ccmM;ID=ccmM
 Syn6803_Chromosome	Custom	gene	218407	218709	.	-	0	product=carbon dioxide concentrating mechanism protein_ CcmL;locus_tag=ccmL;ID=ccmL
-Syn6803_Chromosome	Custom	gene	218742	219077	.	-	0	product=carbon dioxide concentrating mechanism protein_ CcmK;locus_tag=ccmK;ID=ccmK
-Syn6803_Chromosome	Custom	gene	219206	219517	.	-	0	product=carbon dioxide concentrating mechanism protein_ CcmK;locus_tag=ccmK;ID=ccmK
+Syn6803_Chromosome	Custom	gene	218742	219077	.	-	0	product=carbon dioxide concentrating mechanism protein_ CcmK;locus_tag=ccmK_Chromosome_218742_219077_-;ID=ccmK_Chromosome_218742_219077_-
+Syn6803_Chromosome	Custom	gene	219206	219517	.	-	0	product=carbon dioxide concentrating mechanism protein_ CcmK;locus_tag=ccmK_Chromosome_219206_219517_-;ID=ccmK_Chromosome_219206_219517_-
 Syn6803_Chromosome	Custom	gene	219979	221463	.	-	0	product=NADH-glutamate synthase small subunit;locus_tag=gltD;ID=gltD
 Syn6803_Chromosome	Custom	gene	221742	223067	.	+	0	product=erythroid ankyrin;locus_tag=ank;ID=ank
 Syn6803_Chromosome	Custom	gene	223018	223596	.	+	0	product=;locus_tag=slr1110;ID=slr1110
@@ -3284,16 +3284,16 @@ Syn6803_Chromosome	Custom	gene	259702	260271	.	-	0	product=shikimate kinase;locu
 Syn6803_Chromosome	Custom	gene	260463	261638	.	+	0	product=transaldolase;locus_tag=talB;ID=talB
 Syn6803_Chromosome	Custom	gene	261863	262060	.	+	0	product=;locus_tag=ssr2998;ID=ssr2998
 Syn6803_Chromosome	Custom	gene	262177	263265	.	+	0	product=;locus_tag=slr1794;ID=slr1794
-Syn6803_Chromosome	Custom	gene	263321	263965	.	+	0	product=peptide methionine sulfoxide reductase;locus_tag=msrA;ID=msrA
+Syn6803_Chromosome	Custom	gene	263321	263965	.	+	0	product=peptide methionine sulfoxide reductase;locus_tag=msrA_Chromosome_263321_263965_+;ID=msrA_Chromosome_263321_263965_+
 Syn6803_Chromosome	Custom	gene	264190	264477	.	+	0	product=;locus_tag=ssr3000;ID=ssr3000
 Syn6803_Chromosome	Custom	gene	264516	265316	.	-	0	product=mitochondrial outer membrane 72K protein;locus_tag=mom72;ID=mom72
-Syn6803_Chromosome	Custom	gene	265414	265938	.	-	0	product=DnaJ protein;locus_tag=dnaJ;ID=dnaJ
+Syn6803_Chromosome	Custom	gene	265414	265938	.	-	0	product=DnaJ protein;locus_tag=dnaJ_Chromosome_265414_265938_-;ID=dnaJ_Chromosome_265414_265938_-
 Syn6803_Chromosome	Custom	gene	265995	266600	.	+	0	product=;locus_tag=slr1796;ID=slr1796
 Syn6803_Chromosome	Custom	gene	266702	268471	.	-	0	product=;locus_tag=sll1665;ID=sll1665
 Syn6803_Chromosome	Custom	gene	268789	269727	.	-	0	product=;locus_tag=sll1664;ID=sll1664
 Syn6803_Chromosome	Custom	gene	269773	270435	.	-	0	product=;locus_tag=sll1663;ID=sll1663
 Syn6803_Chromosome	Custom	gene	270476	271369	.	-	0	product=chorismate mutase /prephenate dehydratase;locus_tag=pheA;ID=pheA
-Syn6803_Chromosome	Custom	gene	271600	273357	.	+	0	product=PleD gene product;locus_tag=pleD;ID=pleD
+Syn6803_Chromosome	Custom	gene	271600	273357	.	+	0	product=PleD gene product;locus_tag=pleD_Chromosome_271600_273357_+;ID=pleD_Chromosome_271600_273357_+
 Syn6803_Chromosome	Custom	gene	273802	274386	.	-	0	product=;locus_tag=sll1660;ID=sll1660
 Syn6803_Chromosome	Custom	gene	274502	275680	.	-	0	product=;locus_tag=sll1659;ID=sll1659
 Syn6803_Chromosome	Custom	gene	275807	276283	.	-	0	product=;locus_tag=sll1658;ID=sll1658
@@ -3314,7 +3314,7 @@ Syn6803_Chromosome	Custom	gene	290902	291174	.	+	0	product=;locus_tag=ycf19;ID=y
 Syn6803_Chromosome	Custom	gene	291626	292708	.	+	0	product=iron transport protein;locus_tag=sufA;ID=sufA
 Syn6803_Chromosome	Custom	gene	292790	293485	.	-	0	product=tRNA (m1G37) methyltransferase;locus_tag=trmD;ID=trmD
 Syn6803_Chromosome	Custom	gene	293496	293669	.	-	0	product=;locus_tag=ssl2384;ID=ssl2384
-Syn6803_Chromosome	Custom	gene	293878	294963	.	-	0	product=phosphofructokinase;locus_tag=pfkA;ID=pfkA
+Syn6803_Chromosome	Custom	gene	293878	294963	.	-	0	product=phosphofructokinase;locus_tag=pfkA_Chromosome_293878_294963_-;ID=pfkA_Chromosome_293878_294963_-
 Syn6803_Chromosome	Custom	gene	295076	297343	.	+	0	product=;locus_tag=slr1298;ID=slr1298
 Syn6803_Chromosome	Custom	gene	297493	297888	.	-	0	product=photosystem II 12 kD extrinsic protein;locus_tag=psbU;ID=psbU
 Syn6803_Chromosome	Custom	gene	298083	298580	.	-	0	product=;locus_tag=sll1193;ID=sll1193
@@ -3369,10 +3369,10 @@ Syn6803_Chromosome	Custom	gene	349468	350298	.	+	0	product=ABC transporter;locus
 Syn6803_Chromosome	Custom	gene	350509	350916	.	+	0	product=;locus_tag=slr0978;ID=slr0978
 Syn6803_Chromosome	Custom	gene	351036	351467	.	+	0	product=;locus_tag=slr0980;ID=slr0980
 Syn6803_Chromosome	Custom	gene	351538	352101	.	+	0	product=;locus_tag=slr0981;ID=slr0981
-Syn6803_Chromosome	Custom	gene	352263	353555	.	+	0	product=ABC transporter;locus_tag=rfbB;ID=rfbB
+Syn6803_Chromosome	Custom	gene	352263	353555	.	+	0	product=ABC transporter;locus_tag=rfbB_Chromosome_352263_353555_+;ID=rfbB_Chromosome_352263_353555_+
 Syn6803_Chromosome	Custom	gene	353552	354322	.	+	0	product=alpha-D-glucose-1-phosphate cytidylyltransferase;locus_tag=rfbF;ID=rfbF
 Syn6803_Chromosome	Custom	gene	354323	355405	.	+	0	product=CDP-glucose-4,6-dehydratase;locus_tag=rfbG;ID=rfbG
-Syn6803_Chromosome	Custom	gene	355424	355993	.	+	0	product=dTDP-6-deoxy-L-mannose-dehydrogenase;locus_tag=rfbC;ID=rfbC
+Syn6803_Chromosome	Custom	gene	355424	355993	.	+	0	product=dTDP-6-deoxy-L-mannose-dehydrogenase;locus_tag=rfbC_Chromosome_355424_355993_+;ID=rfbC_Chromosome_355424_355993_+
 Syn6803_Chromosome	Custom	gene	355909	357210	.	+	0	product=;locus_tag=slr1610;ID=slr1610
 Syn6803_Chromosome	Custom	gene	357245	357697	.	+	0	product=;locus_tag=slr1611;ID=slr1611
 Syn6803_Chromosome	Custom	gene	357748	358608	.	+	0	product=;locus_tag=slr1612;ID=slr1612
@@ -3388,7 +3388,7 @@ Syn6803_Chromosome	Custom	gene	365716	367785	.	+	0	product=;locus_tag=slr1063;ID
 Syn6803_Chromosome	Custom	gene	367807	368910	.	+	0	product=mannosyltransferase B;locus_tag=rfbU;ID=rfbU
 Syn6803_Chromosome	Custom	gene	369149	370219	.	+	0	product=;locus_tag=slr1065;ID=slr1065
 Syn6803_Chromosome	Custom	gene	370285	371490	.	+	0	product=;locus_tag=slr1066;ID=slr1066
-Syn6803_Chromosome	Custom	gene	371487	372509	.	+	0	product=UDP-glucose-4-epimerase;locus_tag=galE;ID=galE
+Syn6803_Chromosome	Custom	gene	371487	372509	.	+	0	product=UDP-glucose-4-epimerase;locus_tag=galE_Chromosome_371487_372509_+;ID=galE_Chromosome_371487_372509_+
 Syn6803_Chromosome	Custom	gene	372811	373167	.	+	0	product=;locus_tag=slr1068;ID=slr1068
 Syn6803_Chromosome	Custom	gene	373231	373644	.	+	0	product=;locus_tag=slr1069;ID=slr1069
 Syn6803_Chromosome	Custom	gene	373654	374511	.	+	0	product=;locus_tag=slr1070;ID=slr1070
@@ -3401,7 +3401,7 @@ Syn6803_Chromosome	Custom	gene	380030	381175	.	+	0	product=;locus_tag=slr1076;ID
 Syn6803_Chromosome	Custom	gene	381177	382337	.	+	0	product=;locus_tag=slr1077;ID=slr1077
 Syn6803_Chromosome	Custom	gene	382392	382646	.	+	0	product=;locus_tag=ssr1765;ID=ssr1765
 Syn6803_Chromosome	Custom	gene	382643	382873	.	+	0	product=;locus_tag=ssr1766;ID=ssr1766
-Syn6803_Chromosome	Custom	gene	382949	383266	.	+	0	product=UDP-glucose-4-epimerase;locus_tag=galE;ID=galE
+Syn6803_Chromosome	Custom	gene	382949	383266	.	+	0	product=UDP-glucose-4-epimerase;locus_tag=galE_Chromosome_382949_383266_+;ID=galE_Chromosome_382949_383266_+
 Syn6803_Chromosome	Custom	gene	383300	383794	.	+	0	product=;locus_tag=slr1079;ID=slr1079
 Syn6803_Chromosome	Custom	gene	384050	384247	.	+	0	product=;locus_tag=ssr1768;ID=ssr1768
 Syn6803_Chromosome	Custom	gene	384343	384975	.	+	0	product=;locus_tag=slr1081;ID=slr1081
@@ -3418,32 +3418,32 @@ Syn6803_Chromosome	Custom	gene	393121	393849	.	-	0	product=;locus_tag=sll1022;ID
 Syn6803_Chromosome	Custom	gene	393996	396017	.	-	0	product=;locus_tag=sll1021;ID=sll1021
 Syn6803_Chromosome	Custom	gene	396057	396941	.	-	0	product=;locus_tag=sll1020;ID=sll1020
 Syn6803_Chromosome	Custom	gene	397037	398143	.	+	0	product=GTP-binding protein;locus_tag=slr1090;ID=slr1090
-Syn6803_Chromosome	Custom	gene	398188	398361	.	+	0	product=high light inducible protein;locus_tag=hliA;ID=hliA
+Syn6803_Chromosome	Custom	gene	398188	398361	.	+	0	product=high light inducible protein;locus_tag=hliA_Chromosome_398188_398361_+;ID=hliA_Chromosome_398188_398361_+
 Syn6803_Chromosome	Custom	gene	398441	399214	.	-	0	product=glyoxalase II;locus_tag=HAGH1;ID=HAGH1
-Syn6803_Chromosome	Custom	gene	399275	400600	.	-	0	product=dihydroorotase;locus_tag=pyrC;ID=pyrC
+Syn6803_Chromosome	Custom	gene	399275	400600	.	-	0	product=dihydroorotase;locus_tag=pyrC_Chromosome_399275_400600_-;ID=pyrC_Chromosome_399275_400600_-
 Syn6803_Chromosome	Custom	gene	400720	402048	.	-	0	product=ammonium/methylammonium permease;locus_tag=amt2;ID=amt2
 Syn6803_Chromosome	Custom	gene	402290	403432	.	+	0	product=hybrid sensory kinase;locus_tag=slr1400;ID=slr1400
 Syn6803_Chromosome	Custom	gene	403552	404427	.	+	0	product=;locus_tag=slr0670;ID=slr0670
 Syn6803_Chromosome	Custom	gene	404545	410184	.	-	0	product=extracellular nuclease;locus_tag=nucH;ID=nucH
 Syn6803_Chromosome	Custom	gene	410315	414544	.	-	0	product=alkaline phosphatase;locus_tag=sll0654;ID=sll0654
 Syn6803_Chromosome	Custom	gene	414871	415404	.	+	0	product=adenylylsulfate 3'-phosphotransferase;locus_tag=cysC;ID=cysC
-Syn6803_Chromosome	Custom	gene	415562	416245	.	+	0	product=biopolymer transport ExbB protein;locus_tag=exbB;ID=exbB
+Syn6803_Chromosome	Custom	gene	415562	416245	.	+	0	product=biopolymer transport ExbB protein;locus_tag=exbB_Chromosome_415562_416245_+;ID=exbB_Chromosome_415562_416245_+
 Syn6803_Chromosome	Custom	gene	416356	417165	.	+	0	product=;locus_tag=slr0678;ID=slr0678
 Syn6803_Chromosome	Custom	gene	417201	418541	.	+	0	product=Fmu and Fmv protein;locus_tag=fmu/fmv;ID=fmu/fmv
 Syn6803_Chromosome	Custom	gene	418704	419126	.	+	0	product=;locus_tag=slr0680;ID=slr0680
 Syn6803_Chromosome	Custom	gene	418963	420264	.	+	0	product=;locus_tag=slr0681;ID=slr0681
-Syn6803_Chromosome	Custom	gene	420502	421731	.	+	0	product=histidinol dehydrogenase;locus_tag=hisD;ID=hisD
+Syn6803_Chromosome	Custom	gene	420502	421731	.	+	0	product=histidinol dehydrogenase;locus_tag=hisD_Chromosome_420502_421731_+;ID=hisD_Chromosome_420502_421731_+
 Syn6803_Chromosome	Custom	gene	421765	422259	.	-	0	product=transposase;locus_tag=sll0651;ID=sll0651
 Syn6803_Chromosome	Custom	gene	422253	422612	.	-	0	product=transposase;locus_tag=sll0650;ID=sll0650
 Syn6803_Chromosome	Custom	gene	422772	423509	.	-	0	product=OmpR subfamily;locus_tag=sll0649;ID=sll0649
 Syn6803_Chromosome	Custom	gene	423490	424566	.	-	0	product=lipophilic protein;locus_tag=lim;ID=lim
 Syn6803_Chromosome	Custom	gene	424694	425464	.	-	0	product=;locus_tag=sll0647;ID=sll0647
-Syn6803_Chromosome	Custom	gene	425468	427738	.	-	0	product=adenylate cyclase;locus_tag=cyaA;ID=cyaA
+Syn6803_Chromosome	Custom	gene	425468	427738	.	-	0	product=adenylate cyclase;locus_tag=cyaA_Chromosome_425468_427738_-;ID=cyaA_Chromosome_425468_427738_-
 Syn6803_Chromosome	Custom	gene	427777	428544	.	-	0	product=;locus_tag=sll0645;ID=sll0645
 Syn6803_Chromosome	Custom	gene	428619	429614	.	-	0	product=esterase;locus_tag=sll0644;ID=sll0644
 Syn6803_Chromosome	Custom	gene	429810	430169	.	+	0	product=;locus_tag=slr0686;ID=slr0686
 Syn6803_Chromosome	Custom	gene	430424	431044	.	-	0	product=urease accessory protein G;locus_tag=ureG;ID=ureG
-Syn6803_Chromosome	Custom	gene	431350	432795	.	+	0	product=PleD gene product;locus_tag=pleD;ID=pleD
+Syn6803_Chromosome	Custom	gene	431350	432795	.	+	0	product=PleD gene product;locus_tag=pleD_Chromosome_431350_432795_+;ID=pleD_Chromosome_431350_432795_+
 Syn6803_Chromosome	Custom	gene	432779	434308	.	-	0	product=;locus_tag=sll0641;ID=sll0641
 Syn6803_Chromosome	Custom	gene	434320	436158	.	-	0	product=sulfur deprivation response regulator;locus_tag=Sac1;ID=Sac1
 Syn6803_Chromosome	Custom	gene	436234	437265	.	+	0	product=;locus_tag=slr0688;ID=slr0688
@@ -3468,7 +3468,7 @@ Syn6803_Chromosome	Custom	gene	459200	460096	.	+	0	product=;locus_tag=slr1597;ID
 Syn6803_Chromosome	Custom	gene	460250	460690	.	-	0	product=16.6 kDa small heat shock protein, molecular chaperon;locus_tag=hsp17;ID=hsp17
 Syn6803_Chromosome	Custom	gene	460956	461960	.	-	0	product=c-type cytochrome synthesis protein;locus_tag=ccsA;ID=ccsA
 Syn6803_Chromosome	Custom	gene	462147	462554	.	-	0	product=;locus_tag=sll1512;ID=sll1512
-Syn6803_Chromosome	Custom	gene	462809	463678	.	+	0	product=lipoic acid synthetase;locus_tag=lipA;ID=lipA
+Syn6803_Chromosome	Custom	gene	462809	463678	.	+	0	product=lipoic acid synthetase;locus_tag=lipA_Chromosome_462809_463678_+;ID=lipA_Chromosome_462809_463678_+
 Syn6803_Chromosome	Custom	gene	463690	464307	.	-	0	product=;locus_tag=sll1511;ID=sll1511
 Syn6803_Chromosome	Custom	gene	464437	465177	.	-	0	product=;locus_tag=sll1510;ID=sll1510
 Syn6803_Chromosome	Custom	gene	465232	465561	.	-	0	product=;locus_tag=ycf20;ID=ycf20
@@ -3479,15 +3479,15 @@ Syn6803_Chromosome	Custom	gene	467436	467813	.	+	0	product=;locus_tag=slr1601;ID
 Syn6803_Chromosome	Custom	gene	467836	468666	.	-	0	product=UDP-3-o-acyl N-acetylglcosamine deacetylase;locus_tag=lpxC;ID=lpxC
 Syn6803_Chromosome	Custom	gene	469001	469546	.	-	0	product=;locus_tag=sll1507;ID=sll1507
 Syn6803_Chromosome	Custom	gene	469592	470914	.	+	0	product=;locus_tag=slr1603;ID=slr1603
-Syn6803_Chromosome	Custom	gene	471080	472930	.	+	0	product=cell division protein_ FtsH;locus_tag=ftsH;ID=ftsH
+Syn6803_Chromosome	Custom	gene	471080	472930	.	+	0	product=cell division protein_ FtsH;locus_tag=ftsH_Chromosome_471080_472930_+;ID=ftsH_Chromosome_471080_472930_+
 Syn6803_Chromosome	Custom	gene	473414	473662	.	+	0	product=transposase;locus_tag=ssr2699;ID=ssr2699
-Syn6803_Chromosome	Custom	gene	473953	474204	.	-	0	product=virulence associated protein C;locus_tag=vapC;ID=vapC
+Syn6803_Chromosome	Custom	gene	473953	474204	.	-	0	product=virulence associated protein C;locus_tag=vapC_Chromosome_473953_474204_-;ID=vapC_Chromosome_473953_474204_-
 Syn6803_Chromosome	Custom	gene	474205	474432	.	-	0	product=virulence associated protein B;locus_tag=vapB;ID=vapB
 Syn6803_Chromosome	Custom	gene	474789	475007	.	-	0	product=;locus_tag=ssl2920;ID=ssl2920
 Syn6803_Chromosome	Custom	gene	475110	475445	.	-	0	product=;locus_tag=sll1505;ID=sll1505
 Syn6803_Chromosome	Custom	gene	475435	475743	.	-	0	product=;locus_tag=sll1504;ID=sll1504
 Syn6803_Chromosome	Custom	gene	475873	477399	.	-	0	product=;locus_tag=sll1503;ID=sll1503
-Syn6803_Chromosome	Custom	gene	477668	482320	.	-	0	product=glutamate synthase (ferredoxin);locus_tag=gltB;ID=gltB
+Syn6803_Chromosome	Custom	gene	477668	482320	.	-	0	product=glutamate synthase (ferredoxin);locus_tag=gltB_Chromosome_477668_482320_-;ID=gltB_Chromosome_477668_482320_-
 Syn6803_Chromosome	Custom	gene	482542	482703	.	+	0	product=;locus_tag=ssr2708;ID=ssr2708
 Syn6803_Chromosome	Custom	gene	482945	483199	.	+	0	product=;locus_tag=ssr2711;ID=ssr2711
 Syn6803_Chromosome	Custom	gene	483326	484564	.	+	0	product=glucose dehydrogenase-B;locus_tag=gdhB;ID=gdhB
@@ -3500,7 +3500,7 @@ Syn6803_Chromosome	Custom	gene	491496	492059	.	+	0	product=;locus_tag=slr1043;ID
 Syn6803_Chromosome	Custom	gene	492130	494739	.	+	0	product=methyl-accepting chemotaxis protein;locus_tag=mcpA;ID=mcpA
 Syn6803_Chromosome	Custom	gene	494828	495619	.	+	0	product=;locus_tag=slr1045;ID=slr1045
 Syn6803_Chromosome	Custom	gene	495626	496006	.	+	0	product=;locus_tag=slr1046;ID=slr1046
-Syn6803_Chromosome	Custom	gene	496450	497844	.	+	0	product=PleD;locus_tag=pleD;ID=pleD
+Syn6803_Chromosome	Custom	gene	496450	497844	.	+	0	product=PleD;locus_tag=pleD_Chromosome_496450_497844_+;ID=pleD_Chromosome_496450_497844_+
 Syn6803_Chromosome	Custom	gene	498076	501096	.	+	0	product=;locus_tag=slr1048;ID=slr1048
 Syn6803_Chromosome	Custom	gene	501178	501990	.	-	0	product=;locus_tag=sll1011;ID=sll1011
 Syn6803_Chromosome	Custom	gene	502042	502215	.	+	0	product=50S ribosomal protein L32;locus_tag=rps32;ID=rps32
@@ -3518,7 +3518,7 @@ Syn6803_Chromosome	Custom	gene	518287	520272	.	-	0	product=sensory transduction 
 Syn6803_Chromosome	Custom	gene	520682	520840	.	-	0	product=;locus_tag=ssl1923;ID=ssl1923
 Syn6803_Chromosome	Custom	gene	520918	521169	.	-	0	product=transposase;locus_tag=ssl1922;ID=ssl1922
 Syn6803_Chromosome	Custom	gene	521076	521357	.	-	0	product=transposase;locus_tag=ssl1920;ID=ssl1920
-Syn6803_Chromosome	Custom	gene	521483	522853	.	-	0	product=;locus_tag=ycf22;ID=ycf22
+Syn6803_Chromosome	Custom	gene	521483	522853	.	-	0	product=;locus_tag=ycf22_Chromosome_521483_522853_-;ID=ycf22_Chromosome_521483_522853_-
 Syn6803_Chromosome	Custom	gene	523016	523798	.	-	0	product=ABC transporter;locus_tag=sll1001;ID=sll1001
 Syn6803_Chromosome	Custom	gene	523821	524114	.	-	0	product=;locus_tag=ssl1918;ID=ssl1918
 Syn6803_Chromosome	Custom	gene	524346	529595	.	+	0	product=;locus_tag=slr1753;ID=slr1753
@@ -3540,7 +3540,7 @@ Syn6803_Chromosome	Custom	gene	545591	546556	.	-	0	product=;locus_tag=sll1640;ID
 Syn6803_Chromosome	Custom	gene	546553	547278	.	-	0	product=urease accessory protein D;locus_tag=ureD;ID=ureD
 Syn6803_Chromosome	Custom	gene	547425	547874	.	-	0	product=;locus_tag=sll1638;ID=sll1638
 Syn6803_Chromosome	Custom	gene	548236	549132	.	+	0	product=;locus_tag=slr1768;ID=slr1768
-Syn6803_Chromosome	Custom	gene	549129	549701	.	-	0	product=ferripyochelin binding protein;locus_tag=fbp;ID=fbp
+Syn6803_Chromosome	Custom	gene	549129	549701	.	-	0	product=ferripyochelin binding protein;locus_tag=fbp_Chromosome_549129_549701_-;ID=fbp_Chromosome_549129_549701_-
 Syn6803_Chromosome	Custom	gene	549994	550329	.	+	0	product=;locus_tag=slr1770;ID=slr1770
 Syn6803_Chromosome	Custom	gene	550563	552170	.	+	0	product=;locus_tag=slr1771;ID=slr1771
 Syn6803_Chromosome	Custom	gene	552220	552867	.	-	0	product=;locus_tag=sll1635;ID=sll1635
@@ -3549,7 +3549,7 @@ Syn6803_Chromosome	Custom	gene	553297	554019	.	-	0	product=;locus_tag=sll1752;ID
 Syn6803_Chromosome	Custom	gene	554289	554546	.	+	0	product=;locus_tag=ssr3122;ID=ssr3122
 Syn6803_Chromosome	Custom	gene	554727	555050	.	+	0	product=;locus_tag=slr1846;ID=slr1846
 Syn6803_Chromosome	Custom	gene	555262	555606	.	+	0	product=;locus_tag=slr1847;ID=slr1847
-Syn6803_Chromosome	Custom	gene	555642	556946	.	+	0	product=histidinol dehydrogenase;locus_tag=hisD;ID=hisD
+Syn6803_Chromosome	Custom	gene	555642	556946	.	+	0	product=histidinol dehydrogenase;locus_tag=hisD_Chromosome_555642_556946_+;ID=hisD_Chromosome_555642_556946_+
 Syn6803_Chromosome	Custom	gene	557423	558979	.	+	0	product=mercuric reductase;locus_tag=merA;ID=merA
 Syn6803_Chromosome	Custom	gene	559015	559350	.	-	0	product=;locus_tag=sll1751;ID=sll1751
 Syn6803_Chromosome	Custom	gene	559461	561170	.	-	0	product=urease alpha subunit;locus_tag=ureC;ID=ureC
@@ -3571,14 +3571,14 @@ Syn6803_Chromosome	Custom	gene	573494	574510	.	+	0	product=transposase;locus_tag
 Syn6803_Chromosome	Custom	gene	574562	575464	.	+	0	product=;locus_tag=slr2037;ID=slr2037
 Syn6803_Chromosome	Custom	gene	575477	576127	.	+	0	product=;locus_tag=slr2038;ID=slr2038
 Syn6803_Chromosome	Custom	gene	576139	576903	.	-	0	product=;locus_tag=sll1942;ID=sll1942
-Syn6803_Chromosome	Custom	gene	576934	579768	.	-	0	product=DNA gyrase A subunit;locus_tag=gyrA;ID=gyrA
+Syn6803_Chromosome	Custom	gene	576934	579768	.	-	0	product=DNA gyrase A subunit;locus_tag=gyrA_Chromosome_576934_579768_-;ID=gyrA_Chromosome_576934_579768_-
 Syn6803_Chromosome	Custom	gene	579646	580194	.	+	0	product=cell division response regulator_ DivK;locus_tag=divK;ID=divK
 Syn6803_Chromosome	Custom	gene	580228	581055	.	+	0	product=;locus_tag=slr2042;ID=slr2042
 Syn6803_Chromosome	Custom	gene	581052	581525	.	-	0	product=;locus_tag=sll1940;ID=sll1940
 Syn6803_Chromosome	Custom	gene	581518	582162	.	-	0	product=;locus_tag=sll1939;ID=sll1939
 Syn6803_Chromosome	Custom	gene	582238	582477	.	+	0	product=;locus_tag=ssr3465;ID=ssr3465
 Syn6803_Chromosome	Custom	gene	582481	583092	.	-	0	product=;locus_tag=sll1938;ID=sll1938
-Syn6803_Chromosome	Custom	gene	583157	583573	.	-	0	product=ferric uptake regulation protein;locus_tag=fur;ID=fur
+Syn6803_Chromosome	Custom	gene	583157	583573	.	-	0	product=ferric uptake regulation protein;locus_tag=fur_Chromosome_583157_583573_-;ID=fur_Chromosome_583157_583573_-
 Syn6803_Chromosome	Custom	gene	583680	584696	.	+	0	product=periplasmic binding protein component of an ABC type zinc uptake transporter;locus_tag=zntC;ID=zntC
 Syn6803_Chromosome	Custom	gene	584674	585543	.	+	0	product=ABC transporter;locus_tag=slr2044;ID=slr2044
 Syn6803_Chromosome	Custom	gene	585497	586342	.	+	0	product=;locus_tag=slr2045;ID=slr2045
@@ -3587,12 +3587,12 @@ Syn6803_Chromosome	Custom	gene	587228	593125	.	+	0	product=Fat protein;locus_tag
 Syn6803_Chromosome	Custom	gene	593257	594243	.	+	0	product=phosphate starvation-inducible protein;locus_tag=phoH;ID=phoH
 Syn6803_Chromosome	Custom	gene	594454	595650	.	+	0	product=;locus_tag=slr2048;ID=slr2048
 Syn6803_Chromosome	Custom	gene	595733	596311	.	+	0	product=;locus_tag=slr2049;ID=slr2049
-Syn6803_Chromosome	Custom	gene	596540	597247	.	+	0	product=phycobilisome rod-core linker polypeptide_ CpcG;locus_tag=cpcG;ID=cpcG
+Syn6803_Chromosome	Custom	gene	596540	597247	.	+	0	product=phycobilisome rod-core linker polypeptide_ CpcG;locus_tag=cpcG_Chromosome_596540_597247_+;ID=cpcG_Chromosome_596540_597247_+
 Syn6803_Chromosome	Custom	gene	597591	598487	.	+	0	product=;locus_tag=slr2052;ID=slr2052
 Syn6803_Chromosome	Custom	gene	598484	598930	.	-	0	product=;locus_tag=sll1934;ID=sll1934
 Syn6803_Chromosome	Custom	gene	599062	599913	.	+	0	product=;locus_tag=slr2053;ID=slr2053
-Syn6803_Chromosome	Custom	gene	599910	600833	.	-	0	product=DnaJ protein;locus_tag=dnaJ;ID=dnaJ
-Syn6803_Chromosome	Custom	gene	600942	603308	.	-	0	product=DnaK protein;locus_tag=dnaK;ID=dnaK
+Syn6803_Chromosome	Custom	gene	599910	600833	.	-	0	product=DnaJ protein;locus_tag=dnaJ_Chromosome_599910_600833_-;ID=dnaJ_Chromosome_599910_600833_-
+Syn6803_Chromosome	Custom	gene	600942	603308	.	-	0	product=DnaK protein;locus_tag=dnaK_Chromosome_600942_603308_-;ID=dnaK_Chromosome_600942_603308_-
 Syn6803_Chromosome	Custom	gene	603443	604726	.	-	0	product=serine hydroxymethyltransferase;locus_tag=gylA;ID=gylA
 Syn6803_Chromosome	Custom	gene	605541	606035	.	-	0	product=transposase;locus_tag=sll1930;ID=sll1930
 Syn6803_Chromosome	Custom	gene	606465	608594	.	-	0	product=ComE;locus_tag=comEc;ID=comEc
@@ -3600,7 +3600,7 @@ Syn6803_Chromosome	Custom	gene	609469	610053	.	+	0	product=;locus_tag=slr1906;ID
 Syn6803_Chromosome	Custom	gene	609948	610487	.	+	0	product=;locus_tag=slr1907;ID=slr1907
 Syn6803_Chromosome	Custom	gene	611057	612832	.	+	0	product=;locus_tag=slr1908;ID=slr1908
 Syn6803_Chromosome	Custom	gene	613102	613743	.	+	0	product=NarL subfamily;locus_tag=slr1909;ID=slr1909
-Syn6803_Chromosome	Custom	gene	613801	614817	.	+	0	product=N-acetylmuramoyl-L-alanine amidase;locus_tag=amiA;ID=amiA
+Syn6803_Chromosome	Custom	gene	613801	614817	.	+	0	product=N-acetylmuramoyl-L-alanine amidase;locus_tag=amiA_Chromosome_613801_614817_+;ID=amiA_Chromosome_613801_614817_+
 Syn6803_Chromosome	Custom	gene	614841	615269	.	+	0	product=;locus_tag=slr1911;ID=slr1911
 Syn6803_Chromosome	Custom	gene	615266	615703	.	-	0	product=;locus_tag=sll1837;ID=sll1837
 Syn6803_Chromosome	Custom	gene	615968	616324	.	+	0	product=anti-sigma F factor antagonist;locus_tag=slr1912;ID=slr1912
@@ -3636,10 +3636,10 @@ Syn6803_Chromosome	Custom	gene	643549	644379	.	-	0	product=esterase;locus_tag=sl
 Syn6803_Chromosome	Custom	gene	644388	645497	.	-	0	product=formaldehyde dehydrogenase (glutathione);locus_tag=sll0990;ID=sll0990
 Syn6803_Chromosome	Custom	gene	646129	658047	.	+	0	product=;locus_tag=slr1028;ID=slr1028
 Syn6803_Chromosome	Custom	gene	658262	659335	.	+	0	product=Mg chelatase subunit_ ChlI;locus_tag=chlI;ID=chlI
-Syn6803_Chromosome	Custom	gene	659370	660584	.	+	0	product=tyrosyl tRNA synthetase;locus_tag=tyrS;ID=tyrS
+Syn6803_Chromosome	Custom	gene	659370	660584	.	+	0	product=tyrosyl tRNA synthetase;locus_tag=tyrS_Chromosome_659370_660584_+;ID=tyrS_Chromosome_659370_660584_+
 Syn6803_Chromosome	Custom	gene	660772	661125	.	+	0	product=;locus_tag=slr1032;ID=slr1032
 Syn6803_Chromosome	Custom	gene	661122	662819	.	+	0	product=;locus_tag=slr1033;ID=slr1033
-Syn6803_Chromosome	Custom	gene	662952	663188	.	+	0	product=tyrosyl tRNA synthetase;locus_tag=tyrS;ID=tyrS
+Syn6803_Chromosome	Custom	gene	662952	663188	.	+	0	product=tyrosyl tRNA synthetase;locus_tag=tyrS_Chromosome_662952_663188_+;ID=tyrS_Chromosome_662952_663188_+
 Syn6803_Chromosome	Custom	gene	663342	663731	.	+	0	product=;locus_tag=slr1034;ID=slr1034
 Syn6803_Chromosome	Custom	gene	663788	664315	.	+	0	product=;locus_tag=slr1035;ID=slr1035
 Syn6803_Chromosome	Custom	gene	664394	664780	.	-	0	product=transposase;locus_tag=sll0986;ID=sll0986
@@ -3652,7 +3652,7 @@ Syn6803_Chromosome	Custom	gene	669254	669751	.	-	0	product=;locus_tag=sll0981;ID
 Syn6803_Chromosome	Custom	gene	669759	670949	.	-	0	product=;locus_tag=sll0980;ID=sll0980
 Syn6803_Chromosome	Custom	gene	671006	671707	.	+	0	product=;locus_tag=slr1039;ID=slr1039
 Syn6803_Chromosome	Custom	gene	671912	672244	.	+	0	product=;locus_tag=slr1376;ID=slr1376
-Syn6803_Chromosome	Custom	gene	672291	672947	.	+	0	product=leader peptidase I;locus_tag=lepB;ID=lepB
+Syn6803_Chromosome	Custom	gene	672291	672947	.	+	0	product=leader peptidase I;locus_tag=lepB_Chromosome_672291_672947_+;ID=lepB_Chromosome_672291_672947_+
 Syn6803_Chromosome	Custom	gene	672899	673612	.	+	0	product=;locus_tag=slr1378;ID=slr1378
 Syn6803_Chromosome	Custom	gene	673889	675340	.	+	0	product=cytochrome oxidase d subunit I;locus_tag=cydA;ID=cydA
 Syn6803_Chromosome	Custom	gene	675344	676354	.	+	0	product=cytochrome oxidase d subunit II;locus_tag=cydB;ID=cydB
@@ -3674,11 +3674,11 @@ Syn6803_Chromosome	Custom	gene	690899	691264	.	-	0	product=CheY subfamily;locus_
 Syn6803_Chromosome	Custom	gene	691371	692576	.	-	0	product=PatA subfamily;locus_tag=sll1291;ID=sll1291
 Syn6803_Chromosome	Custom	gene	693211	695211	.	-	0	product=ribonuclease II;locus_tag=rnb;ID=rnb
 Syn6803_Chromosome	Custom	gene	695290	695874	.	-	0	product=;locus_tag=sll1289;ID=sll1289
-Syn6803_Chromosome	Custom	gene	695975	697972	.	+	0	product=cell division protein_ FtsH;locus_tag=ftsH;ID=ftsH
+Syn6803_Chromosome	Custom	gene	695975	697972	.	+	0	product=cell division protein_ FtsH;locus_tag=ftsH_Chromosome_695975_697972_+;ID=ftsH_Chromosome_695975_697972_+
 Syn6803_Chromosome	Custom	gene	697988	698458	.	+	0	product=;locus_tag=slr1391;ID=slr1391
 Syn6803_Chromosome	Custom	gene	698723	698962	.	+	0	product=;locus_tag=ssr2333;ID=ssr2333
 Syn6803_Chromosome	Custom	gene	698970	700814	.	+	0	product=ferrous iron transport protein B;locus_tag=feoB;ID=feoB
-Syn6803_Chromosome	Custom	gene	701138	701350	.	-	0	product=high light-inducible protein;locus_tag=hliA;ID=hliA
+Syn6803_Chromosome	Custom	gene	701138	701350	.	-	0	product=high light-inducible protein;locus_tag=hliA_Chromosome_701138_701350_-;ID=hliA_Chromosome_701138_701350_-
 Syn6803_Chromosome	Custom	gene	701343	704267	.	+	0	product=sensory transduction histidine kinase;locus_tag=slr1393;ID=slr1393
 Syn6803_Chromosome	Custom	gene	704390	704845	.	+	0	product=;locus_tag=slr1394;ID=slr1394
 Syn6803_Chromosome	Custom	gene	705307	706017	.	-	0	product=;locus_tag=sll1286;ID=sll1286
@@ -3691,15 +3691,15 @@ Syn6803_Chromosome	Custom	gene	710981	711595	.	-	0	product=serine esterase;locus
 Syn6803_Chromosome	Custom	gene	711608	712783	.	-	0	product=sporulation protein_ SpoIID;locus_tag=spoIID;ID=spoIID
 Syn6803_Chromosome	Custom	gene	712931	713779	.	+	0	product=;locus_tag=slr1699;ID=slr1699
 Syn6803_Chromosome	Custom	gene	713774	714178	.	-	0	product=;locus_tag=sll1584;ID=sll1584
-Syn6803_Chromosome	Custom	gene	714465	716153	.	-	0	product=DNA ligase;locus_tag=lig;ID=lig
+Syn6803_Chromosome	Custom	gene	714465	716153	.	-	0	product=DNA ligase;locus_tag=lig_Chromosome_714465_716153_-;ID=lig_Chromosome_714465_716153_-
 Syn6803_Chromosome	Custom	gene	716309	719665	.	-	0	product=;locus_tag=sll1582;ID=sll1582
 Syn6803_Chromosome	Custom	gene	719733	721247	.	-	0	product=GumB protein;locus_tag=gumB;ID=gumB
 Syn6803_Chromosome	Custom	gene	721429	721692	.	+	0	product=;locus_tag=ssr2843;ID=ssr2843
 Syn6803_Chromosome	Custom	gene	721724	722479	.	+	0	product=;locus_tag=slr1702;ID=slr1702
 Syn6803_Chromosome	Custom	gene	722570	723862	.	+	0	product=seryl-tRNA synthetase;locus_tag=serS;ID=serS
 Syn6803_Chromosome	Custom	gene	724094	724345	.	-	0	product=phycocyanin associated linker protein;locus_tag=cpcD;ID=cpcD
-Syn6803_Chromosome	Custom	gene	724492	725367	.	-	0	product=phycocyanin associated linker protein;locus_tag=cpcC;ID=cpcC
-Syn6803_Chromosome	Custom	gene	725413	726234	.	-	0	product=phycocyanin associated linker protein;locus_tag=cpcC;ID=cpcC
+Syn6803_Chromosome	Custom	gene	724492	725367	.	-	0	product=phycocyanin associated linker protein;locus_tag=cpcC_Chromosome_724492_725367_-;ID=cpcC_Chromosome_724492_725367_-
+Syn6803_Chromosome	Custom	gene	725413	726234	.	-	0	product=phycocyanin associated linker protein;locus_tag=cpcC_Chromosome_725413_726234_-;ID=cpcC_Chromosome_725413_726234_-
 Syn6803_Chromosome	Custom	gene	726349	726837	.	-	0	product=phycocyanin a subunit;locus_tag=cpcA;ID=cpcA
 Syn6803_Chromosome	Custom	gene	726948	727466	.	-	0	product=phycocyanin b subunit;locus_tag=cpcB;ID=cpcB
 Syn6803_Chromosome	Custom	gene	728271	728489	.	+	0	product=;locus_tag=ssr2848;ID=ssr2848
@@ -3711,7 +3711,7 @@ Syn6803_Chromosome	Custom	gene	732418	733284	.	+	0	product=aspartoacylase, ASP;l
 Syn6803_Chromosome	Custom	gene	733401	734432	.	+	0	product=dihydroflavonol 4-reductase;locus_tag=dfrA;ID=dfrA
 Syn6803_Chromosome	Custom	gene	734665	734859	.	+	0	product=;locus_tag=ssr2857;ID=ssr2857
 Syn6803_Chromosome	Custom	gene	734985	736220	.	+	0	product=lysostaphin;locus_tag=slr1708;ID=slr1708
-Syn6803_Chromosome	Custom	gene	736435	737811	.	-	0	product=DNA polymerase III alpha subunit;locus_tag=dnaE;ID=dnaE
+Syn6803_Chromosome	Custom	gene	736435	737811	.	-	0	product=DNA polymerase III alpha subunit;locus_tag=dnaE_Chromosome_736435_737811_-;ID=dnaE_Chromosome_736435_737811_-
 Syn6803_Chromosome	Custom	gene	737867	738808	.	-	0	product=;locus_tag=sll1571;ID=sll1571
 Syn6803_Chromosome	Custom	gene	738909	739640	.	-	0	product=;locus_tag=sll1570;ID=sll1570
 Syn6803_Chromosome	Custom	gene	739682	741931	.	+	0	product=penicillin-binding protein 1B;locus_tag=mrcB;ID=mrcB
@@ -3721,9 +3721,9 @@ Syn6803_Chromosome	Custom	gene	744810	745247	.	-	0	product=;locus_tag=sll1926;ID
 Syn6803_Chromosome	Custom	gene	745339	746124	.	+	0	product=;locus_tag=slr2005;ID=slr2005
 Syn6803_Chromosome	Custom	gene	746303	747019	.	-	0	product=;locus_tag=sll1925;ID=sll1925
 Syn6803_Chromosome	Custom	gene	747234	747578	.	+	0	product=;locus_tag=slr2006;ID=slr2006
-Syn6803_Chromosome	Custom	gene	747575	749038	.	+	0	product=NADH dehydrogenase subunit 4;locus_tag=ndhD;ID=ndhD
+Syn6803_Chromosome	Custom	gene	747575	749038	.	+	0	product=NADH dehydrogenase subunit 4;locus_tag=ndhD_Chromosome_747575_749038_+;ID=ndhD_Chromosome_747575_749038_+
 Syn6803_Chromosome	Custom	gene	749150	749500	.	+	0	product=;locus_tag=slr2008;ID=slr2008
-Syn6803_Chromosome	Custom	gene	749550	751037	.	+	0	product=NADH dehydrogenase subunit 5;locus_tag=ndhF;ID=ndhF
+Syn6803_Chromosome	Custom	gene	749550	751037	.	+	0	product=NADH dehydrogenase subunit 5;locus_tag=ndhF_Chromosome_749550_751037_+;ID=ndhF_Chromosome_749550_751037_+
 Syn6803_Chromosome	Custom	gene	751034	751426	.	+	0	product=;locus_tag=slr2010;ID=slr2010
 Syn6803_Chromosome	Custom	gene	751381	751674	.	+	0	product=;locus_tag=ssr3409;ID=ssr3409
 Syn6803_Chromosome	Custom	gene	751671	751967	.	+	0	product=;locus_tag=ssr3410;ID=ssr3410
@@ -3741,7 +3741,7 @@ Syn6803_Chromosome	Custom	gene	764301	766538	.	-	0	product=cation-transporting A
 Syn6803_Chromosome	Custom	gene	766727	767608	.	+	0	product=malonyl coenzyme A-acyl carrier protein transacylase;locus_tag=fabD;ID=fabD
 Syn6803_Chromosome	Custom	gene	767890	768432	.	+	0	product=CheY subfamily;locus_tag=slr2024;ID=slr2024
 Syn6803_Chromosome	Custom	gene	768499	768960	.	+	0	product=;locus_tag=slr2025;ID=slr2025
-Syn6803_Chromosome	Custom	gene	769053	770291	.	-	0	product=oxygen independent coprophorphyrinogen III oxidase;locus_tag=hemN;ID=hemN
+Syn6803_Chromosome	Custom	gene	769053	770291	.	-	0	product=oxygen independent coprophorphyrinogen III oxidase;locus_tag=hemN_Chromosome_769053_770291_-;ID=hemN_Chromosome_769053_770291_-
 Syn6803_Chromosome	Custom	gene	770288	770890	.	-	0	product=;locus_tag=sll1916;ID=sll1916
 Syn6803_Chromosome	Custom	gene	770930	771481	.	-	0	product=;locus_tag=sll1915;ID=sll1915
 Syn6803_Chromosome	Custom	gene	771651	772520	.	+	0	product=dihydropteroate pyrophosphorylase;locus_tag=folP;ID=folP
@@ -3757,15 +3757,15 @@ Syn6803_Chromosome	Custom	gene	783379	784764	.	+	0	product=L-argininosuccinate l
 Syn6803_Chromosome	Custom	gene	784769	785215	.	+	0	product=;locus_tag=slr1134;ID=slr1134
 Syn6803_Chromosome	Custom	gene	785665	787812	.	+	0	product=;locus_tag=slr1135;ID=slr1135
 Syn6803_Chromosome	Custom	gene	787809	790406	.	-	0	product=;locus_tag=sll1084;ID=sll1084
-Syn6803_Chromosome	Custom	gene	790719	791717	.	+	0	product=cytochrome c oxidase subunit II;locus_tag=ctaC;ID=ctaC
-Syn6803_Chromosome	Custom	gene	791806	793461	.	+	0	product=cytochrome c oxidase subunit I;locus_tag=ctaD;ID=ctaD
-Syn6803_Chromosome	Custom	gene	793509	794210	.	+	0	product=cytochrome c oxidase subunit III;locus_tag=ctaE;ID=ctaE
-Syn6803_Chromosome	Custom	gene	794362	794691	.	+	0	product=thioredoxin;locus_tag=trxA;ID=trxA
+Syn6803_Chromosome	Custom	gene	790719	791717	.	+	0	product=cytochrome c oxidase subunit II;locus_tag=ctaC_Chromosome_790719_791717_+;ID=ctaC_Chromosome_790719_791717_+
+Syn6803_Chromosome	Custom	gene	791806	793461	.	+	0	product=cytochrome c oxidase subunit I;locus_tag=ctaD_Chromosome_791806_793461_+;ID=ctaD_Chromosome_791806_793461_+
+Syn6803_Chromosome	Custom	gene	793509	794210	.	+	0	product=cytochrome c oxidase subunit III;locus_tag=ctaE_Chromosome_793509_794210_+;ID=ctaE_Chromosome_793509_794210_+
+Syn6803_Chromosome	Custom	gene	794362	794691	.	+	0	product=thioredoxin;locus_tag=trxA_Chromosome_794362_794691_+;ID=trxA_Chromosome_794362_794691_+
 Syn6803_Chromosome	Custom	gene	794764	795900	.	+	0	product=3-amino-5-hydroxybenzoic acid synthase;locus_tag=slr1140;ID=slr1140
-Syn6803_Chromosome	Custom	gene	795932	796732	.	-	0	product=nitrate transport protein_ NrtD;locus_tag=nrtD;ID=nrtD
+Syn6803_Chromosome	Custom	gene	795932	796732	.	-	0	product=nitrate transport protein_ NrtD;locus_tag=nrtD_Chromosome_795932_796732_-;ID=nrtD_Chromosome_795932_796732_-
 Syn6803_Chromosome	Custom	gene	796789	797631	.	-	0	product=integral membrane components of other binding-protein-dependent transport system;locus_tag=sll1081;ID=sll1081
 Syn6803_Chromosome	Custom	gene	797734	798792	.	-	0	product=;locus_tag=sll1080;ID=sll1080
-Syn6803_Chromosome	Custom	gene	798846	799535	.	-	0	product=hydrogenase expression/formation protein_ HypB;locus_tag=hypB;ID=hypB
+Syn6803_Chromosome	Custom	gene	798846	799535	.	-	0	product=hydrogenase expression/formation protein_ HypB;locus_tag=hypB_Chromosome_798846_799535_-;ID=hypB_Chromosome_798846_799535_-
 Syn6803_Chromosome	Custom	gene	799596	799958	.	-	0	product=;locus_tag=sll1078;ID=sll1078
 Syn6803_Chromosome	Custom	gene	800034	801206	.	-	0	product=agmatine ureohydrolase;locus_tag=speB;ID=speB
 Syn6803_Chromosome	Custom	gene	801643	802152	.	+	0	product=;locus_tag=slr1142;ID=slr1142
@@ -3780,11 +3780,11 @@ Syn6803_Chromosome	Custom	gene	815703	816215	.	+	0	product=;locus_tag=slr1150;ID
 Syn6803_Chromosome	Custom	gene	816298	816969	.	-	0	product=;locus_tag=sll1072;ID=sll1072
 Syn6803_Chromosome	Custom	gene	816983	817810	.	-	0	product=;locus_tag=sll1071;ID=sll1071
 Syn6803_Chromosome	Custom	gene	817967	819979	.	-	0	product=transketolase;locus_tag=tktA;ID=tktA
-Syn6803_Chromosome	Custom	gene	820102	821352	.	-	0	product=beta ketoacyl-acyl carrier protein synthase;locus_tag=fabF;ID=fabF
+Syn6803_Chromosome	Custom	gene	820102	821352	.	-	0	product=beta ketoacyl-acyl carrier protein synthase;locus_tag=fabF_Chromosome_820102_821352_-;ID=fabF_Chromosome_820102_821352_-
 Syn6803_Chromosome	Custom	gene	821550	821783	.	-	0	product=acyl carrier protein;locus_tag=acp;ID=acp
 Syn6803_Chromosome	Custom	gene	821993	822424	.	-	0	product=;locus_tag=sll1068;ID=sll1068
 Syn6803_Chromosome	Custom	gene	822461	822706	.	-	0	product=;locus_tag=ssl3451;ID=ssl3451
-Syn6803_Chromosome	Custom	gene	822837	823367	.	+	0	product=bacterioferritin;locus_tag=bfr;ID=bfr
+Syn6803_Chromosome	Custom	gene	822837	823367	.	+	0	product=bacterioferritin;locus_tag=bfr_Chromosome_822837_823367_+;ID=bfr_Chromosome_822837_823367_+
 Syn6803_Chromosome	Custom	gene	823383	824015	.	-	0	product=aklaviketone reductase;locus_tag=sll1825;ID=sll1825
 Syn6803_Chromosome	Custom	gene	824228	824785	.	-	0	product=;locus_tag=sll1824;ID=sll1824
 Syn6803_Chromosome	Custom	gene	824584	825831	.	-	0	product=adenylosuccinate synthetase;locus_tag=purA;ID=purA
@@ -3799,7 +3799,7 @@ Syn6803_Chromosome	Custom	gene	830194	830586	.	-	0	product=30S ribosomal protein
 Syn6803_Chromosome	Custom	gene	830635	831018	.	-	0	product=30S ribosomal protein S13;locus_tag=rps13;ID=rps13
 Syn6803_Chromosome	Custom	gene	831101	831217	.	-	0	product=50S ribosomal protein L36;locus_tag=rpl36;ID=rpl36
 Syn6803_Chromosome	Custom	gene	831355	831558	.	-	0	product=initiation factor IF-1;locus_tag=infA;ID=infA
-Syn6803_Chromosome	Custom	gene	831702	832265	.	-	0	product=adenylate kinase;locus_tag=adk;ID=adk
+Syn6803_Chromosome	Custom	gene	831702	832265	.	-	0	product=adenylate kinase;locus_tag=adk_Chromosome_831702_832265_-;ID=adk_Chromosome_831702_832265_-
 Syn6803_Chromosome	Custom	gene	832391	833719	.	-	0	product=preprotein translocase SecY subunit;locus_tag=secY;ID=secY
 Syn6803_Chromosome	Custom	gene	833821	834264	.	-	0	product=50S ribosomal protein L15;locus_tag=rpl15;ID=rpl15
 Syn6803_Chromosome	Custom	gene	834333	834854	.	-	0	product=30S ribosomal protein S5;locus_tag=rps5;ID=rps5
@@ -3850,7 +3850,7 @@ Syn6803_Chromosome	Custom	gene	878564	878890	.	-	0	product=;locus_tag=sll1118;ID
 Syn6803_Chromosome	Custom	gene	878937	879209	.	+	0	product=;locus_tag=ssr2009;ID=ssr2009
 Syn6803_Chromosome	Custom	gene	879408	880043	.	+	0	product=rehydrin;locus_tag=slr1198;ID=slr1198
 Syn6803_Chromosome	Custom	gene	880147	881838	.	+	0	product=DNA mismatch repair protein_ MutL;locus_tag=mutL;ID=mutL
-Syn6803_Chromosome	Custom	gene	882023	883189	.	+	0	product=high-affinity branched-chain amino acid transport protein;locus_tag=livH;ID=livH
+Syn6803_Chromosome	Custom	gene	882023	883189	.	+	0	product=high-affinity branched-chain amino acid transport protein;locus_tag=livH_Chromosome_882023_883189_+;ID=livH_Chromosome_882023_883189_+
 Syn6803_Chromosome	Custom	gene	883287	884519	.	+	0	product=;locus_tag=slr1201;ID=slr1201
 Syn6803_Chromosome	Custom	gene	884635	885531	.	+	0	product=lactose transport system permease protein_ LacF;locus_tag=lacF;ID=lacF
 Syn6803_Chromosome	Custom	gene	885641	886078	.	+	0	product=;locus_tag=slr1203;ID=slr1203
@@ -3862,7 +3862,7 @@ Syn6803_Chromosome	Custom	gene	890827	891024	.	+	0	product=;locus_tag=ssr2016;ID
 Syn6803_Chromosome	Custom	gene	891276	893249	.	+	0	product=short-chain alcohol dehydrogenase family;locus_tag=slr1208;ID=slr1208
 Syn6803_Chromosome	Custom	gene	893261	893590	.	+	0	product=;locus_tag=slr1209;ID=slr1209
 Syn6803_Chromosome	Custom	gene	893583	893972	.	+	0	product=;locus_tag=slr1210;ID=slr1210
-Syn6803_Chromosome	Custom	gene	893984	897262	.	+	0	product=CobN protein;locus_tag=cobN;ID=cobN
+Syn6803_Chromosome	Custom	gene	893984	897262	.	+	0	product=CobN protein;locus_tag=cobN_Chromosome_893984_897262_+;ID=cobN_Chromosome_893984_897262_+
 Syn6803_Chromosome	Custom	gene	897354	899888	.	+	0	product=ethylene response sensor protein;locus_tag=ETR1;ID=ETR1
 Syn6803_Chromosome	Custom	gene	899937	900662	.	+	0	product=AraC subfamily;locus_tag=slr1213;ID=slr1213
 Syn6803_Chromosome	Custom	gene	901197	902315	.	+	0	product=PatA subfamily;locus_tag=slr1214;ID=slr1214
@@ -3897,14 +3897,14 @@ Syn6803_Chromosome	Custom	gene	927959	928750	.	+	0	product=;locus_tag=slr1827;ID
 Syn6803_Chromosome	Custom	gene	928806	929885	.	-	0	product=;locus_tag=sll1739;ID=sll1739
 Syn6803_Chromosome	Custom	gene	930148	930843	.	-	0	product=;locus_tag=sll1738;ID=sll1738
 Syn6803_Chromosome	Custom	gene	930907	931389	.	-	0	product=;locus_tag=sll1737;ID=sll1737
-Syn6803_Chromosome	Custom	gene	931639	931959	.	+	0	product=ferredoxin;locus_tag=petF;ID=petF
+Syn6803_Chromosome	Custom	gene	931639	931959	.	+	0	product=ferredoxin;locus_tag=petF_Chromosome_931639_931959_+;ID=petF_Chromosome_931639_931959_+
 Syn6803_Chromosome	Custom	gene	932071	933063	.	+	0	product=;locus_tag=slr1829;ID=slr1829
 Syn6803_Chromosome	Custom	gene	933157	934293	.	+	0	product=poly(3-hydroxyalkanoate) synthase;locus_tag=phbC;ID=phbC
 Syn6803_Chromosome	Custom	gene	934324	934707	.	-	0	product=;locus_tag=sll1736;ID=sll1736
 Syn6803_Chromosome	Custom	gene	934835	935236	.	-	0	product=secreted protein MPB70;locus_tag=sll1735;ID=sll1735
 Syn6803_Chromosome	Custom	gene	935409	936704	.	-	0	product=;locus_tag=sll1734;ID=sll1734
 Syn6803_Chromosome	Custom	gene	936768	938276	.	-	0	product=NADH dehydrogenase subunit 4;locus_tag=ndhD3;ID=ndhD3
-Syn6803_Chromosome	Custom	gene	938393	940240	.	-	0	product=NADH dehydrogenase subunit 5;locus_tag=ndhF;ID=ndhF
+Syn6803_Chromosome	Custom	gene	938393	940240	.	-	0	product=NADH dehydrogenase subunit 5;locus_tag=ndhF_Chromosome_938393_940240_-;ID=ndhF_Chromosome_938393_940240_-
 Syn6803_Chromosome	Custom	gene	940638	941270	.	-	0	product=;locus_tag=sll1730;ID=sll1730
 Syn6803_Chromosome	Custom	gene	941686	943941	.	+	0	product=P700 apoprotein subunit Ia;locus_tag=psaA;ID=psaA
 Syn6803_Chromosome	Custom	gene	944187	946382	.	+	0	product=P700 apoprotein subunit Ib;locus_tag=psaB;ID=psaB
@@ -3915,8 +3915,8 @@ Syn6803_Chromosome	Custom	gene	950533	951774	.	-	0	product=;locus_tag=sll1723;ID
 Syn6803_Chromosome	Custom	gene	951797	953098	.	-	0	product=;locus_tag=sll1722;ID=sll1722
 Syn6803_Chromosome	Custom	gene	953752	954456	.	+	0	product=OmpR subfamily;locus_tag=slr1837;ID=slr1837
 Syn6803_Chromosome	Custom	gene	954453	955427	.	-	0	product=pyruvate dehydrogenase E1 beta subunit;locus_tag=pdhB;ID=pdhB
-Syn6803_Chromosome	Custom	gene	955805	956116	.	+	0	product=carbon dioxide concentrating mechanism protein_ CcmK;locus_tag=ccmK;ID=ccmK
-Syn6803_Chromosome	Custom	gene	956275	956613	.	+	0	product=carbon dioxide concentrating mechanism protein_ CcmK;locus_tag=ccmK;ID=ccmK
+Syn6803_Chromosome	Custom	gene	955805	956116	.	+	0	product=carbon dioxide concentrating mechanism protein_ CcmK;locus_tag=ccmK_Chromosome_955805_956116_+;ID=ccmK_Chromosome_955805_956116_+
+Syn6803_Chromosome	Custom	gene	956275	956613	.	+	0	product=carbon dioxide concentrating mechanism protein_ CcmK;locus_tag=ccmK_Chromosome_956275_956613_+;ID=ccmK_Chromosome_956275_956613_+
 Syn6803_Chromosome	Custom	gene	956673	957788	.	+	0	product=;locus_tag=slr1840;ID=slr1840
 Syn6803_Chromosome	Custom	gene	958137	960029	.	+	0	product=;locus_tag=slr1841;ID=slr1841
 Syn6803_Chromosome	Custom	gene	960099	961094	.	+	0	product=cysteine synthase;locus_tag=cysK;ID=cysK
@@ -3926,7 +3926,7 @@ Syn6803_Chromosome	Custom	gene	965938	967473	.	-	0	product=;locus_tag=sll1717;ID
 Syn6803_Chromosome	Custom	gene	967567	968352	.	-	0	product=transposase;locus_tag=sll1716;ID=sll1716
 Syn6803_Chromosome	Custom	gene	968487	968960	.	-	0	product=;locus_tag=sll1715;ID=sll1715
 Syn6803_Chromosome	Custom	gene	968893	969294	.	-	0	product=;locus_tag=sll1714;ID=sll1714
-Syn6803_Chromosome	Custom	gene	969762	970820	.	-	0	product=histidinol-phosphate aminotransferase;locus_tag=hisC;ID=hisC
+Syn6803_Chromosome	Custom	gene	969762	970820	.	-	0	product=histidinol-phosphate aminotransferase;locus_tag=hisC_Chromosome_969762_970820_-;ID=hisC_Chromosome_969762_970820_-
 Syn6803_Chromosome	Custom	gene	970882	971289	.	-	0	product=DNA binding protein HU;locus_tag=sll1712;ID=sll1712
 Syn6803_Chromosome	Custom	gene	971460	972317	.	-	0	product=;locus_tag=sll1469;ID=sll1469
 Syn6803_Chromosome	Custom	gene	972485	973954	.	+	0	product=;locus_tag=slr1535;ID=slr1535
@@ -3940,13 +3940,13 @@ Syn6803_Chromosome	Custom	gene	980276	981694	.	+	0	product=DNA-damage-inducible 
 Syn6803_Chromosome	Custom	gene	981691	982629	.	-	0	product=b-carotene hydroxylase;locus_tag=bhy;ID=bhy
 Syn6803_Chromosome	Custom	gene	982968	983180	.	+	0	product=high light inducible protein;locus_tag=ssr2595;ID=ssr2595
 Syn6803_Chromosome	Custom	gene	983229	983540	.	+	0	product=;locus_tag=slr1544;ID=slr1544
-Syn6803_Chromosome	Custom	gene	983804	984475	.	+	0	product=RNA polymerase sigma-E factor;locus_tag=rpoE;ID=rpoE
+Syn6803_Chromosome	Custom	gene	983804	984475	.	+	0	product=RNA polymerase sigma-E factor;locus_tag=rpoE_Chromosome_983804_984475_+;ID=rpoE_Chromosome_983804_984475_+
 Syn6803_Chromosome	Custom	gene	984562	985200	.	+	0	product=;locus_tag=slr1546;ID=slr1546
 Syn6803_Chromosome	Custom	gene	985224	986222	.	+	0	product=;locus_tag=slr1547;ID=slr1547
 Syn6803_Chromosome	Custom	gene	986492	987733	.	-	0	product=;locus_tag=sll1466;ID=sll1466
 Syn6803_Chromosome	Custom	gene	987740	987967	.	-	0	product=;locus_tag=ssl2823;ID=ssl2823
 Syn6803_Chromosome	Custom	gene	988072	989505	.	-	0	product=;locus_tag=sll1464;ID=sll1464
-Syn6803_Chromosome	Custom	gene	989717	991603	.	-	0	product=cell division protein_ FtsH;locus_tag=ftsH;ID=ftsH
+Syn6803_Chromosome	Custom	gene	989717	991603	.	-	0	product=cell division protein_ FtsH;locus_tag=ftsH_Chromosome_989717_991603_-;ID=ftsH_Chromosome_989717_991603_-
 Syn6803_Chromosome	Custom	gene	991735	992772	.	-	0	product=hydrogenase expression/formation protein_ HypE;locus_tag=hypE;ID=hypE
 Syn6803_Chromosome	Custom	gene	992821	993483	.	-	0	product=;locus_tag=sll1461;ID=sll1461
 Syn6803_Chromosome	Custom	gene	993536	994213	.	-	0	product=;locus_tag=sll1459;ID=sll1459
@@ -3958,8 +3958,8 @@ Syn6803_Chromosome	Custom	gene	998010	998918	.	-	0	product=;locus_tag=sll1456;ID
 Syn6803_Chromosome	Custom	gene	999029	1001563	.	+	0	product=;locus_tag=slr1552;ID=slr1552
 Syn6803_Chromosome	Custom	gene	1001639	1002106	.	-	0	product=;locus_tag=sll1455;ID=sll1455
 Syn6803_Chromosome	Custom	gene	1002633	1004777	.	-	0	product=nitrate reductase;locus_tag=narB;ID=narB
-Syn6803_Chromosome	Custom	gene	1005181	1006179	.	-	0	product=nitrate transport protein_ NrtD;locus_tag=nrtD;ID=nrtD
-Syn6803_Chromosome	Custom	gene	1006234	1008246	.	-	0	product=nitrate transport protein_ NrtC;locus_tag=nrtC;ID=nrtC
+Syn6803_Chromosome	Custom	gene	1005181	1006179	.	-	0	product=nitrate transport protein_ NrtD;locus_tag=nrtD_Chromosome_1005181_1006179_-;ID=nrtD_Chromosome_1005181_1006179_-
+Syn6803_Chromosome	Custom	gene	1006234	1008246	.	-	0	product=nitrate transport protein_ NrtC;locus_tag=nrtC_Chromosome_1006234_1008246_-;ID=nrtC_Chromosome_1006234_1008246_-
 Syn6803_Chromosome	Custom	gene	1008321	1009148	.	-	0	product=nitrate transport protein_ NrtB;locus_tag=nrtB;ID=nrtB
 Syn6803_Chromosome	Custom	gene	1009234	1010574	.	-	0	product=nitrate transport 45kD protein;locus_tag=nrtA;ID=nrtA
 Syn6803_Chromosome	Custom	gene	1010710	1011759	.	-	0	product=;locus_tag=sll1634;ID=sll1634
@@ -3978,7 +3978,7 @@ Syn6803_Chromosome	Custom	gene	1022278	1024659	.	-	0	product=DNA helicase II;loc
 Syn6803_Chromosome	Custom	gene	1024825	1025346	.	-	0	product=;locus_tag=sll1142;ID=sll1142
 Syn6803_Chromosome	Custom	gene	1025423	1026442	.	+	0	product=cell division inhibitor;locus_tag=sulA;ID=sulA
 Syn6803_Chromosome	Custom	gene	1026511	1027737	.	+	0	product=cytoplasmic membrane protein for maltose uptake;locus_tag=malK;ID=malK
-Syn6803_Chromosome	Custom	gene	1027844	1029331	.	+	0	product=protein kinase_ PknA;locus_tag=pknA;ID=pknA
+Syn6803_Chromosome	Custom	gene	1027844	1029331	.	+	0	product=protein kinase_ PknA;locus_tag=pknA_Chromosome_1027844_1029331_+;ID=pknA_Chromosome_1027844_1029331_+
 Syn6803_Chromosome	Custom	gene	1029337	1030083	.	-	0	product=;locus_tag=sll1138;ID=sll1138
 Syn6803_Chromosome	Custom	gene	1030195	1030989	.	+	0	product=phosphoribosyl aminoidazole succinocarboxamide synthetase;locus_tag=purC;ID=purC
 Syn6803_Chromosome	Custom	gene	1031202	1033787	.	+	0	product=chloroplast import-associated channel IAP75;locus_tag=IAP75;ID=IAP75
@@ -4001,7 +4001,7 @@ Syn6803_Chromosome	Custom	gene	1048406	1048753	.	-	0	product=;locus_tag=sll1130;
 Syn6803_Chromosome	Custom	gene	1048750	1049016	.	-	0	product=;locus_tag=ssl2245;ID=ssl2245
 Syn6803_Chromosome	Custom	gene	1049517	1050407	.	-	0	product=2-hydroxy-6-oxohepta-2,4-dienoate hydrolase;locus_tag=todF;ID=todF
 Syn6803_Chromosome	Custom	gene	1050490	1050729	.	+	0	product=;locus_tag=ssr2060;ID=ssr2060
-Syn6803_Chromosome	Custom	gene	1050812	1051078	.	+	0	product=glutaredoxin 3;locus_tag=grxC;ID=grxC
+Syn6803_Chromosome	Custom	gene	1050812	1051078	.	+	0	product=glutaredoxin 3;locus_tag=grxC_Chromosome_1050812_1051078_+;ID=grxC_Chromosome_1050812_1051078_+
 Syn6803_Chromosome	Custom	gene	1051159	1052121	.	+	0	product=glutathione synthetase;locus_tag=gshB;ID=gshB
 Syn6803_Chromosome	Custom	gene	1052518	1052784	.	+	0	product=;locus_tag=ssr2062;ID=ssr2062
 Syn6803_Chromosome	Custom	gene	1052927	1053754	.	-	0	product=naphthoate synthase;locus_tag=menB;ID=menB
@@ -4020,11 +4020,11 @@ Syn6803_Chromosome	Custom	gene	1065660	1069010	.	-	0	product=DNA polymerase III 
 Syn6803_Chromosome	Custom	gene	1069178	1069609	.	+	0	product=;locus_tag=slr1440;ID=slr1440
 Syn6803_Chromosome	Custom	gene	1069666	1071702	.	-	0	product=;locus_tag=sll1359;ID=sll1359
 Syn6803_Chromosome	Custom	gene	1071734	1072918	.	-	0	product=;locus_tag=sll1358;ID=sll1358
-Syn6803_Chromosome	Custom	gene	1073080	1075629	.	-	0	product=glycogen phosphorylase;locus_tag=glgP;ID=glgP
+Syn6803_Chromosome	Custom	gene	1073080	1075629	.	-	0	product=glycogen phosphorylase;locus_tag=glgP_Chromosome_1073080_1075629_-;ID=glgP_Chromosome_1073080_1075629_-
 Syn6803_Chromosome	Custom	gene	1076065	1076454	.	+	0	product=;locus_tag=slr1441;ID=slr1441
 Syn6803_Chromosome	Custom	gene	1076474	1077019	.	-	0	product=;locus_tag=sll1355;ID=sll1355
 Syn6803_Chromosome	Custom	gene	1077755	1078612	.	+	0	product=;locus_tag=slr1442;ID=slr1442
-Syn6803_Chromosome	Custom	gene	1078657	1080501	.	+	0	product=protein kinase;locus_tag=pknA;ID=pknA
+Syn6803_Chromosome	Custom	gene	1078657	1080501	.	+	0	product=protein kinase;locus_tag=pknA_Chromosome_1078657_1080501_+;ID=pknA_Chromosome_1078657_1080501_+
 Syn6803_Chromosome	Custom	gene	1080695	1081696	.	+	0	product=;locus_tag=slr1444;ID=slr1444
 Syn6803_Chromosome	Custom	gene	1081887	1082141	.	+	0	product=;locus_tag=ssr2422;ID=ssr2422
 Syn6803_Chromosome	Custom	gene	1082437	1084716	.	-	0	product=single-strand-DNA-specific exonuclease_ RecJ;locus_tag=recJ;ID=recJ
@@ -4039,11 +4039,11 @@ Syn6803_Chromosome	Custom	gene	1093626	1094495	.	-	0	product=;locus_tag=sll1348;
 Syn6803_Chromosome	Custom	gene	1094649	1095143	.	-	0	product=riboflavin synthase beta subunit;locus_tag=ribH;ID=ribH
 Syn6803_Chromosome	Custom	gene	1095248	1095571	.	-	0	product=ycf9 gene product;locus_tag=ycf9;ID=ycf9
 Syn6803_Chromosome	Custom	gene	1095772	1096683	.	-	0	product=;locus_tag=sll1280;ID=sll1280
-Syn6803_Chromosome	Custom	gene	1097077	1098063	.	+	0	product=30S ribosomal protein S1;locus_tag=rps1;ID=rps1
+Syn6803_Chromosome	Custom	gene	1097077	1098063	.	+	0	product=30S ribosomal protein S1;locus_tag=rps1_Chromosome_1097077_1098063_+;ID=rps1_Chromosome_1097077_1098063_+
 Syn6803_Chromosome	Custom	gene	1098323	1099171	.	+	0	product=transposase;locus_tag=slr1357;ID=slr1357
 Syn6803_Chromosome	Custom	gene	1099214	1100368	.	-	0	product=RecF protein;locus_tag=recF;ID=recF
 Syn6803_Chromosome	Custom	gene	1100410	1102014	.	-	0	product=ABC transporter;locus_tag=sll1276;ID=sll1276
-Syn6803_Chromosome	Custom	gene	1102283	1104058	.	-	0	product=pyruvate kinase;locus_tag=pykF;ID=pykF
+Syn6803_Chromosome	Custom	gene	1102283	1104058	.	-	0	product=pyruvate kinase;locus_tag=pykF_Chromosome_1102283_1104058_-;ID=pykF_Chromosome_1102283_1104058_-
 Syn6803_Chromosome	Custom	gene	1104246	1104647	.	+	0	product=;locus_tag=slr1362;ID=slr1362
 Syn6803_Chromosome	Custom	gene	1105030	1105545	.	-	0	product=;locus_tag=sll1274;ID=sll1274
 Syn6803_Chromosome	Custom	gene	1105666	1107168	.	+	0	product=;locus_tag=slr1363;ID=slr1363
@@ -4055,7 +4055,7 @@ Syn6803_Chromosome	Custom	gene	1111185	1111955	.	-	0	product=;locus_tag=sll1272;
 Syn6803_Chromosome	Custom	gene	1112531	1114249	.	-	0	product=;locus_tag=sll1271;ID=sll1271
 Syn6803_Chromosome	Custom	gene	1114429	1116021	.	-	0	product=glutamine-binding periplasmic protein/glutamine transport system permease protein;locus_tag=glnH/glnP;ID=glnH/glnP
 Syn6803_Chromosome	Custom	gene	1116360	1116629	.	-	0	product=;locus_tag=ssl2501;ID=ssl2501
-Syn6803_Chromosome	Custom	gene	1117107	1119674	.	+	0	product=glycogen phosphorylase;locus_tag=glgP;ID=glgP
+Syn6803_Chromosome	Custom	gene	1117107	1119674	.	+	0	product=glycogen phosphorylase;locus_tag=glgP_Chromosome_1117107_1119674_+;ID=glgP_Chromosome_1117107_1119674_+
 Syn6803_Chromosome	Custom	gene	1119826	1120509	.	+	0	product=precorrin decarbocylase;locus_tag=cbiT;ID=cbiT
 Syn6803_Chromosome	Custom	gene	1120643	1121524	.	+	0	product=phosphatidate cytidylyltransferase;locus_tag=cdsA;ID=cdsA
 Syn6803_Chromosome	Custom	gene	1121627	1123180	.	-	0	product=;locus_tag=sll1268;ID=sll1268
@@ -4081,23 +4081,23 @@ Syn6803_Chromosome	Custom	gene	1146290	1146718	.	-	0	product=;locus_tag=sll0871;
 Syn6803_Chromosome	Custom	gene	1147034	1148098	.	+	0	product=glyceraldehyde 3-phosphate dehydrogenase;locus_tag=gap1;ID=gap1
 Syn6803_Chromosome	Custom	gene	1148722	1149297	.	+	0	product=;locus_tag=slr0885;ID=slr0885
 Syn6803_Chromosome	Custom	gene	1149471	1150067	.	-	0	product=Leu/Phe-tRNA-protein transferase;locus_tag=aat;ID=aat
-Syn6803_Chromosome	Custom	gene	1150122	1151033	.	-	0	product=lipoic acid synthetase;locus_tag=lipA;ID=lipA
+Syn6803_Chromosome	Custom	gene	1150122	1151033	.	-	0	product=lipoic acid synthetase;locus_tag=lipA_Chromosome_1150122_1151033_-;ID=lipA_Chromosome_1150122_1151033_-
 Syn6803_Chromosome	Custom	gene	1151139	1152431	.	-	0	product=;locus_tag=sll0867;ID=sll0867
-Syn6803_Chromosome	Custom	gene	1152549	1153292	.	+	0	product=3-oxoacyl-[acyl-carrier protein] reductase;locus_tag=fabG;ID=fabG
+Syn6803_Chromosome	Custom	gene	1152549	1153292	.	+	0	product=3-oxoacyl-[acyl-carrier protein] reductase;locus_tag=fabG_Chromosome_1152549_1153292_+;ID=fabG_Chromosome_1152549_1153292_+
 Syn6803_Chromosome	Custom	gene	1153292	1154101	.	+	0	product=;locus_tag=slr0887;ID=slr0887
 Syn6803_Chromosome	Custom	gene	1154330	1154836	.	+	0	product=;locus_tag=slr0888;ID=slr0888
 Syn6803_Chromosome	Custom	gene	1154857	1156083	.	+	0	product=ABC1-like;locus_tag=slr0889;ID=slr0889
 Syn6803_Chromosome	Custom	gene	1156234	1156503	.	+	0	product=;locus_tag=ssr1499;ID=ssr1499
 Syn6803_Chromosome	Custom	gene	1156580	1156975	.	+	0	product=;locus_tag=slr0890;ID=slr0890
 Syn6803_Chromosome	Custom	gene	1157029	1158909	.	-	0	product=excinuclease ABC subunit C;locus_tag=uvrC;ID=uvrC
-Syn6803_Chromosome	Custom	gene	1159029	1160804	.	+	0	product=N-acetylmuramoyl-L-alanine amidase;locus_tag=amiA;ID=amiA
+Syn6803_Chromosome	Custom	gene	1159029	1160804	.	+	0	product=N-acetylmuramoyl-L-alanine amidase;locus_tag=amiA_Chromosome_1159029_1160804_+;ID=amiA_Chromosome_1159029_1160804_+
 Syn6803_Chromosome	Custom	gene	1160787	1161260	.	-	0	product=;locus_tag=sll0864;ID=sll0864
 Syn6803_Chromosome	Custom	gene	1161441	1161842	.	-	0	product=;locus_tag=sll0863;ID=sll0863
 Syn6803_Chromosome	Custom	gene	1161856	1163367	.	-	0	product=;locus_tag=sll0862;ID=sll0862
 Syn6803_Chromosome	Custom	gene	1163421	1164338	.	-	0	product=;locus_tag=sll0861;ID=sll0861
 Syn6803_Chromosome	Custom	gene	1164496	1165017	.	-	0	product=;locus_tag=sll0860;ID=sll0860
 Syn6803_Chromosome	Custom	gene	1165087	1166073	.	-	0	product=apocytochrome f;locus_tag=petA;ID=petA
-Syn6803_Chromosome	Custom	gene	1166186	1166764	.	-	0	product=plastoquinol--plastocyanin reductase;locus_tag=petC;ID=petC
+Syn6803_Chromosome	Custom	gene	1166186	1166764	.	-	0	product=plastoquinol--plastocyanin reductase;locus_tag=petC_Chromosome_1166186_1166764_-;ID=petC_Chromosome_1166186_1166764_-
 Syn6803_Chromosome	Custom	gene	1167053	1167247	.	-	0	product=photosystem II PsbH protein;locus_tag=psbH;ID=psbH
 Syn6803_Chromosome	Custom	gene	1167333	1167464	.	+	0	product=photosystem II PsbN protein;locus_tag=psbN;ID=psbN
 Syn6803_Chromosome	Custom	gene	1167510	1167779	.	-	0	product=;locus_tag=ssl2595;ID=ssl2595
@@ -4121,7 +4121,7 @@ Syn6803_Chromosome	Custom	gene	1191445	1191786	.	+	0	product=;locus_tag=slr1853;
 Syn6803_Chromosome	Custom	gene	1191856	1192452	.	+	0	product=;locus_tag=slr1854;ID=slr1854
 Syn6803_Chromosome	Custom	gene	1192485	1194308	.	+	0	product=;locus_tag=slr1855;ID=slr1855
 Syn6803_Chromosome	Custom	gene	1194314	1194643	.	+	0	product=anti-sigma B factor antagonist;locus_tag=slr1856;ID=slr1856
-Syn6803_Chromosome	Custom	gene	1194653	1196776	.	+	0	product=glycogen operon protein_ GlgX;locus_tag=glgX;ID=glgX
+Syn6803_Chromosome	Custom	gene	1194653	1196776	.	+	0	product=glycogen operon protein_ GlgX;locus_tag=glgX_Chromosome_1194653_1196776_+;ID=glgX_Chromosome_1194653_1196776_+
 Syn6803_Chromosome	Custom	gene	1196836	1197162	.	+	0	product=;locus_tag=slr1859;ID=slr1859
 Syn6803_Chromosome	Custom	gene	1197262	1199166	.	+	0	product=ICFG protein;locus_tag=ICFG;ID=ICFG
 Syn6803_Chromosome	Custom	gene	1199172	1199603	.	+	0	product=;locus_tag=slr1861;ID=slr1861
@@ -4139,7 +4139,7 @@ Syn6803_Chromosome	Custom	gene	1212600	1213358	.	+	0	product=;locus_tag=slr1869;
 Syn6803_Chromosome	Custom	gene	1214188	1214937	.	+	0	product=;locus_tag=slr1870;ID=slr1870
 Syn6803_Chromosome	Custom	gene	1215453	1216151	.	-	0	product=;locus_tag=sll1773;ID=sll1773
 Syn6803_Chromosome	Custom	gene	1216281	1217168	.	+	0	product=transcriptional regulator;locus_tag=slr1871;ID=slr1871
-Syn6803_Chromosome	Custom	gene	1217156	1219624	.	-	0	product=DNA mismatch repair protein_ MutS;locus_tag=mutS;ID=mutS
+Syn6803_Chromosome	Custom	gene	1217156	1219624	.	-	0	product=DNA mismatch repair protein_ MutS;locus_tag=mutS_Chromosome_1217156_1219624_-;ID=mutS_Chromosome_1217156_1219624_-
 Syn6803_Chromosome	Custom	gene	1219654	1220418	.	-	0	product=;locus_tag=sll1771;ID=sll1771
 Syn6803_Chromosome	Custom	gene	1220473	1222230	.	-	0	product=ABC1-like;locus_tag=sll1770;ID=sll1770
 Syn6803_Chromosome	Custom	gene	1222610	1222927	.	-	0	product=;locus_tag=sll1769;ID=sll1769
@@ -4180,7 +4180,7 @@ Syn6803_Chromosome	Custom	gene	1250442	1252535	.	+	0	product=phosphotransacetyla
 Syn6803_Chromosome	Custom	gene	1252593	1253207	.	-	0	product=;locus_tag=sll2015;ID=sll2015
 Syn6803_Chromosome	Custom	gene	1253269	1253982	.	-	0	product=sugar fermentation stimulation protein;locus_tag=sfsA;ID=sfsA
 Syn6803_Chromosome	Custom	gene	1254036	1254623	.	-	0	product=;locus_tag=sll2013;ID=sll2013
-Syn6803_Chromosome	Custom	gene	1254783	1255739	.	-	0	product=RNA polymerase sigma factor;locus_tag=rpoD;ID=rpoD
+Syn6803_Chromosome	Custom	gene	1254783	1255739	.	-	0	product=RNA polymerase sigma factor;locus_tag=rpoD_Chromosome_1254783_1255739_-;ID=rpoD_Chromosome_1254783_1255739_-
 Syn6803_Chromosome	Custom	gene	1256125	1256751	.	-	0	product=;locus_tag=sll2011;ID=sll2011
 Syn6803_Chromosome	Custom	gene	1256905	1258263	.	-	0	product=UDP-N-acetylmuramoylalanine--D-glutamate ligase;locus_tag=murD;ID=murD
 Syn6803_Chromosome	Custom	gene	1258444	1259751	.	-	0	product=processing protease;locus_tag=sll2009;ID=sll2009
@@ -4204,7 +4204,7 @@ Syn6803_Chromosome	Custom	gene	1277108	1277392	.	-	0	product=;locus_tag=ssl3291;
 Syn6803_Chromosome	Custom	gene	1277442	1278122	.	-	0	product=NarL subfamily;locus_tag=sll1708;ID=sll1708
 Syn6803_Chromosome	Custom	gene	1278293	1280542	.	+	0	product=sensory transduction histidine kinase;locus_tag=slr1805;ID=slr1805
 Syn6803_Chromosome	Custom	gene	1280567	1281337	.	-	0	product=cell-cell signaling protein, C-factor;locus_tag=csgA;ID=csgA
-Syn6803_Chromosome	Custom	gene	1281361	1283193	.	-	0	product=protease IV;locus_tag=sppA;ID=sppA
+Syn6803_Chromosome	Custom	gene	1281361	1283193	.	-	0	product=protease IV;locus_tag=sppA_Chromosome_1281361_1283193_-;ID=sppA_Chromosome_1281361_1283193_-
 Syn6803_Chromosome	Custom	gene	1283190	1283702	.	-	0	product=;locus_tag=sll1702;ID=sll1702
 Syn6803_Chromosome	Custom	gene	1283741	1284526	.	+	0	product=;locus_tag=slr1807;ID=slr1807
 Syn6803_Chromosome	Custom	gene	1284552	1285943	.	+	0	product=transfer RNA-Gln reductase;locus_tag=hemA;ID=hemA
@@ -4219,15 +4219,15 @@ Syn6803_Chromosome	Custom	gene	1292215	1292679	.	+	0	product=;locus_tag=slr1814;
 Syn6803_Chromosome	Custom	gene	1292820	1293356	.	+	0	product=;locus_tag=slr1815;ID=slr1815
 Syn6803_Chromosome	Custom	gene	1293398	1295551	.	+	0	product=;locus_tag=slr1816;ID=slr1816
 Syn6803_Chromosome	Custom	gene	1295568	1296380	.	-	0	product=;locus_tag=sll1696;ID=sll1696
-Syn6803_Chromosome	Custom	gene	1296382	1296894	.	-	0	product=general secretion pathway protein G;locus_tag=hofG;ID=hofG
-Syn6803_Chromosome	Custom	gene	1296993	1297499	.	-	0	product=general secretion pathway protein G;locus_tag=hofG;ID=hofG
+Syn6803_Chromosome	Custom	gene	1296382	1296894	.	-	0	product=general secretion pathway protein G;locus_tag=hofG_Chromosome_1296382_1296894_-;ID=hofG_Chromosome_1296382_1296894_-
+Syn6803_Chromosome	Custom	gene	1296993	1297499	.	-	0	product=general secretion pathway protein G;locus_tag=hofG_Chromosome_1296993_1297499_-;ID=hofG_Chromosome_1296993_1297499_-
 Syn6803_Chromosome	Custom	gene	1297643	1298965	.	-	0	product=;locus_tag=sll1693;ID=sll1693
 Syn6803_Chromosome	Custom	gene	1299120	1299725	.	+	0	product=;locus_tag=slr1818;ID=slr1818
 Syn6803_Chromosome	Custom	gene	1299729	1300166	.	-	0	product=;locus_tag=sll1692;ID=sll1692
 Syn6803_Chromosome	Custom	gene	1300159	1300611	.	-	0	product=;locus_tag=sll1691;ID=sll1691
 Syn6803_Chromosome	Custom	gene	1300661	1301656	.	+	0	product=;locus_tag=slr1819;ID=slr1819
-Syn6803_Chromosome	Custom	gene	1301671	1302780	.	-	0	product=RNA polymerase sigma factor;locus_tag=rpoD;ID=rpoD
-Syn6803_Chromosome	Custom	gene	1303295	1304596	.	-	0	product=threonine synthase;locus_tag=thrC;ID=thrC
+Syn6803_Chromosome	Custom	gene	1301671	1302780	.	-	0	product=RNA polymerase sigma factor;locus_tag=rpoD_Chromosome_1301671_1302780_-;ID=rpoD_Chromosome_1301671_1302780_-
+Syn6803_Chromosome	Custom	gene	1303295	1304596	.	-	0	product=threonine synthase;locus_tag=thrC_Chromosome_1303295_1304596_-;ID=thrC_Chromosome_1303295_1304596_-
 Syn6803_Chromosome	Custom	gene	1304971	1306443	.	+	0	product=;locus_tag=slr1820;ID=slr1820
 Syn6803_Chromosome	Custom	gene	1306436	1309348	.	-	0	product=;locus_tag=sll1687;ID=sll1687
 Syn6803_Chromosome	Custom	gene	1309482	1310582	.	+	0	product=;locus_tag=slr1821;ID=slr1821
@@ -4235,12 +4235,12 @@ Syn6803_Chromosome	Custom	gene	1310575	1311234	.	+	0	product=endonuclease III;lo
 Syn6803_Chromosome	Custom	gene	1311828	1312277	.	+	0	product=;locus_tag=slr1732;ID=slr1732
 Syn6803_Chromosome	Custom	gene	1312309	1312803	.	-	0	product=;locus_tag=sll1631;ID=sll1631
 Syn6803_Chromosome	Custom	gene	1312843	1313268	.	-	0	product=;locus_tag=sll1630;ID=sll1630
-Syn6803_Chromosome	Custom	gene	1313278	1314639	.	-	0	product=DNA photolyase;locus_tag=phr;ID=phr
+Syn6803_Chromosome	Custom	gene	1313278	1314639	.	-	0	product=DNA photolyase;locus_tag=phr_Chromosome_1313278_1314639_-;ID=phr_Chromosome_1313278_1314639_-
 Syn6803_Chromosome	Custom	gene	1314909	1316063	.	-	0	product=;locus_tag=sll1628;ID=sll1628
 Syn6803_Chromosome	Custom	gene	1316227	1317654	.	+	0	product=OxPPCycle gene;locus_tag=opcA;ID=opcA
 Syn6803_Chromosome	Custom	gene	1317712	1318470	.	+	0	product=ABC transporter;locus_tag=slr1735;ID=slr1735
 Syn6803_Chromosome	Custom	gene	1318719	1319330	.	-	0	product=SOS function regulatory protein;locus_tag=lexA;ID=lexA
-Syn6803_Chromosome	Custom	gene	1319546	1320541	.	-	0	product=succinate dehydrogenase iron-sulphur protein subunit;locus_tag=sdhB;ID=sdhB
+Syn6803_Chromosome	Custom	gene	1319546	1320541	.	-	0	product=succinate dehydrogenase iron-sulphur protein subunit;locus_tag=sdhB_Chromosome_1319546_1320541_-;ID=sdhB_Chromosome_1319546_1320541_-
 Syn6803_Chromosome	Custom	gene	1320835	1321839	.	-	0	product=regulatory components of sensory transduction system;locus_tag=sll1624;ID=sll1624
 Syn6803_Chromosome	Custom	gene	1321852	1322523	.	-	0	product=ABC transporter;locus_tag=sll1623;ID=sll1623
 Syn6803_Chromosome	Custom	gene	1322687	1323613	.	+	0	product=;locus_tag=slr1736;ID=slr1736
@@ -4252,17 +4252,17 @@ Syn6803_Chromosome	Custom	gene	1326880	1327248	.	+	0	product=;locus_tag=slr1739;
 Syn6803_Chromosome	Custom	gene	1327367	1329115	.	+	0	product=extracellular solute-binding protein;locus_tag=slr1740;ID=slr1740
 Syn6803_Chromosome	Custom	gene	1329388	1329990	.	-	0	product=;locus_tag=sll1618;ID=sll1618
 Syn6803_Chromosome	Custom	gene	1330110	1330880	.	+	0	product=;locus_tag=slr1742;ID=slr1742
-Syn6803_Chromosome	Custom	gene	1330930	1332144	.	+	0	product=NADH dehydrogenase;locus_tag=ndh;ID=ndh
-Syn6803_Chromosome	Custom	gene	1332429	1334378	.	+	0	product=N-acetylmuramoyl-L-alanine amidase;locus_tag=amiA;ID=amiA
+Syn6803_Chromosome	Custom	gene	1330930	1332144	.	+	0	product=NADH dehydrogenase;locus_tag=ndh_Chromosome_1330930_1332144_+;ID=ndh_Chromosome_1330930_1332144_+
+Syn6803_Chromosome	Custom	gene	1332429	1334378	.	+	0	product=N-acetylmuramoyl-L-alanine amidase;locus_tag=amiA_Chromosome_1332429_1334378_+;ID=amiA_Chromosome_1332429_1334378_+
 Syn6803_Chromosome	Custom	gene	1334522	1335361	.	+	0	product=glutamate racemase;locus_tag=murI;ID=murI
 Syn6803_Chromosome	Custom	gene	1335571	1336980	.	+	0	product=;locus_tag=slr1747;ID=slr1747
-Syn6803_Chromosome	Custom	gene	1337299	1338636	.	+	0	product=NADH dehydrogenase;locus_tag=ndh;ID=ndh
+Syn6803_Chromosome	Custom	gene	1337299	1338636	.	+	0	product=NADH dehydrogenase;locus_tag=ndh_Chromosome_1337299_1338636_+;ID=ndh_Chromosome_1337299_1338636_+
 Syn6803_Chromosome	Custom	gene	1338727	1339155	.	+	0	product=;locus_tag=slr0852;ID=slr0852
 Syn6803_Chromosome	Custom	gene	1339155	1339631	.	+	0	product=ribosomal-protein-alanine acetyltransferase;locus_tag=rimI;ID=rimI
-Syn6803_Chromosome	Custom	gene	1339656	1341122	.	+	0	product=deoxyribopyrimidine photolyase;locus_tag=phr;ID=phr
+Syn6803_Chromosome	Custom	gene	1339656	1341122	.	+	0	product=deoxyribopyrimidine photolyase;locus_tag=phr_Chromosome_1339656_1341122_+;ID=phr_Chromosome_1339656_1341122_+
 Syn6803_Chromosome	Custom	gene	1341131	1341724	.	-	0	product=;locus_tag=sll0858;ID=sll0858
 Syn6803_Chromosome	Custom	gene	1341694	1342110	.	-	0	product=;locus_tag=sll0857;ID=sll0857
-Syn6803_Chromosome	Custom	gene	1342052	1342612	.	-	0	product=RNA polymerase sigma-E factor;locus_tag=rpoE;ID=rpoE
+Syn6803_Chromosome	Custom	gene	1342052	1342612	.	-	0	product=RNA polymerase sigma-E factor;locus_tag=rpoE_Chromosome_1342052_1342612_-;ID=rpoE_Chromosome_1342052_1342612_-
 Syn6803_Chromosome	Custom	gene	1342775	1344130	.	-	0	product=;locus_tag=sll0855;ID=sll0855
 Syn6803_Chromosome	Custom	gene	1344140	1345066	.	-	0	product=;locus_tag=sll0854;ID=sll0854
 Syn6803_Chromosome	Custom	gene	1345117	1345677	.	-	0	product=;locus_tag=sll0853;ID=sll0853
@@ -4290,7 +4290,7 @@ Syn6803_Chromosome	Custom	gene	1367129	1369567	.	+	0	product=;locus_tag=slr0869;
 Syn6803_Chromosome	Custom	gene	1369656	1370018	.	+	0	product=;locus_tag=slr0870;ID=slr0870
 Syn6803_Chromosome	Custom	gene	1370043	1370426	.	+	0	product=;locus_tag=slr0871;ID=slr0871
 Syn6803_Chromosome	Custom	gene	1371168	1372286	.	+	0	product=;locus_tag=slr0872;ID=slr0872
-Syn6803_Chromosome	Custom	gene	1372455	1375193	.	-	0	product=DNA mismatch repair protein;locus_tag=mutS;ID=mutS
+Syn6803_Chromosome	Custom	gene	1372455	1375193	.	-	0	product=DNA mismatch repair protein;locus_tag=mutS_Chromosome_1372455_1375193_-;ID=mutS_Chromosome_1372455_1375193_-
 Syn6803_Chromosome	Custom	gene	1375351	1378545	.	+	0	product=;locus_tag=slr1243;ID=slr1243
 Syn6803_Chromosome	Custom	gene	1378662	1379711	.	-	0	product=;locus_tag=sll1164;ID=sll1164
 Syn6803_Chromosome	Custom	gene	1379715	1380122	.	-	0	product=;locus_tag=sll1163;ID=sll1163
@@ -4306,11 +4306,11 @@ Syn6803_Chromosome	Custom	gene	1385754	1386170	.	-	0	product=transposase;locus_t
 Syn6803_Chromosome	Custom	gene	1386059	1386484	.	-	0	product=transposase;locus_tag=sll1156;ID=sll1156
 Syn6803_Chromosome	Custom	gene	1386578	1386919	.	-	0	product=;locus_tag=sll1155;ID=sll1155
 Syn6803_Chromosome	Custom	gene	1387040	1388296	.	-	0	product=quinolene resistance protein_ NorA;locus_tag=norA;ID=norA
-Syn6803_Chromosome	Custom	gene	1388912	1389913	.	+	0	product=periplasmic phosphate binding protein;locus_tag=pstS;ID=pstS
-Syn6803_Chromosome	Custom	gene	1390059	1391045	.	+	0	product=phosphate transport system permease protein_ PstC;locus_tag=pstC;ID=pstC
-Syn6803_Chromosome	Custom	gene	1391050	1391922	.	+	0	product=phosphate transport system permease protein_ PstA;locus_tag=pstA;ID=pstA
-Syn6803_Chromosome	Custom	gene	1391976	1392791	.	+	0	product=phosphate transport ATP-binding protein_ PstB;locus_tag=pstB;ID=pstB
-Syn6803_Chromosome	Custom	gene	1392972	1393487	.	+	0	product=peptidyl-prolyl cis-trans isomerase;locus_tag=cyp;ID=cyp
+Syn6803_Chromosome	Custom	gene	1388912	1389913	.	+	0	product=periplasmic phosphate binding protein;locus_tag=pstS_Chromosome_1388912_1389913_+;ID=pstS_Chromosome_1388912_1389913_+
+Syn6803_Chromosome	Custom	gene	1390059	1391045	.	+	0	product=phosphate transport system permease protein_ PstC;locus_tag=pstC_Chromosome_1390059_1391045_+;ID=pstC_Chromosome_1390059_1391045_+
+Syn6803_Chromosome	Custom	gene	1391050	1391922	.	+	0	product=phosphate transport system permease protein_ PstA;locus_tag=pstA_Chromosome_1391050_1391922_+;ID=pstA_Chromosome_1391050_1391922_+
+Syn6803_Chromosome	Custom	gene	1391976	1392791	.	+	0	product=phosphate transport ATP-binding protein_ PstB;locus_tag=pstB_Chromosome_1391976_1392791_+;ID=pstB_Chromosome_1391976_1392791_+
+Syn6803_Chromosome	Custom	gene	1392972	1393487	.	+	0	product=peptidyl-prolyl cis-trans isomerase;locus_tag=cyp_Chromosome_1392972_1393487_+;ID=cyp_Chromosome_1392972_1393487_+
 Syn6803_Chromosome	Custom	gene	1393616	1393906	.	-	0	product=pterin-4a-carbinolamine dehydratase;locus_tag=dcoH;ID=dcoH
 Syn6803_Chromosome	Custom	gene	1393938	1395755	.	-	0	product=;locus_tag=sll1151;ID=sll1151
 Syn6803_Chromosome	Custom	gene	1395922	1396176	.	+	0	product=;locus_tag=ssr2087;ID=ssr2087
@@ -4329,8 +4329,8 @@ Syn6803_Chromosome	Custom	gene	1405981	1406847	.	+	0	product=;locus_tag=slr1262;
 Syn6803_Chromosome	Custom	gene	1407043	1408455	.	+	0	product=;locus_tag=slr1263;ID=slr1263
 Syn6803_Chromosome	Custom	gene	1408483	1409649	.	-	0	product=;locus_tag=sll1961;ID=sll1961
 Syn6803_Chromosome	Custom	gene	1409730	1410152	.	-	0	product=;locus_tag=sll1960;ID=sll1960
-Syn6803_Chromosome	Custom	gene	1410187	1410990	.	-	0	product=extragenic suppressor;locus_tag=suhB;ID=suhB
-Syn6803_Chromosome	Custom	gene	1410995	1412098	.	-	0	product=histidinol phosphate aminotransferase;locus_tag=hisC;ID=hisC
+Syn6803_Chromosome	Custom	gene	1410187	1410990	.	-	0	product=extragenic suppressor;locus_tag=suhB_Chromosome_1410187_1410990_-;ID=suhB_Chromosome_1410187_1410990_-
+Syn6803_Chromosome	Custom	gene	1410995	1412098	.	-	0	product=histidinol phosphate aminotransferase;locus_tag=hisC_Chromosome_1410995_1412098_-;ID=hisC_Chromosome_1410995_1412098_-
 Syn6803_Chromosome	Custom	gene	1412237	1412551	.	-	0	product=arsenical resistance operon repressor;locus_tag=arsA;ID=arsA
 Syn6803_Chromosome	Custom	gene	1412923	1413666	.	+	0	product=water channel protein;locus_tag=apqZ;ID=apqZ
 Syn6803_Chromosome	Custom	gene	1414126	1416822	.	+	0	product=DNA topoisomerase I;locus_tag=topA;ID=topA
@@ -4349,10 +4349,10 @@ Syn6803_Chromosome	Custom	gene	1431698	1431901	.	+	0	product=phycobilisome LC li
 Syn6803_Chromosome	Custom	gene	1431996	1432898	.	-	0	product=ribosomal protein L11 methyltransferase_ PrmA;locus_tag=prmA;ID=prmA
 Syn6803_Chromosome	Custom	gene	1432976	1434640	.	-	0	product=phosphoglycerate dehydrogenase;locus_tag=serA;ID=serA
 Syn6803_Chromosome	Custom	gene	1434901	1435623	.	+	0	product=;locus_tag=slr1990;ID=slr1990
-Syn6803_Chromosome	Custom	gene	1435645	1436658	.	+	0	product=adenylate cyclase;locus_tag=cyaA;ID=cyaA
+Syn6803_Chromosome	Custom	gene	1435645	1436658	.	+	0	product=adenylate cyclase;locus_tag=cyaA_Chromosome_1435645_1436658_+;ID=cyaA_Chromosome_1435645_1436658_+
 Syn6803_Chromosome	Custom	gene	1436699	1437163	.	+	0	product=glutathione peroxidase;locus_tag=slr1992;ID=slr1992
 Syn6803_Chromosome	Custom	gene	1437373	1438602	.	+	0	product=acetyl coenzyme A acetyltransferase (thiolase);locus_tag=thl;ID=thl
-Syn6803_Chromosome	Custom	gene	1438704	1439426	.	+	0	product=3-ketoacyl-acyl carrier protein reductase;locus_tag=fabG;ID=fabG
+Syn6803_Chromosome	Custom	gene	1438704	1439426	.	+	0	product=3-ketoacyl-acyl carrier protein reductase;locus_tag=fabG_Chromosome_1438704_1439426_+;ID=fabG_Chromosome_1438704_1439426_+
 Syn6803_Chromosome	Custom	gene	1439487	1440941	.	-	0	product=44.5 kD bacteriochlorophyll synthase subunit;locus_tag=sll1906;ID=sll1906
 Syn6803_Chromosome	Custom	gene	1441002	1444046	.	-	0	product=hybrid sensory kinase;locus_tag=sll1905;ID=sll1905
 Syn6803_Chromosome	Custom	gene	1444115	1445392	.	+	0	product=;locus_tag=slr1998;ID=slr1998
@@ -4381,7 +4381,7 @@ Syn6803_Chromosome	Custom	gene	1470610	1471335	.	+	0	product=;locus_tag=slr1718;
 Syn6803_Chromosome	Custom	gene	1471414	1472019	.	+	0	product=DrgA gene product;locus_tag=drgA;ID=drgA
 Syn6803_Chromosome	Custom	gene	1472149	1473948	.	+	0	product=aspartyl-tRNA synthetase;locus_tag=aspS;ID=aspS
 Syn6803_Chromosome	Custom	gene	1473974	1475452	.	+	0	product=;locus_tag=slr1721;ID=slr1721
-Syn6803_Chromosome	Custom	gene	1475555	1476718	.	+	0	product=IMP dehydrogenase subunit;locus_tag=guaB;ID=guaB
+Syn6803_Chromosome	Custom	gene	1475555	1476718	.	+	0	product=IMP dehydrogenase subunit;locus_tag=guaB_Chromosome_1475555_1476718_+;ID=guaB_Chromosome_1475555_1476718_+
 Syn6803_Chromosome	Custom	gene	1476845	1477657	.	+	0	product=lactose transport system permease protein_ LacG;locus_tag=lacG;ID=lacG
 Syn6803_Chromosome	Custom	gene	1477647	1478891	.	-	0	product=;locus_tag=sll1601;ID=sll1601
 Syn6803_Chromosome	Custom	gene	1478988	1479782	.	+	0	product=;locus_tag=slr1724;ID=slr1724
@@ -4420,11 +4420,11 @@ Syn6803_Chromosome	Custom	gene	1516659	1517171	.	-	0	product=flavodoxin;locus_ta
 Syn6803_Chromosome	Custom	gene	1517576	1518604	.	-	0	product=iron-stress chlorophyll-binding protein;locus_tag=isiA;ID=isiA
 Syn6803_Chromosome	Custom	gene	1519114	1519953	.	+	0	product=;locus_tag=slr0267;ID=slr0267
 Syn6803_Chromosome	Custom	gene	1520009	1521100	.	-	0	product=;locus_tag=sll0245;ID=sll0245
-Syn6803_Chromosome	Custom	gene	1521210	1522226	.	-	0	product=UDP-glucose 4-epimerase;locus_tag=galE;ID=galE
+Syn6803_Chromosome	Custom	gene	1521210	1522226	.	-	0	product=UDP-glucose 4-epimerase;locus_tag=galE_Chromosome_1521210_1522226_-;ID=galE_Chromosome_1521210_1522226_-
 Syn6803_Chromosome	Custom	gene	1522300	1522899	.	+	0	product=;locus_tag=slr0269;ID=slr0269
 Syn6803_Chromosome	Custom	gene	1522990	1523310	.	+	0	product=;locus_tag=slr0270;ID=slr0270
-Syn6803_Chromosome	Custom	gene	1523527	1523709	.	-	0	product=phycobilisome degradation protein_ NblA;locus_tag=nblA;ID=nblA
-Syn6803_Chromosome	Custom	gene	1523796	1523984	.	-	0	product=phycobilisome degradation protein_ NblA;locus_tag=nblA;ID=nblA
+Syn6803_Chromosome	Custom	gene	1523527	1523709	.	-	0	product=phycobilisome degradation protein_ NblA;locus_tag=nblA_Chromosome_1523527_1523709_-;ID=nblA_Chromosome_1523527_1523709_-
+Syn6803_Chromosome	Custom	gene	1523796	1523984	.	-	0	product=phycobilisome degradation protein_ NblA;locus_tag=nblA_Chromosome_1523796_1523984_-;ID=nblA_Chromosome_1523796_1523984_-
 Syn6803_Chromosome	Custom	gene	1524568	1525086	.	+	0	product=;locus_tag=slr0271;ID=slr0271
 Syn6803_Chromosome	Custom	gene	1525205	1526182	.	+	0	product=;locus_tag=slr0272;ID=slr0272
 Syn6803_Chromosome	Custom	gene	1526224	1527174	.	+	0	product=;locus_tag=slr0273;ID=slr0273
@@ -4440,8 +4440,8 @@ Syn6803_Chromosome	Custom	gene	1537828	1538811	.	+	0	product=;locus_tag=slr2079;
 Syn6803_Chromosome	Custom	gene	1538916	1539158	.	+	0	product=;locus_tag=ssr3532;ID=ssr3532
 Syn6803_Chromosome	Custom	gene	1539145	1539597	.	+	0	product=;locus_tag=slr2080;ID=slr2080
 Syn6803_Chromosome	Custom	gene	1539677	1540516	.	+	0	product=prephenate dehydrogenase;locus_tag=tyrA;ID=tyrA
-Syn6803_Chromosome	Custom	gene	1540650	1542284	.	+	0	product=cytochrome c oxidase subunit I;locus_tag=ctaD;ID=ctaD
-Syn6803_Chromosome	Custom	gene	1542341	1542937	.	+	0	product=cytochrome c oxidase subunit III;locus_tag=ctaE;ID=ctaE
+Syn6803_Chromosome	Custom	gene	1540650	1542284	.	+	0	product=cytochrome c oxidase subunit I;locus_tag=ctaD_Chromosome_1540650_1542284_+;ID=ctaD_Chromosome_1540650_1542284_+
+Syn6803_Chromosome	Custom	gene	1542341	1542937	.	+	0	product=cytochrome c oxidase subunit III;locus_tag=ctaE_Chromosome_1542341_1542937_+;ID=ctaE_Chromosome_1542341_1542937_+
 Syn6803_Chromosome	Custom	gene	1543036	1543701	.	+	0	product=;locus_tag=slr2084;ID=slr2084
 Syn6803_Chromosome	Custom	gene	1543757	1544665	.	-	0	product=;locus_tag=sll1988;ID=sll1988
 Syn6803_Chromosome	Custom	gene	1544714	1546978	.	-	0	product=catalase hpi;locus_tag=katG;ID=katG
@@ -4455,7 +4455,7 @@ Syn6803_Chromosome	Custom	gene	1555061	1555774	.	-	0	product=transposase;locus_t
 Syn6803_Chromosome	Custom	gene	1556037	1556438	.	+	0	product=;locus_tag=slr2092;ID=slr2092
 Syn6803_Chromosome	Custom	gene	1556475	1558127	.	-	0	product=acetolactate synthase;locus_tag=ilvB;ID=ilvB
 Syn6803_Chromosome	Custom	gene	1558427	1558651	.	-	0	product=;locus_tag=ssl3769;ID=ssl3769
-Syn6803_Chromosome	Custom	gene	1559069	1559611	.	-	0	product=thiol:disulfide interchange protein_ TrxA;locus_tag=trxA;ID=trxA
+Syn6803_Chromosome	Custom	gene	1559069	1559611	.	-	0	product=thiol:disulfide interchange protein_ TrxA;locus_tag=trxA_Chromosome_1559069_1559611_-;ID=trxA_Chromosome_1559069_1559611_-
 Syn6803_Chromosome	Custom	gene	1559722	1560150	.	-	0	product=;locus_tag=sll1979;ID=sll1979
 Syn6803_Chromosome	Custom	gene	1560387	1561424	.	+	0	product=GlpX protein;locus_tag=glpX;ID=glpX
 Syn6803_Chromosome	Custom	gene	1561693	1562118	.	+	0	product=transposase;locus_tag=slr2095;ID=slr2095
@@ -4559,7 +4559,7 @@ Syn6803_Chromosome	Custom	gene	1664798	1666699	.	-	0	product=hybrid sensory kina
 Syn6803_Chromosome	Custom	gene	1666932	1668383	.	+	0	product=ATP synthase b subunit;locus_tag=atpB;ID=atpB
 Syn6803_Chromosome	Custom	gene	1668444	1668941	.	+	0	product=ATP synthase e subunit;locus_tag=atpE;ID=atpE
 Syn6803_Chromosome	Custom	gene	1669101	1670642	.	+	0	product=processing protease;locus_tag=ymxG;ID=ymxG
-Syn6803_Chromosome	Custom	gene	1670650	1671864	.	+	0	product=beta ketoacyl-acyl carrier protein synthase;locus_tag=fabF;ID=fabF
+Syn6803_Chromosome	Custom	gene	1670650	1671864	.	+	0	product=beta ketoacyl-acyl carrier protein synthase;locus_tag=fabF_Chromosome_1670650_1671864_+;ID=fabF_Chromosome_1670650_1671864_+
 Syn6803_Chromosome	Custom	gene	1672071	1673495	.	-	0	product=hydrogenase large subunit;locus_tag=hoxH;ID=hoxH
 Syn6803_Chromosome	Custom	gene	1673585	1674034	.	-	0	product=;locus_tag=sll1225;ID=sll1225
 Syn6803_Chromosome	Custom	gene	1674044	1674298	.	-	0	product=;locus_tag=ssl2420;ID=ssl2420
@@ -4571,16 +4571,16 @@ Syn6803_Chromosome	Custom	gene	1678044	1678565	.	-	0	product=potential NAD-reduc
 Syn6803_Chromosome	Custom	gene	1679517	1679804	.	+	0	product=transposase;locus_tag=ssr2227;ID=ssr2227
 Syn6803_Chromosome	Custom	gene	1680662	1682134	.	+	0	product=;locus_tag=slr1334;ID=slr1334
 Syn6803_Chromosome	Custom	gene	1682001	1682327	.	-	0	product=;locus_tag=sll1219;ID=sll1219
-Syn6803_Chromosome	Custom	gene	1682870	1683529	.	-	0	product=;locus_tag=ycf39;ID=ycf39
+Syn6803_Chromosome	Custom	gene	1682870	1683529	.	-	0	product=;locus_tag=ycf39_Chromosome_1682870_1683529_-;ID=ycf39_Chromosome_1682870_1683529_-
 Syn6803_Chromosome	Custom	gene	1683583	1684260	.	-	0	product=;locus_tag=sll1217;ID=sll1217
 Syn6803_Chromosome	Custom	gene	1684497	1684691	.	+	0	product=;locus_tag=ssr1375;ID=ssr1375
-Syn6803_Chromosome	Custom	gene	1684928	1685872	.	+	0	product=D-alanyl-D-alanine carboxypeptidase;locus_tag=dacB;ID=dacB
+Syn6803_Chromosome	Custom	gene	1684928	1685872	.	+	0	product=D-alanyl-D-alanine carboxypeptidase;locus_tag=dacB_Chromosome_1684928_1685872_+;ID=dacB_Chromosome_1684928_1685872_+
 Syn6803_Chromosome	Custom	gene	1685899	1687218	.	+	0	product=;locus_tag=slr0806;ID=slr0806
 Syn6803_Chromosome	Custom	gene	1687326	1687448	.	-	0	product=photosystem I subunit IX;locus_tag=psaJ;ID=psaJ
 Syn6803_Chromosome	Custom	gene	1687556	1688053	.	-	0	product=photosystem I subunit III;locus_tag=psaF;ID=psaF
 Syn6803_Chromosome	Custom	gene	1688213	1689259	.	+	0	product=putative glycoprotease;locus_tag=gcp;ID=gcp
 Syn6803_Chromosome	Custom	gene	1689313	1689870	.	+	0	product=;locus_tag=slr0808;ID=slr0808
-Syn6803_Chromosome	Custom	gene	1689948	1690934	.	+	0	product=dTDP-glucose 4-6-dehydratase;locus_tag=rfbB;ID=rfbB
+Syn6803_Chromosome	Custom	gene	1689948	1690934	.	+	0	product=dTDP-glucose 4-6-dehydratase;locus_tag=rfbB_Chromosome_1689948_1690934_+;ID=rfbB_Chromosome_1689948_1690934_+
 Syn6803_Chromosome	Custom	gene	1691083	1691442	.	+	0	product=;locus_tag=slr0810;ID=slr0810
 Syn6803_Chromosome	Custom	gene	1691493	1692332	.	-	0	product=;locus_tag=sll0818;ID=sll0818
 Syn6803_Chromosome	Custom	gene	1692332	1692559	.	-	0	product=;locus_tag=ssl1520;ID=ssl1520
@@ -4588,7 +4588,7 @@ Syn6803_Chromosome	Custom	gene	1692627	1693538	.	-	0	product=tRNA delta-2-isopen
 Syn6803_Chromosome	Custom	gene	1693546	1694661	.	-	0	product=;locus_tag=sll0816;ID=sll0816
 Syn6803_Chromosome	Custom	gene	1694717	1695511	.	-	0	product=;locus_tag=sll0815;ID=sll0815
 Syn6803_Chromosome	Custom	gene	1695886	1696797	.	-	0	product=;locus_tag=sll0814;ID=sll0814
-Syn6803_Chromosome	Custom	gene	1697011	1697913	.	-	0	product=cytochrome c oxidase subunit II;locus_tag=ctaC;ID=ctaC
+Syn6803_Chromosome	Custom	gene	1697011	1697913	.	-	0	product=cytochrome c oxidase subunit II;locus_tag=ctaC_Chromosome_1697011_1697913_-;ID=ctaC_Chromosome_1697011_1697913_-
 Syn6803_Chromosome	Custom	gene	1697993	1698766	.	+	0	product=;locus_tag=slr0812;ID=slr0812
 Syn6803_Chromosome	Custom	gene	1698811	1699980	.	+	0	product=ceramide glucosyltransferase;locus_tag=slr0813;ID=slr0813
 Syn6803_Chromosome	Custom	gene	1699970	1700431	.	-	0	product=;locus_tag=sll0812;ID=sll0812
@@ -4628,14 +4628,14 @@ Syn6803_Chromosome	Custom	gene	1729012	1730028	.	-	0	product=transposase;locus_t
 Syn6803_Chromosome	Custom	gene	1730166	1731206	.	-	0	product=hemolysin;locus_tag=sll1254;ID=sll1254
 Syn6803_Chromosome	Custom	gene	1731311	1732648	.	+	0	product=;locus_tag=slr1342;ID=slr1342
 Syn6803_Chromosome	Custom	gene	1732809	1734323	.	+	0	product=;locus_tag=slr1343;ID=slr1343
-Syn6803_Chromosome	Custom	gene	1734382	1737210	.	-	0	product=polyA polymerase;locus_tag=pcnB;ID=pcnB
+Syn6803_Chromosome	Custom	gene	1734382	1737210	.	-	0	product=polyA polymerase;locus_tag=pcnB_Chromosome_1734382_1737210_-;ID=pcnB_Chromosome_1734382_1737210_-
 Syn6803_Chromosome	Custom	gene	1737338	1738117	.	-	0	product=;locus_tag=sll1252;ID=sll1252
 Syn6803_Chromosome	Custom	gene	1738184	1739035	.	+	0	product=;locus_tag=slr1344;ID=slr1344
 Syn6803_Chromosome	Custom	gene	1739130	1740020	.	-	0	product=;locus_tag=sll1251;ID=sll1251
 Syn6803_Chromosome	Custom	gene	1740188	1740349	.	-	0	product=;locus_tag=ssl2471;ID=ssl2471
 Syn6803_Chromosome	Custom	gene	1740388	1740774	.	-	0	product=;locus_tag=sll1250;ID=sll1250
 Syn6803_Chromosome	Custom	gene	1740834	1742375	.	-	0	product=pantothenate synthetase/cytidylate kinase;locus_tag=panC/kcy;ID=panC/kcy
-Syn6803_Chromosome	Custom	gene	1742434	1743369	.	+	0	product=carbonic anhydrase;locus_tag=icfA;ID=icfA
+Syn6803_Chromosome	Custom	gene	1742434	1743369	.	+	0	product=carbonic anhydrase;locus_tag=icfA_Chromosome_1742434_1743369_+;ID=icfA_Chromosome_1742434_1743369_+
 Syn6803_Chromosome	Custom	gene	1743443	1744192	.	+	0	product=serine acetyltransferase;locus_tag=cysE;ID=cysE
 Syn6803_Chromosome	Custom	gene	1744498	1746093	.	+	0	product=glucose-6-phosphate isomerase;locus_tag=pgi;ID=pgi
 Syn6803_Chromosome	Custom	gene	1746308	1747363	.	+	0	product=fatty acid desaturase;locus_tag=desA;ID=desA
@@ -4665,7 +4665,7 @@ Syn6803_Chromosome	Custom	gene	1771458	1772243	.	-	0	product=cyclase;locus_tag=h
 Syn6803_Chromosome	Custom	gene	1772457	1773203	.	-	0	product=;locus_tag=sll1892;ID=sll1892
 Syn6803_Chromosome	Custom	gene	1773346	1776150	.	+	0	product=;locus_tag=slr1968;ID=slr1968
 Syn6803_Chromosome	Custom	gene	1776081	1776839	.	-	0	product=;locus_tag=sll1891;ID=sll1891
-Syn6803_Chromosome	Custom	gene	1776983	1777537	.	-	0	product=CobN protein;locus_tag=cobN;ID=cobN
+Syn6803_Chromosome	Custom	gene	1776983	1777537	.	-	0	product=CobN protein;locus_tag=cobN_Chromosome_1776983_1777537_-;ID=cobN_Chromosome_1776983_1777537_-
 Syn6803_Chromosome	Custom	gene	1777729	1779981	.	+	0	product=hybrid sensory kinase;locus_tag=slr1969;ID=slr1969
 Syn6803_Chromosome	Custom	gene	1780086	1780298	.	+	0	product=;locus_tag=ssr3341;ID=ssr3341
 Syn6803_Chromosome	Custom	gene	1780484	1781005	.	+	0	product=;locus_tag=slr1970;ID=slr1970
@@ -4685,9 +4685,9 @@ Syn6803_Chromosome	Custom	gene	1795778	1797466	.	-	0	product=;locus_tag=sll1879;
 Syn6803_Chromosome	Custom	gene	1797552	1798658	.	-	0	product=ABC transporter;locus_tag=sll1878;ID=sll1878
 Syn6803_Chromosome	Custom	gene	1798804	1799538	.	+	0	product=;locus_tag=slr1977;ID=slr1977
 Syn6803_Chromosome	Custom	gene	1799608	1800483	.	+	0	product=;locus_tag=slr1978;ID=slr1978
-Syn6803_Chromosome	Custom	gene	1800387	1801844	.	+	0	product=anthranilate synthase component I;locus_tag=trpE;ID=trpE
+Syn6803_Chromosome	Custom	gene	1800387	1801844	.	+	0	product=anthranilate synthase component I;locus_tag=trpE_Chromosome_1800387_1801844_+;ID=trpE_Chromosome_1800387_1801844_+
 Syn6803_Chromosome	Custom	gene	1801787	1802680	.	+	0	product=;locus_tag=slr1980;ID=slr1980
-Syn6803_Chromosome	Custom	gene	1802742	1804142	.	-	0	product=oxygen independent coprophorphyrinogen III oxidase;locus_tag=hemN;ID=hemN
+Syn6803_Chromosome	Custom	gene	1802742	1804142	.	-	0	product=oxygen independent coprophorphyrinogen III oxidase;locus_tag=hemN_Chromosome_1802742_1804142_-;ID=hemN_Chromosome_1802742_1804142_-
 Syn6803_Chromosome	Custom	gene	1804403	1805155	.	-	0	product=heme oxygenase;locus_tag=ho2;ID=ho2
 Syn6803_Chromosome	Custom	gene	1805220	1806296	.	-	0	product=phytochrome-regulated gene;locus_tag=AT103;ID=AT103
 Syn6803_Chromosome	Custom	gene	1806871	1807236	.	-	0	product=;locus_tag=sll1873;ID=sll1873
@@ -4697,7 +4697,7 @@ Syn6803_Chromosome	Custom	gene	1811130	1811501	.	+	0	product=CheY subfamily;locu
 Syn6803_Chromosome	Custom	gene	1811746	1813557	.	+	0	product=regulatory components of sensory transduction system;locus_tag=slr1983;ID=slr1983
 Syn6803_Chromosome	Custom	gene	1813554	1814234	.	-	0	product=ABC transporter;locus_tag=sll1870;ID=sll1870
 Syn6803_Chromosome	Custom	gene	1814231	1815304	.	-	0	product=3-chlorobenzoate-3,4-dioxygenase;locus_tag=cbaB;ID=cbaB
-Syn6803_Chromosome	Custom	gene	1815454	1816371	.	+	0	product=30S ribosomal protein S1;locus_tag=rps1;ID=rps1
+Syn6803_Chromosome	Custom	gene	1815454	1816371	.	+	0	product=30S ribosomal protein S1;locus_tag=rps1_Chromosome_1815454_1816371_+;ID=rps1_Chromosome_1815454_1816371_+
 Syn6803_Chromosome	Custom	gene	1816855	1818762	.	-	0	product=DNA primase;locus_tag=dnaG;ID=dnaG
 Syn6803_Chromosome	Custom	gene	1818915	1819997	.	-	0	product=photosystem II D1 protein;locus_tag=psbA3;ID=psbA3
 Syn6803_Chromosome	Custom	gene	1820238	1820837	.	-	0	product=;locus_tag=sll1866;ID=sll1866
@@ -4716,8 +4716,8 @@ Syn6803_Chromosome	Custom	gene	1827257	1827652	.	+	0	product=;locus_tag=slr1470;
 Syn6803_Chromosome	Custom	gene	1827753	1828907	.	+	0	product=inner membrane protein;locus_tag=slr1471;ID=slr1471
 Syn6803_Chromosome	Custom	gene	1828997	1829491	.	+	0	product=;locus_tag=slr1472;ID=slr1472
 Syn6803_Chromosome	Custom	gene	1829553	1830497	.	-	0	product=;locus_tag=sll1384;ID=sll1384
-Syn6803_Chromosome	Custom	gene	1830628	1831491	.	-	0	product=extragenic suppressor_ SuhB;locus_tag=suhB;ID=suhB
-Syn6803_Chromosome	Custom	gene	1831561	1831929	.	-	0	product=ferredoxin;locus_tag=petF;ID=petF
+Syn6803_Chromosome	Custom	gene	1830628	1831491	.	-	0	product=extragenic suppressor_ SuhB;locus_tag=suhB_Chromosome_1830628_1831491_-;ID=suhB_Chromosome_1830628_1831491_-
+Syn6803_Chromosome	Custom	gene	1831561	1831929	.	-	0	product=ferredoxin;locus_tag=petF_Chromosome_1831561_1831929_-;ID=petF_Chromosome_1831561_1831929_-
 Syn6803_Chromosome	Custom	gene	1832360	1833169	.	+	0	product=;locus_tag=slr1474;ID=slr1474
 Syn6803_Chromosome	Custom	gene	1833176	1833589	.	-	0	product=;locus_tag=sll1381;ID=sll1381
 Syn6803_Chromosome	Custom	gene	1833655	1834299	.	-	0	product=;locus_tag=sll1380;ID=sll1380
@@ -4730,18 +4730,18 @@ Syn6803_Chromosome	Custom	gene	1841056	1842690	.	-	0	product=melibiose carrier p
 Syn6803_Chromosome	Custom	gene	1842983	1843534	.	-	0	product=;locus_tag=sll1373;ID=sll1373
 Syn6803_Chromosome	Custom	gene	1843610	1844437	.	-	0	product=;locus_tag=sll1372;ID=sll1372
 Syn6803_Chromosome	Custom	gene	1844568	1845266	.	-	0	product=catabolite gene activator protein;locus_tag=sll1371;ID=sll1371
-Syn6803_Chromosome	Custom	gene	1845795	1846898	.	-	0	product=GDP-mannose pyrophosphorylase;locus_tag=rfbM;ID=rfbM
+Syn6803_Chromosome	Custom	gene	1845795	1846898	.	-	0	product=GDP-mannose pyrophosphorylase;locus_tag=rfbM_Chromosome_1845795_1846898_-;ID=rfbM_Chromosome_1845795_1846898_-
 Syn6803_Chromosome	Custom	gene	1846949	1848241	.	-	0	product=;locus_tag=sll1369;ID=sll1369
-Syn6803_Chromosome	Custom	gene	1848301	1848702	.	-	0	product=cytochrome b6/f complex iron-sulfur subunit;locus_tag=petC;ID=petC
+Syn6803_Chromosome	Custom	gene	1848301	1848702	.	-	0	product=cytochrome b6/f complex iron-sulfur subunit;locus_tag=petC_Chromosome_1848301_1848702_-;ID=petC_Chromosome_1848301_1848702_-
 Syn6803_Chromosome	Custom	gene	1848799	1850550	.	-	0	product=HlyD family of secretion proteins;locus_tag=hlyD;ID=hlyD
-Syn6803_Chromosome	Custom	gene	1850707	1853742	.	-	0	product=HlyB family;locus_tag=hlyB;ID=hlyB
+Syn6803_Chromosome	Custom	gene	1850707	1853742	.	-	0	product=HlyB family;locus_tag=hlyB_Chromosome_1850707_1853742_-;ID=hlyB_Chromosome_1850707_1853742_-
 Syn6803_Chromosome	Custom	gene	1854102	1855982	.	+	0	product=RNA polymerase gamma-subunit;locus_tag=rpoC1;ID=rpoC1
 Syn6803_Chromosome	Custom	gene	1856070	1857917	.	-	0	product=nodulation protein;locus_tag=sll1178;ID=sll1178
 Syn6803_Chromosome	Custom	gene	1858047	1858604	.	+	0	product=;locus_tag=slr1266;ID=slr1266
 Syn6803_Chromosome	Custom	gene	1858609	1859790	.	+	0	product=rod-shape-determining protein;locus_tag=mrdB;ID=mrdB
 Syn6803_Chromosome	Custom	gene	1859816	1861372	.	+	0	product=gamma-glutamyltranspeptidase;locus_tag=ggt;ID=ggt
 Syn6803_Chromosome	Custom	gene	1861469	1863049	.	+	0	product=;locus_tag=slr1270;ID=slr1270
-Syn6803_Chromosome	Custom	gene	1863247	1863987	.	+	0	product=UDP-N-acetyl-D-mannosaminuronic acid transferase;locus_tag=rffM;ID=rffM
+Syn6803_Chromosome	Custom	gene	1863247	1863987	.	+	0	product=UDP-N-acetyl-D-mannosaminuronic acid transferase;locus_tag=rffM_Chromosome_1863247_1863987_+;ID=rffM_Chromosome_1863247_1863987_+
 Syn6803_Chromosome	Custom	gene	1864239	1865003	.	+	0	product=;locus_tag=slr1272;ID=slr1272
 Syn6803_Chromosome	Custom	gene	1865033	1865473	.	+	0	product=;locus_tag=slr1273;ID=slr1273
 Syn6803_Chromosome	Custom	gene	1865658	1866761	.	+	0	product=membrane protein;locus_tag=pilM;ID=pilM
@@ -4751,7 +4751,7 @@ Syn6803_Chromosome	Custom	gene	1868645	1871002	.	+	0	product=general secretion p
 Syn6803_Chromosome	Custom	gene	1871011	1871835	.	-	0	product=;locus_tag=sll1174;ID=sll1174
 Syn6803_Chromosome	Custom	gene	1871855	1872589	.	-	0	product=;locus_tag=sll1173;ID=sll1173
 Syn6803_Chromosome	Custom	gene	1872656	1873648	.	+	0	product=;locus_tag=slr1278;ID=slr1278
-Syn6803_Chromosome	Custom	gene	1873698	1874846	.	-	0	product=threonine synthase;locus_tag=thrC;ID=thrC
+Syn6803_Chromosome	Custom	gene	1873698	1874846	.	-	0	product=threonine synthase;locus_tag=thrC_Chromosome_1873698_1874846_-;ID=thrC_Chromosome_1873698_1874846_-
 Syn6803_Chromosome	Custom	gene	1875129	1875491	.	+	0	product=NADH dehydrogenase subunit 3;locus_tag=ndhC;ID=ndhC
 Syn6803_Chromosome	Custom	gene	1875563	1876309	.	+	0	product=NADH dehydrogenase subunit_ NdhK;locus_tag=ndhK;ID=ndhK
 Syn6803_Chromosome	Custom	gene	1876302	1876841	.	+	0	product=NADH dehydrogenase subunit I;locus_tag=ndhJ;ID=ndhJ
@@ -4781,7 +4781,7 @@ Syn6803_Chromosome	Custom	gene	1901873	1902232	.	-	0	product=transposase;locus_t
 Syn6803_Chromosome	Custom	gene	1902437	1903996	.	-	0	product=PET112 protein;locus_tag=pet112;ID=pet112
 Syn6803_Chromosome	Custom	gene	1904025	1905977	.	-	0	product=penicillin-binding protein 1B;locus_tag=mrcA;ID=mrcA
 Syn6803_Chromosome	Custom	gene	1906170	1907744	.	-	0	product=;locus_tag=sll1433;ID=sll1433
-Syn6803_Chromosome	Custom	gene	1907764	1908621	.	-	0	product=hydrogenase isoenzymes formation protein_ HypB;locus_tag=hypB;ID=hypB
+Syn6803_Chromosome	Custom	gene	1907764	1908621	.	-	0	product=hydrogenase isoenzymes formation protein_ HypB;locus_tag=hypB_Chromosome_1907764_1908621_-;ID=hypB_Chromosome_1907764_1908621_-
 Syn6803_Chromosome	Custom	gene	1908804	1909151	.	+	0	product=;locus_tag=slr1533;ID=slr1533
 Syn6803_Chromosome	Custom	gene	1909190	1910095	.	+	0	product=;locus_tag=slr1534;ID=slr1534
 Syn6803_Chromosome	Custom	gene	1910499	1911494	.	+	0	product=;locus_tag=slr1152;ID=slr1152
@@ -4791,7 +4791,7 @@ Syn6803_Chromosome	Custom	gene	1912776	1914113	.	-	0	product=;locus_tag=sll1103;
 Syn6803_Chromosome	Custom	gene	1914113	1914652	.	-	0	product=;locus_tag=sll1102;ID=sll1102
 Syn6803_Chromosome	Custom	gene	1914818	1915135	.	-	0	product=30S ribosomal protein S10;locus_tag=rps10;ID=rps10
 Syn6803_Chromosome	Custom	gene	1915274	1916473	.	-	0	product=protein synthesis elongation factor Tu;locus_tag=tufA;ID=tufA
-Syn6803_Chromosome	Custom	gene	1916533	1918608	.	-	0	product=elongation factor EF-G;locus_tag=fus;ID=fus
+Syn6803_Chromosome	Custom	gene	1916533	1918608	.	-	0	product=elongation factor EF-G;locus_tag=fus_Chromosome_1916533_1918608_-;ID=fus_Chromosome_1916533_1918608_-
 Syn6803_Chromosome	Custom	gene	1918815	1919285	.	-	0	product=30S ribosomal protein S7;locus_tag=rps7;ID=rps7
 Syn6803_Chromosome	Custom	gene	1919436	1919816	.	-	0	product=30S ribosomal protein S12;locus_tag=rps12;ID=rps12
 Syn6803_Chromosome	Custom	gene	1919913	1920548	.	-	0	product=;locus_tag=sll1095;ID=sll1095
@@ -4832,7 +4832,7 @@ Syn6803_Chromosome	Custom	gene	1956260	1957486	.	+	0	product=;locus_tag=slr1677;
 Syn6803_Chromosome	Custom	gene	1957758	1958132	.	+	0	product=50S ribosomal protein L21;locus_tag=rpl21;ID=rpl21
 Syn6803_Chromosome	Custom	gene	1958240	1958503	.	+	0	product=50S ribosomal protein L27;locus_tag=rpl27;ID=rpl27
 Syn6803_Chromosome	Custom	gene	1958582	1959325	.	+	0	product=;locus_tag=slr1679;ID=slr1679
-Syn6803_Chromosome	Custom	gene	1959436	1961079	.	-	0	product=alpha-isopropylmalate synthase;locus_tag=leuA;ID=leuA
+Syn6803_Chromosome	Custom	gene	1959436	1961079	.	-	0	product=alpha-isopropylmalate synthase;locus_tag=leuA_Chromosome_1959436_1961079_-;ID=leuA_Chromosome_1959436_1961079_-
 Syn6803_Chromosome	Custom	gene	1961439	1961600	.	+	0	product=ABC transporter;locus_tag=ssr2802;ID=ssr2802
 Syn6803_Chromosome	Custom	gene	1961625	1961876	.	+	0	product=;locus_tag=ssr2803;ID=ssr2803
 Syn6803_Chromosome	Custom	gene	1962366	1962545	.	+	0	product=;locus_tag=ssr2806;ID=ssr2806
@@ -4860,7 +4860,7 @@ Syn6803_Chromosome	Custom	gene	1985874	1986872	.	+	0	product=;locus_tag=slr1692;
 Syn6803_Chromosome	Custom	gene	1987100	1988242	.	+	0	product=PatA subfamily;locus_tag=slr1693;ID=slr1693
 Syn6803_Chromosome	Custom	gene	1988385	1988837	.	+	0	product=activator of photopigment and puc expression;locus_tag=slr1694;ID=slr1694
 Syn6803_Chromosome	Custom	gene	1988834	1991266	.	-	0	product=phenylalanyl-tRNA synthetase;locus_tag=pheT;ID=pheT
-Syn6803_Chromosome	Custom	gene	1991550	1993274	.	+	0	product=eukariotic protein kinase;locus_tag=pknA;ID=pknA
+Syn6803_Chromosome	Custom	gene	1991550	1993274	.	+	0	product=eukariotic protein kinase;locus_tag=pknA_Chromosome_1991550_1993274_+;ID=pknA_Chromosome_1991550_1993274_+
 Syn6803_Chromosome	Custom	gene	1993377	1994045	.	-	0	product=NarL subfamily;locus_tag=sll0921;ID=sll0921
 Syn6803_Chromosome	Custom	gene	1994147	1997251	.	-	0	product=phosphoenolpyruvate carboxylase;locus_tag=ppc;ID=ppc
 Syn6803_Chromosome	Custom	gene	1997993	1998451	.	+	0	product=;locus_tag=slr0935;ID=slr0935
@@ -4881,13 +4881,13 @@ Syn6803_Chromosome	Custom	gene	2012781	2013485	.	+	0	product=OmpR subfamily;locu
 Syn6803_Chromosome	Custom	gene	2013538	2014185	.	+	0	product=;locus_tag=slr0948;ID=slr0948
 Syn6803_Chromosome	Custom	gene	2014182	2014787	.	-	0	product=;locus_tag=sll0913;ID=sll0913
 Syn6803_Chromosome	Custom	gene	2014908	2016818	.	-	0	product=ABC transporter;locus_tag=sll0912;ID=sll0912
-Syn6803_Chromosome	Custom	gene	2017104	2017964	.	+	0	product=high-affinity branched-chain amino acid transport permease protein;locus_tag=livH;ID=livH
+Syn6803_Chromosome	Custom	gene	2017104	2017964	.	+	0	product=high-affinity branched-chain amino acid transport permease protein;locus_tag=livH_Chromosome_2017104_2017964_+;ID=livH_Chromosome_2017104_2017964_+
 Syn6803_Chromosome	Custom	gene	2017964	2018788	.	+	0	product=;locus_tag=slr0950;ID=slr0950
 Syn6803_Chromosome	Custom	gene	2018851	2019237	.	-	0	product=;locus_tag=sll0911;ID=sll0911
 Syn6803_Chromosome	Custom	gene	2019253	2020344	.	-	0	product=;locus_tag=sll0910;ID=sll0910
 Syn6803_Chromosome	Custom	gene	2020349	2021035	.	-	0	product=;locus_tag=sll0909;ID=sll0909
 Syn6803_Chromosome	Custom	gene	2021252	2021944	.	+	0	product=;locus_tag=slr0951;ID=slr0951
-Syn6803_Chromosome	Custom	gene	2022028	2023071	.	+	0	product=fructose 1,6-bisphosphatase;locus_tag=fbp;ID=fbp
+Syn6803_Chromosome	Custom	gene	2022028	2023071	.	+	0	product=fructose 1,6-bisphosphatase;locus_tag=fbp_Chromosome_2022028_2023071_+;ID=fbp_Chromosome_2022028_2023071_+
 Syn6803_Chromosome	Custom	gene	2023278	2024012	.	+	0	product=;locus_tag=slr0953;ID=slr0953
 Syn6803_Chromosome	Custom	gene	2024264	2024476	.	+	0	product=;locus_tag=ssr1600;ID=ssr1600
 Syn6803_Chromosome	Custom	gene	2024549	2024980	.	+	0	product=;locus_tag=slr0954;ID=slr0954
@@ -4899,7 +4899,7 @@ Syn6803_Chromosome	Custom	gene	2028832	2030421	.	+	0	product=;locus_tag=slr0959;
 Syn6803_Chromosome	Custom	gene	2030534	2030974	.	+	0	product=;locus_tag=slr0960;ID=slr0960
 Syn6803_Chromosome	Custom	gene	2031001	2032473	.	-	0	product=lignostilbene-alpha,beta-dioxygenase;locus_tag=sll1541;ID=sll1541
 Syn6803_Chromosome	Custom	gene	2032601	2032891	.	+	0	product=;locus_tag=ssr2723;ID=ssr2723
-Syn6803_Chromosome	Custom	gene	2032951	2034123	.	-	0	product=dolichyl-phosphate-mannose synthase;locus_tag=dpm1;ID=dpm1
+Syn6803_Chromosome	Custom	gene	2032951	2034123	.	-	0	product=dolichyl-phosphate-mannose synthase;locus_tag=dpm1_Chromosome_2032951_2034123_-;ID=dpm1_Chromosome_2032951_2034123_-
 Syn6803_Chromosome	Custom	gene	2034102	2034803	.	+	0	product=inorganic pyrophosphatase;locus_tag=ppa;ID=ppa
 Syn6803_Chromosome	Custom	gene	2035067	2035432	.	+	0	product=;locus_tag=slr1623;ID=slr1623
 Syn6803_Chromosome	Custom	gene	2035474	2036850	.	+	0	product=;locus_tag=slr1624;ID=slr1624
@@ -4912,7 +4912,7 @@ Syn6803_Chromosome	Custom	gene	2041594	2041998	.	+	0	product=;locus_tag=slr1628;
 Syn6803_Chromosome	Custom	gene	2041999	2042982	.	+	0	product=;locus_tag=slr1629;ID=slr1629
 Syn6803_Chromosome	Custom	gene	2043107	2043838	.	-	0	product=galactosyl-1-phosphate transferase;locus_tag=rfbP;ID=rfbP
 Syn6803_Chromosome	Custom	gene	2043938	2045074	.	-	0	product=;locus_tag=sll1534;ID=sll1534
-Syn6803_Chromosome	Custom	gene	2045078	2046364	.	-	0	product=twitching mobility protein;locus_tag=pilT;ID=pilT
+Syn6803_Chromosome	Custom	gene	2045078	2046364	.	-	0	product=twitching mobility protein;locus_tag=pilT_Chromosome_2045078_2046364_-;ID=pilT_Chromosome_2045078_2046364_-
 Syn6803_Chromosome	Custom	gene	2046961	2047335	.	+	0	product=;locus_tag=slr1634;ID=slr1634
 Syn6803_Chromosome	Custom	gene	2047495	2048130	.	-	0	product=;locus_tag=sll1532;ID=sll1532
 Syn6803_Chromosome	Custom	gene	2048144	2048374	.	-	0	product=;locus_tag=ssl2982;ID=ssl2982
@@ -4925,14 +4925,14 @@ Syn6803_Chromosome	Custom	gene	2053319	2054479	.	-	0	product=;locus_tag=sll1530;
 Syn6803_Chromosome	Custom	gene	2054482	2057472	.	-	0	product=;locus_tag=sll1528;ID=sll1528
 Syn6803_Chromosome	Custom	gene	2057469	2060975	.	-	0	product=;locus_tag=sll1527;ID=sll1527
 Syn6803_Chromosome	Custom	gene	2061101	2062621	.	-	0	product=;locus_tag=sll1526;ID=sll1526
-Syn6803_Chromosome	Custom	gene	2062905	2065523	.	+	0	product=ClpB protein;locus_tag=clpB;ID=clpB
+Syn6803_Chromosome	Custom	gene	2062905	2065523	.	+	0	product=ClpB protein;locus_tag=clpB_Chromosome_2062905_2065523_+;ID=clpB_Chromosome_2062905_2065523_+
 Syn6803_Chromosome	Custom	gene	2065509	2065808	.	-	0	product=;locus_tag=ssl2971;ID=ssl2971
 Syn6803_Chromosome	Custom	gene	2066001	2066999	.	-	0	product=phosphoribulokinase;locus_tag=prk;ID=prk
 Syn6803_Chromosome	Custom	gene	2067522	2068763	.	+	0	product=ferredoxin-NADP oxidoreductase;locus_tag=petH;ID=petH
 Syn6803_Chromosome	Custom	gene	2068855	2069694	.	-	0	product=;locus_tag=sll1524;ID=sll1524
 Syn6803_Chromosome	Custom	gene	2070019	2070891	.	+	0	product=;locus_tag=slr1644;ID=slr1644
 Syn6803_Chromosome	Custom	gene	2070975	2071382	.	+	0	product=photosystem II 11 kD protein;locus_tag=psbZ;ID=psbZ
-Syn6803_Chromosome	Custom	gene	2071379	2072074	.	+	0	product=ribonuclease III;locus_tag=rnc;ID=rnc
+Syn6803_Chromosome	Custom	gene	2071379	2072074	.	+	0	product=ribonuclease III;locus_tag=rnc_Chromosome_2071379_2072074_+;ID=rnc_Chromosome_2071379_2072074_+
 Syn6803_Chromosome	Custom	gene	2072108	2072887	.	+	0	product=;locus_tag=slr1647;ID=slr1647
 Syn6803_Chromosome	Custom	gene	2073161	2074603	.	+	0	product=;locus_tag=slr1648;ID=slr1648
 Syn6803_Chromosome	Custom	gene	2074694	2074957	.	+	0	product=;locus_tag=ssr2754;ID=ssr2754
@@ -5000,7 +5000,7 @@ Syn6803_Chromosome	Custom	gene	2144979	2145812	.	-	0	product=;locus_tag=sll0360;
 Syn6803_Chromosome	Custom	gene	2146000	2146467	.	-	0	product=;locus_tag=sll0359;ID=sll0359
 Syn6803_Chromosome	Custom	gene	2146801	2147376	.	+	0	product=;locus_tag=slr0397;ID=slr0397
 Syn6803_Chromosome	Custom	gene	2147548	2148033	.	+	0	product=;locus_tag=slr0398;ID=slr0398
-Syn6803_Chromosome	Custom	gene	2148253	2149233	.	+	0	product=ycf39 gene product;locus_tag=ycf39;ID=ycf39
+Syn6803_Chromosome	Custom	gene	2148253	2149233	.	+	0	product=ycf39 gene product;locus_tag=ycf39_Chromosome_2148253_2149233_+;ID=ycf39_Chromosome_2148253_2149233_+
 Syn6803_Chromosome	Custom	gene	2149333	2150250	.	+	0	product=;locus_tag=slr0400;ID=slr0400
 Syn6803_Chromosome	Custom	gene	2150247	2151401	.	+	0	product=spermidine/putrescine-binding periplasmic protein;locus_tag=slr0401;ID=slr0401
 Syn6803_Chromosome	Custom	gene	2151606	2152190	.	+	0	product=;locus_tag=slr0402;ID=slr0402
@@ -5010,7 +5010,7 @@ Syn6803_Chromosome	Custom	gene	2154205	2154498	.	+	0	product=;locus_tag=ssr0657;
 Syn6803_Chromosome	Custom	gene	2154516	2155172	.	-	0	product=5'-phosphoribosyl anthranilate isomerase;locus_tag=trpF;ID=trpF
 Syn6803_Chromosome	Custom	gene	2155273	2156265	.	-	0	product=;locus_tag=sll0355;ID=sll0355
 Syn6803_Chromosome	Custom	gene	2156497	2156961	.	-	0	product=;locus_tag=sll0354;ID=sll0354
-Syn6803_Chromosome	Custom	gene	2157442	2158470	.	+	0	product=dihydroorotase;locus_tag=pyrC;ID=pyrC
+Syn6803_Chromosome	Custom	gene	2157442	2158470	.	+	0	product=dihydroorotase;locus_tag=pyrC_Chromosome_2157442_2158470_+;ID=pyrC_Chromosome_2157442_2158470_+
 Syn6803_Chromosome	Custom	gene	2158543	2159355	.	+	0	product=;locus_tag=slr0407;ID=slr0407
 Syn6803_Chromosome	Custom	gene	2159620	2172219	.	+	0	product=;locus_tag=slr0408;ID=slr0408
 Syn6803_Chromosome	Custom	gene	2172365	2173099	.	+	0	product=;locus_tag=slr0142;ID=slr0142
@@ -5021,7 +5021,7 @@ Syn6803_Chromosome	Custom	gene	2178325	2178837	.	+	0	product=;locus_tag=slr0146;
 Syn6803_Chromosome	Custom	gene	2178627	2179505	.	+	0	product=;locus_tag=slr0147;ID=slr0147
 Syn6803_Chromosome	Custom	gene	2179459	2180019	.	+	0	product=ferredoxin;locus_tag=slr0148;ID=slr0148
 Syn6803_Chromosome	Custom	gene	2180073	2180543	.	+	0	product=;locus_tag=slr0149;ID=slr0149
-Syn6803_Chromosome	Custom	gene	2180577	2180888	.	+	0	product=ferredoxin;locus_tag=petF;ID=petF
+Syn6803_Chromosome	Custom	gene	2180577	2180888	.	+	0	product=ferredoxin;locus_tag=petF_Chromosome_2180577_2180888_+;ID=petF_Chromosome_2180577_2180888_+
 Syn6803_Chromosome	Custom	gene	2181013	2181975	.	+	0	product=;locus_tag=slr0151;ID=slr0151
 Syn6803_Chromosome	Custom	gene	2182063	2183958	.	+	0	product=serine/threonine protein kinase;locus_tag=slr0152;ID=slr0152
 Syn6803_Chromosome	Custom	gene	2184030	2185784	.	-	0	product=;locus_tag=sll0149;ID=sll0149
@@ -5031,15 +5031,15 @@ Syn6803_Chromosome	Custom	gene	2190933	2192051	.	-	0	product=high-affinity branc
 Syn6803_Chromosome	Custom	gene	2192133	2192681	.	-	0	product=ribosome releasing factor;locus_tag=frr;ID=frr
 Syn6803_Chromosome	Custom	gene	2192668	2193450	.	-	0	product=uridine monophosphate kinase;locus_tag=pyrH;ID=pyrH
 Syn6803_Chromosome	Custom	gene	2193591	2193812	.	-	0	product=;locus_tag=ssl0259;ID=ssl0259
-Syn6803_Chromosome	Custom	gene	2194405	2197101	.	+	0	product=ClpB protein;locus_tag=clpB;ID=clpB
+Syn6803_Chromosome	Custom	gene	2194405	2197101	.	+	0	product=ClpB protein;locus_tag=clpB_Chromosome_2194405_2197101_+;ID=clpB_Chromosome_2194405_2197101_+
 Syn6803_Chromosome	Custom	gene	2197132	2197620	.	+	0	product=;locus_tag=slr0157;ID=slr0157
 Syn6803_Chromosome	Custom	gene	2197732	2200959	.	-	0	product=cation or drug efflux system protein;locus_tag=sll0142;ID=sll0142
 Syn6803_Chromosome	Custom	gene	2201147	2202550	.	-	0	product=;locus_tag=sll0141;ID=sll0141
-Syn6803_Chromosome	Custom	gene	2202944	2204053	.	+	0	product=twitching motility protein;locus_tag=pilT;ID=pilT
+Syn6803_Chromosome	Custom	gene	2202944	2204053	.	+	0	product=twitching motility protein;locus_tag=pilT_Chromosome_2202944_2204053_+;ID=pilT_Chromosome_2202944_2204053_+
 Syn6803_Chromosome	Custom	gene	2204157	2204654	.	+	0	product=general secretion pathway protein F;locus_tag=gspF;ID=gspF
 Syn6803_Chromosome	Custom	gene	2204476	2205372	.	+	0	product=pilin biogenesis protein;locus_tag=pilC;ID=pilC
-Syn6803_Chromosome	Custom	gene	2205774	2206451	.	+	0	product=ATP-dependent Clp protease proteolytic subunit;locus_tag=clpP;ID=clpP
-Syn6803_Chromosome	Custom	gene	2206551	2207159	.	+	0	product=ATP-dependent Clp protease proteolytic subunit;locus_tag=clpP;ID=clpP
+Syn6803_Chromosome	Custom	gene	2205774	2206451	.	+	0	product=ATP-dependent Clp protease proteolytic subunit;locus_tag=clpP_Chromosome_2205774_2206451_+;ID=clpP_Chromosome_2205774_2206451_+
+Syn6803_Chromosome	Custom	gene	2206551	2207159	.	+	0	product=ATP-dependent Clp protease proteolytic subunit;locus_tag=clpP_Chromosome_2206551_2207159_+;ID=clpP_Chromosome_2206551_2207159_+
 Syn6803_Chromosome	Custom	gene	2207370	2208695	.	-	0	product=aminopeptidase P;locus_tag=pepP;ID=pepP
 Syn6803_Chromosome	Custom	gene	2208778	2209758	.	-	0	product=;locus_tag=sll0135;ID=sll0135
 Syn6803_Chromosome	Custom	gene	2209703	2209939	.	-	0	product=;locus_tag=ssl0242;ID=ssl0242
@@ -5061,7 +5061,7 @@ Syn6803_Chromosome	Custom	gene	2224789	2225112	.	-	0	product=;locus_tag=sll1863;
 Syn6803_Chromosome	Custom	gene	2225278	2225709	.	-	0	product=;locus_tag=sll1862;ID=sll1862
 Syn6803_Chromosome	Custom	gene	2225766	2226530	.	-	0	product=transposase;locus_tag=sll1861;ID=sll1861
 Syn6803_Chromosome	Custom	gene	2226619	2227404	.	-	0	product=transposase;locus_tag=sll1860;ID=sll1860
-Syn6803_Chromosome	Custom	gene	2227829	2228377	.	+	0	product=dTDP-4-dehydrorhamnose 3,5-epimerase;locus_tag=rfbC;ID=rfbC
+Syn6803_Chromosome	Custom	gene	2227829	2228377	.	+	0	product=dTDP-4-dehydrorhamnose 3,5-epimerase;locus_tag=rfbC_Chromosome_2227829_2228377_+;ID=rfbC_Chromosome_2227829_2228377_+
 Syn6803_Chromosome	Custom	gene	2228445	2230328	.	-	0	product=;locus_tag=sll1858;ID=sll1858
 Syn6803_Chromosome	Custom	gene	2230487	2231515	.	+	0	product=pyruvate dehydrogenase E1 component, alpha subunit;locus_tag=slr1934;ID=slr1934
 Syn6803_Chromosome	Custom	gene	2231639	2233036	.	+	0	product=;locus_tag=slr1935;ID=slr1935
@@ -5080,7 +5080,7 @@ Syn6803_Chromosome	Custom	gene	2242886	2243137	.	+	0	product=;locus_tag=ssr3300;
 Syn6803_Chromosome	Custom	gene	2243250	2243729	.	-	0	product=;locus_tag=sll1845;ID=sll1845
 Syn6803_Chromosome	Custom	gene	2243851	2245368	.	+	0	product=;locus_tag=slr1942;ID=slr1942
 Syn6803_Chromosome	Custom	gene	2245407	2245583	.	+	0	product=;locus_tag=ssr3304;ID=ssr3304
-Syn6803_Chromosome	Custom	gene	2245636	2246631	.	+	0	product=dolichol phosphate mannose synthase;locus_tag=dpm1;ID=dpm1
+Syn6803_Chromosome	Custom	gene	2245636	2246631	.	+	0	product=dolichol phosphate mannose synthase;locus_tag=dpm1_Chromosome_2245636_2246631_+;ID=dpm1_Chromosome_2245636_2246631_+
 Syn6803_Chromosome	Custom	gene	2246867	2248483	.	+	0	product=;locus_tag=slr1944;ID=slr1944
 Syn6803_Chromosome	Custom	gene	2248578	2250176	.	+	0	product=2,3-bisphosphoglycerate-independent phosphoglycerate mutase;locus_tag=yibO;ID=yibO
 Syn6803_Chromosome	Custom	gene	2250241	2250474	.	+	0	product=;locus_tag=ycf47;ID=ycf47
@@ -5096,10 +5096,10 @@ Syn6803_Chromosome	Custom	gene	2260429	2262576	.	+	0	product=lipoprotein_ NlpD;l
 Syn6803_Chromosome	Custom	gene	2262805	2263380	.	-	0	product=light repressed protein;locus_tag=lrtA;ID=lrtA
 Syn6803_Chromosome	Custom	gene	2263827	2264510	.	+	0	product=LipB protein;locus_tag=lipB;ID=lipB
 Syn6803_Chromosome	Custom	gene	2264491	2264781	.	-	0	product=;locus_tag=ssl1807;ID=ssl1807
-Syn6803_Chromosome	Custom	gene	2265213	2266646	.	-	0	product=glycogen synthase;locus_tag=glgA;ID=glgA
+Syn6803_Chromosome	Custom	gene	2265213	2266646	.	-	0	product=glycogen synthase;locus_tag=glgA_Chromosome_2265213_2266646_-;ID=glgA_Chromosome_2265213_2266646_-
 Syn6803_Chromosome	Custom	gene	2266850	2267344	.	-	0	product=;locus_tag=sll0944;ID=sll0944
 Syn6803_Chromosome	Custom	gene	2267490	2269085	.	+	0	product=;locus_tag=slr0320;ID=slr0320
-Syn6803_Chromosome	Custom	gene	2269126	2270163	.	-	0	product=RNA polymerase sigma factor;locus_tag=rpoD;ID=rpoD
+Syn6803_Chromosome	Custom	gene	2269126	2270163	.	-	0	product=RNA polymerase sigma factor;locus_tag=rpoD_Chromosome_2269126_2270163_-;ID=rpoD_Chromosome_2269126_2270163_-
 Syn6803_Chromosome	Custom	gene	2270624	2271571	.	+	0	product=GTP-binding protein Era;locus_tag=Era;ID=Era
 Syn6803_Chromosome	Custom	gene	2271581	2274868	.	+	0	product=CheA like protein;locus_tag=slr0322;ID=slr0322
 Syn6803_Chromosome	Custom	gene	2274868	2277996	.	+	0	product=alpha-mannosidase;locus_tag=ams1;ID=ams1
@@ -5116,7 +5116,7 @@ Syn6803_Chromosome	Custom	gene	2285410	2285997	.	-	0	product=;locus_tag=sll0297;
 Syn6803_Chromosome	Custom	gene	2286186	2286746	.	-	0	product=unidentified open reading frame;locus_tag=sll0296;ID=sll0296
 Syn6803_Chromosome	Custom	gene	2286798	2287067	.	-	0	product=response regulator like protein;locus_tag=ssl0564;ID=ssl0564
 Syn6803_Chromosome	Custom	gene	2287334	2287579	.	-	0	product=photosystem I subunit VII;locus_tag=psaC;ID=psaC
-Syn6803_Chromosome	Custom	gene	2287948	2289525	.	+	0	product=NADH dehydrogenase subunit 4;locus_tag=ndhD;ID=ndhD
+Syn6803_Chromosome	Custom	gene	2287948	2289525	.	+	0	product=NADH dehydrogenase subunit 4;locus_tag=ndhD_Chromosome_2287948_2289525_+;ID=ndhD_Chromosome_2287948_2289525_+
 Syn6803_Chromosome	Custom	gene	2289704	2290024	.	+	0	product=;locus_tag=slr0333;ID=slr0333
 Syn6803_Chromosome	Custom	gene	2290089	2290421	.	+	0	product=;locus_tag=slr0334;ID=slr0334
 Syn6803_Chromosome	Custom	gene	2290705	2290959	.	+	0	product=;locus_tag=ssr0536;ID=ssr0536
@@ -5129,7 +5129,7 @@ Syn6803_Chromosome	Custom	gene	2299347	2300441	.	+	0	product=;locus_tag=slr0338;
 Syn6803_Chromosome	Custom	gene	2300515	2302446	.	+	0	product=;locus_tag=slr0168;ID=slr0168
 Syn6803_Chromosome	Custom	gene	2302638	2303279	.	+	0	product=;locus_tag=slr0169;ID=slr0169
 Syn6803_Chromosome	Custom	gene	2303507	2304034	.	+	0	product=ycf37 gene product;locus_tag=ycf37;ID=ycf37
-Syn6803_Chromosome	Custom	gene	2304094	2304561	.	+	0	product=IMP dehydrogenase;locus_tag=guaB;ID=guaB
+Syn6803_Chromosome	Custom	gene	2304094	2304561	.	+	0	product=IMP dehydrogenase;locus_tag=guaB_Chromosome_2304094_2304561_+;ID=guaB_Chromosome_2304094_2304561_+
 Syn6803_Chromosome	Custom	gene	2304558	2305886	.	-	0	product=;locus_tag=sll0177;ID=sll0177
 Syn6803_Chromosome	Custom	gene	2305907	2306410	.	-	0	product=;locus_tag=sll0176;ID=sll0176
 Syn6803_Chromosome	Custom	gene	2306600	2306800	.	-	0	product=;locus_tag=ssl0312;ID=ssl0312
@@ -5138,7 +5138,7 @@ Syn6803_Chromosome	Custom	gene	2308517	2309371	.	-	0	product=;locus_tag=sll0174;
 Syn6803_Chromosome	Custom	gene	2309413	2310471	.	-	0	product=virginiamycin B hydrolase_ Vgb;locus_tag=sll0173;ID=sll0173
 Syn6803_Chromosome	Custom	gene	2310533	2310991	.	-	0	product=;locus_tag=sll0172;ID=sll0172
 Syn6803_Chromosome	Custom	gene	2311377	2312495	.	-	0	product=aminomethyltransferase;locus_tag=gcvT;ID=gcvT
-Syn6803_Chromosome	Custom	gene	2312664	2314574	.	-	0	product=DnaK protein;locus_tag=dnaK;ID=dnaK
+Syn6803_Chromosome	Custom	gene	2312664	2314574	.	-	0	product=DnaK protein;locus_tag=dnaK_Chromosome_2312664_2314574_-;ID=dnaK_Chromosome_2312664_2314574_-
 Syn6803_Chromosome	Custom	gene	2314780	2316924	.	-	0	product=;locus_tag=sll0169;ID=sll0169
 Syn6803_Chromosome	Custom	gene	2317112	2317447	.	-	0	product=;locus_tag=sll0168;ID=sll0168
 Syn6803_Chromosome	Custom	gene	2317536	2318030	.	-	0	product=;locus_tag=sll0167;ID=sll0167
@@ -5158,7 +5158,7 @@ Syn6803_Chromosome	Custom	gene	2334877	2335503	.	-	0	product=;locus_tag=sll0156;
 Syn6803_Chromosome	Custom	gene	2335706	2336326	.	+	0	product=;locus_tag=slr0184;ID=slr0184
 Syn6803_Chromosome	Custom	gene	2336427	2337023	.	+	0	product=uridine 5'-monophosphate synthase;locus_tag=umpS;ID=umpS
 Syn6803_Chromosome	Custom	gene	2337062	2338450	.	-	0	product=;locus_tag=sll0154;ID=sll0154
-Syn6803_Chromosome	Custom	gene	2338636	2340237	.	+	0	product=2-isopropylmalate synthase;locus_tag=leuA;ID=leuA
+Syn6803_Chromosome	Custom	gene	2338636	2340237	.	+	0	product=2-isopropylmalate synthase;locus_tag=leuA_Chromosome_2338636_2340237_+;ID=leuA_Chromosome_2338636_2340237_+
 Syn6803_Chromosome	Custom	gene	2340322	2344056	.	+	0	product=;locus_tag=slr0359;ID=slr0359
 Syn6803_Chromosome	Custom	gene	2344152	2345759	.	+	0	product=;locus_tag=slr0360;ID=slr0360
 Syn6803_Chromosome	Custom	gene	2345797	2346546	.	+	0	product=;locus_tag=slr0361;ID=slr0361
@@ -5181,14 +5181,14 @@ Syn6803_Chromosome	Custom	gene	2378981	2381095	.	+	0	product=7-beta-(4-carbaxybu
 Syn6803_Chromosome	Custom	gene	2381041	2381751	.	+	0	product=;locus_tag=slr0379;ID=slr0379
 Syn6803_Chromosome	Custom	gene	2381748	2383127	.	+	0	product=;locus_tag=slr0380;ID=slr0380
 Syn6803_Chromosome	Custom	gene	2383241	2383636	.	+	0	product=;locus_tag=slr0381;ID=slr0381
-Syn6803_Chromosome	Custom	gene	2383949	2384728	.	-	0	product=3-ketoacyl-acyl carrier protein reductase;locus_tag=fabG;ID=fabG
+Syn6803_Chromosome	Custom	gene	2383949	2384728	.	-	0	product=3-ketoacyl-acyl carrier protein reductase;locus_tag=fabG_Chromosome_2383949_2384728_-;ID=fabG_Chromosome_2383949_2384728_-
 Syn6803_Chromosome	Custom	gene	2385351	2385911	.	+	0	product=;locus_tag=slr0383;ID=slr0383
 Syn6803_Chromosome	Custom	gene	2385939	2387168	.	+	0	product=;locus_tag=slr0384;ID=slr0384
 Syn6803_Chromosome	Custom	gene	2387424	2388872	.	-	0	product=6-phosphogluconate dehydrogenase;locus_tag=gnd;ID=gnd
 Syn6803_Chromosome	Custom	gene	2389062	2389481	.	-	0	product=;locus_tag=sll0328;ID=sll0328
 Syn6803_Chromosome	Custom	gene	2389481	2389900	.	-	0	product=;locus_tag=sll0327;ID=sll0327
 Syn6803_Chromosome	Custom	gene	2390216	2391454	.	+	0	product=;locus_tag=slr0386;ID=slr0386
-Syn6803_Chromosome	Custom	gene	2391547	2392707	.	+	0	product=NifS protein;locus_tag=nifS;ID=nifS
+Syn6803_Chromosome	Custom	gene	2391547	2392707	.	+	0	product=NifS protein;locus_tag=nifS_Chromosome_2391547_2392707_+;ID=nifS_Chromosome_2391547_2392707_+
 Syn6803_Chromosome	Custom	gene	2392729	2393403	.	+	0	product=;locus_tag=slr0388;ID=slr0388
 Syn6803_Chromosome	Custom	gene	2393493	2394107	.	+	0	product=;locus_tag=slr0769;ID=slr0769
 Syn6803_Chromosome	Custom	gene	2394232	2394552	.	+	0	product=;locus_tag=slr0770;ID=slr0770
@@ -5220,7 +5220,7 @@ Syn6803_Chromosome	Custom	gene	2416806	2417207	.	-	0	product=;locus_tag=sll0754;
 Syn6803_Chromosome	Custom	gene	2417266	2417466	.	-	0	product=ycf33 gene product;locus_tag=ycf33;ID=ycf33
 Syn6803_Chromosome	Custom	gene	2417577	2418461	.	-	0	product=methylenetetrahydrofolate dehydrogenase;locus_tag=folD;ID=folD
 Syn6803_Chromosome	Custom	gene	2418535	2419398	.	-	0	product=;locus_tag=sll0752;ID=sll0752
-Syn6803_Chromosome	Custom	gene	2419385	2419894	.	-	0	product=;locus_tag=ycf22;ID=ycf22
+Syn6803_Chromosome	Custom	gene	2419385	2419894	.	-	0	product=;locus_tag=ycf22_Chromosome_2419385_2419894_-;ID=ycf22_Chromosome_2419385_2419894_-
 Syn6803_Chromosome	Custom	gene	2420030	2421445	.	+	0	product=amine oxidase;locus_tag=slr0782;ID=slr0782
 Syn6803_Chromosome	Custom	gene	2421536	2422687	.	-	0	product=sensory transduction histidine kinase;locus_tag=sarA;ID=sarA
 Syn6803_Chromosome	Custom	gene	2422833	2423432	.	-	0	product=;locus_tag=sll0749;ID=sll0749
@@ -5230,9 +5230,9 @@ Syn6803_Chromosome	Custom	gene	2425387	2426343	.	+	0	product=;locus_tag=slr0341;
 Syn6803_Chromosome	Custom	gene	2426297	2427787	.	-	0	product=;locus_tag=sll0325;ID=sll0325
 Syn6803_Chromosome	Custom	gene	2428010	2428678	.	+	0	product=cytochrome b6;locus_tag=petB;ID=petB
 Syn6803_Chromosome	Custom	gene	2428809	2429291	.	+	0	product=cytochrome b6-f complex subunit 4;locus_tag=petD;ID=petD
-Syn6803_Chromosome	Custom	gene	2429543	2430964	.	+	0	product=mannosyl transferase;locus_tag=rfbW;ID=rfbW
+Syn6803_Chromosome	Custom	gene	2429543	2430964	.	+	0	product=mannosyl transferase;locus_tag=rfbW_Chromosome_2429543_2430964_+;ID=rfbW_Chromosome_2429543_2430964_+
 Syn6803_Chromosome	Custom	gene	2431092	2431499	.	+	0	product=;locus_tag=slr0345;ID=slr0345
-Syn6803_Chromosome	Custom	gene	2431704	2432438	.	+	0	product=ribonuclease III;locus_tag=rnc;ID=rnc
+Syn6803_Chromosome	Custom	gene	2431704	2432438	.	+	0	product=ribonuclease III;locus_tag=rnc_Chromosome_2431704_2432438_+;ID=rnc_Chromosome_2431704_2432438_+
 Syn6803_Chromosome	Custom	gene	2432459	2434762	.	-	0	product=transcriptional regulatory protein_ HypF;locus_tag=hypF;ID=hypF
 Syn6803_Chromosome	Custom	gene	2434808	2436304	.	-	0	product=;locus_tag=sll0321;ID=sll0321
 Syn6803_Chromosome	Custom	gene	2436443	2437228	.	+	0	product=;locus_tag=slr0347;ID=slr0347
@@ -5252,7 +5252,7 @@ Syn6803_Chromosome	Custom	gene	2448222	2448404	.	-	0	product=30S ribosomal prote
 Syn6803_Chromosome	Custom	gene	2454087	2455082	.	+	0	product=;locus_tag=slr0355;ID=slr0355
 Syn6803_Chromosome	Custom	gene	2455121	2455711	.	+	0	product=;locus_tag=slr0356;ID=slr0356
 Syn6803_Chromosome	Custom	gene	2455755	2456768	.	-	0	product=OppB in a binding protein-dependent transport system;locus_tag=sll0312;ID=sll0312
-Syn6803_Chromosome	Custom	gene	2456935	2458278	.	+	0	product=histidyl-tRNA synthetase;locus_tag=hisS;ID=hisS
+Syn6803_Chromosome	Custom	gene	2456935	2458278	.	+	0	product=histidyl-tRNA synthetase;locus_tag=hisS_Chromosome_2456935_2458278_+;ID=hisS_Chromosome_2456935_2458278_+
 Syn6803_Chromosome	Custom	gene	2458253	2459377	.	+	0	product=;locus_tag=slr0358;ID=slr0358
 Syn6803_Chromosome	Custom	gene	2459374	2460282	.	-	0	product=;locus_tag=sll0310;ID=sll0310
 Syn6803_Chromosome	Custom	gene	2460360	2461058	.	-	0	product=;locus_tag=sll0309;ID=sll0309
@@ -5276,7 +5276,7 @@ Syn6803_Chromosome	Custom	gene	2481361	2481888	.	+	0	product=;locus_tag=slr0013;
 Syn6803_Chromosome	Custom	gene	2481984	2482688	.	+	0	product=Mg2+ transport ATPase;locus_tag=mgtC;ID=mgtC
 Syn6803_Chromosome	Custom	gene	2482743	2483528	.	-	0	product=transposase;locus_tag=sll0012;ID=sll0012
 Syn6803_Chromosome	Custom	gene	2483643	2484827	.	+	0	product=lipid A disaccharide synthase;locus_tag=lpxB;ID=lpxB
-Syn6803_Chromosome	Custom	gene	2484890	2485183	.	-	0	product=ferredoxin;locus_tag=petF;ID=petF
+Syn6803_Chromosome	Custom	gene	2484890	2485183	.	-	0	product=ferredoxin;locus_tag=petF_Chromosome_2484890_2485183_-;ID=petF_Chromosome_2484890_2485183_-
 Syn6803_Chromosome	Custom	gene	2485646	2486194	.	+	0	product=;locus_tag=slr0016;ID=slr0016
 Syn6803_Chromosome	Custom	gene	2486607	2487923	.	+	0	product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase;locus_tag=murZ;ID=murZ
 Syn6803_Chromosome	Custom	gene	2488028	2489428	.	+	0	product=fumarase;locus_tag=fumC;ID=fumC
@@ -5284,10 +5284,10 @@ Syn6803_Chromosome	Custom	gene	2489484	2489864	.	-	0	product=;locus_tag=sll0010;
 Syn6803_Chromosome	Custom	gene	2490326	2493004	.	+	0	product=;locus_tag=slr0019;ID=slr0019
 Syn6803_Chromosome	Custom	gene	2493033	2493542	.	-	0	product=;locus_tag=sll0008;ID=sll0008
 Syn6803_Chromosome	Custom	gene	2493578	2494153	.	-	0	product=;locus_tag=sll0007;ID=sll0007
-Syn6803_Chromosome	Custom	gene	2494205	2495389	.	-	0	product=aspartate aminotransferase;locus_tag=aspC;ID=aspC
+Syn6803_Chromosome	Custom	gene	2494205	2495389	.	-	0	product=aspartate aminotransferase;locus_tag=aspC_Chromosome_2494205_2495389_-;ID=aspC_Chromosome_2494205_2495389_-
 Syn6803_Chromosome	Custom	gene	2495493	2497538	.	-	0	product=ABC1-like;locus_tag=sll0005;ID=sll0005
 Syn6803_Chromosome	Custom	gene	2497726	2500221	.	+	0	product=DNA recombinase;locus_tag=recG;ID=recG
-Syn6803_Chromosome	Custom	gene	2500322	2501155	.	+	0	product=protease IV;locus_tag=sppA;ID=sppA
+Syn6803_Chromosome	Custom	gene	2500322	2501155	.	+	0	product=protease IV;locus_tag=sppA_Chromosome_2500322_2501155_+;ID=sppA_Chromosome_2500322_2501155_+
 Syn6803_Chromosome	Custom	gene	2501221	2503878	.	-	0	product=penicillin-binding protein 1A;locus_tag=ponA;ID=ponA
 Syn6803_Chromosome	Custom	gene	2504415	2506043	.	+	0	product=GMP synthetase;locus_tag=guaA;ID=guaA
 Syn6803_Chromosome	Custom	gene	2506131	2507405	.	+	0	product=cytosine-specific methyltransferase;locus_tag=slr0214;ID=slr0214
@@ -5297,19 +5297,19 @@ Syn6803_Chromosome	Custom	gene	2509162	2509584	.	+	0	product=;locus_tag=slr0217;
 Syn6803_Chromosome	Custom	gene	2509823	2510014	.	+	0	product=;locus_tag=ssr0349;ID=ssr0349
 Syn6803_Chromosome	Custom	gene	2510273	2511295	.	-	0	product=;locus_tag=sll0209;ID=sll0209
 Syn6803_Chromosome	Custom	gene	2511514	2512209	.	-	0	product=;locus_tag=sll0208;ID=sll0208
-Syn6803_Chromosome	Custom	gene	2512467	2513648	.	-	0	product=glucose-1-phosphate thymidylyltransferase;locus_tag=rfbA;ID=rfbA
+Syn6803_Chromosome	Custom	gene	2512467	2513648	.	-	0	product=glucose-1-phosphate thymidylyltransferase;locus_tag=rfbA_Chromosome_2512467_2513648_-;ID=rfbA_Chromosome_2512467_2513648_-
 Syn6803_Chromosome	Custom	gene	2513806	2515974	.	+	0	product=glycyl-tRNA synthetase beta chain;locus_tag=glyS;ID=glyS
 Syn6803_Chromosome	Custom	gene	2516150	2516527	.	-	0	product=;locus_tag=sll0205;ID=sll0205
-Syn6803_Chromosome	Custom	gene	2516814	2518184	.	-	0	product=glucose inhibited division protein A;locus_tag=gidA;ID=gidA
+Syn6803_Chromosome	Custom	gene	2516814	2518184	.	-	0	product=glucose inhibited division protein A;locus_tag=gidA_Chromosome_2516814_2518184_-;ID=gidA_Chromosome_2516814_2518184_-
 Syn6803_Chromosome	Custom	gene	2518321	2521857	.	+	0	product=hybrid sensory kinase;locus_tag=slr0222;ID=slr0222
-Syn6803_Chromosome	Custom	gene	2521830	2523737	.	-	0	product=glucose inhibited division protein A;locus_tag=gidA;ID=gidA
+Syn6803_Chromosome	Custom	gene	2521830	2523737	.	-	0	product=glucose inhibited division protein A;locus_tag=gidA_Chromosome_2521830_2523737_-;ID=gidA_Chromosome_2521830_2523737_-
 Syn6803_Chromosome	Custom	gene	2523867	2524562	.	+	0	product=;locus_tag=slr0224;ID=slr0224
 Syn6803_Chromosome	Custom	gene	2524573	2525067	.	-	0	product=transposase;locus_tag=sll0201;ID=sll0201
 Syn6803_Chromosome	Custom	gene	2525061	2525420	.	-	0	product=transposase;locus_tag=sll0200;ID=sll0200
 Syn6803_Chromosome	Custom	gene	2525827	2526207	.	-	0	product=plastocyanin;locus_tag=petE;ID=petE
 Syn6803_Chromosome	Custom	gene	2526633	2528081	.	+	0	product=;locus_tag=slr0226;ID=slr0226
 Syn6803_Chromosome	Custom	gene	2528160	2528735	.	-	0	product=;locus_tag=sll0198;ID=sll0198
-Syn6803_Chromosome	Custom	gene	2529009	2530892	.	+	0	product=cell division protein_ FtsH;locus_tag=ftsH;ID=ftsH
+Syn6803_Chromosome	Custom	gene	2529009	2530892	.	+	0	product=cell division protein_ FtsH;locus_tag=ftsH_Chromosome_2529009_2530892_+;ID=ftsH_Chromosome_2529009_2530892_+
 Syn6803_Chromosome	Custom	gene	2530968	2531612	.	-	0	product=ATP-dependent proteinase_ BsgA;locus_tag=sll0195;ID=sll0195
 Syn6803_Chromosome	Custom	gene	2531666	2532430	.	-	0	product=;locus_tag=ycf43;ID=ycf43
 Syn6803_Chromosome	Custom	gene	2532823	2533695	.	+	0	product=3-hydroxyisobutyrate dehydrogenase;locus_tag=mmsB;ID=mmsB
@@ -5332,7 +5332,7 @@ Syn6803_Chromosome	Custom	gene	2547067	2548029	.	-	0	product=;locus_tag=sll0409;
 Syn6803_Chromosome	Custom	gene	2548133	2549341	.	-	0	product=;locus_tag=sll0408;ID=sll0408
 Syn6803_Chromosome	Custom	gene	2549388	2549951	.	+	0	product=elongation factor P;locus_tag=efp;ID=efp
 Syn6803_Chromosome	Custom	gene	2550059	2550523	.	+	0	product=biotin carboxyl carrier protein of acetyl-CoA carboxylase;locus_tag=accB;ID=accB
-Syn6803_Chromosome	Custom	gene	2550753	2551646	.	+	0	product=carbon dioxide concentrating mechanism protein_ CcmK;locus_tag=ccmK;ID=ccmK
+Syn6803_Chromosome	Custom	gene	2550753	2551646	.	+	0	product=carbon dioxide concentrating mechanism protein_ CcmK;locus_tag=ccmK_Chromosome_2550753_2551646_+;ID=ccmK_Chromosome_2550753_2551646_+
 Syn6803_Chromosome	Custom	gene	2551682	2552167	.	-	0	product=;locus_tag=sll0406;ID=sll0406
 Syn6803_Chromosome	Custom	gene	2552177	2552962	.	-	0	product=;locus_tag=sll0405;ID=sll0405
 Syn6803_Chromosome	Custom	gene	2553961	2555439	.	-	0	product=glycolate oxidase subunit_ GlcD;locus_tag=glcD;ID=glcD
@@ -5340,7 +5340,7 @@ Syn6803_Chromosome	Custom	gene	2555593	2555916	.	+	0	product=;locus_tag=slr0438;
 Syn6803_Chromosome	Custom	gene	2556081	2556503	.	-	0	product=;locus_tag=sll0403;ID=sll0403
 Syn6803_Chromosome	Custom	gene	2556814	2558319	.	+	0	product=;locus_tag=slr0439;ID=slr0439
 Syn6803_Chromosome	Custom	gene	2558423	2558617	.	-	0	product=transposase;locus_tag=ssl0769;ID=ssl0769
-Syn6803_Chromosome	Custom	gene	2558820	2559989	.	-	0	product=aspartate aminotransferase;locus_tag=aspC;ID=aspC
+Syn6803_Chromosome	Custom	gene	2558820	2559989	.	-	0	product=aspartate aminotransferase;locus_tag=aspC_Chromosome_2558820_2559989_-;ID=aspC_Chromosome_2558820_2559989_-
 Syn6803_Chromosome	Custom	gene	2560112	2561305	.	-	0	product=citrate synthase;locus_tag=gltA;ID=gltA
 Syn6803_Chromosome	Custom	gene	2561499	2561993	.	-	0	product=;locus_tag=sll0400;ID=sll0400
 Syn6803_Chromosome	Custom	gene	2562056	2562859	.	+	0	product=;locus_tag=slr0440;ID=slr0440
@@ -5350,7 +5350,7 @@ Syn6803_Chromosome	Custom	gene	2564465	2565445	.	+	0	product=;locus_tag=slr0050;
 Syn6803_Chromosome	Custom	gene	2565427	2566110	.	-	0	product=;locus_tag=sll0072;ID=sll0072
 Syn6803_Chromosome	Custom	gene	2566142	2567143	.	-	0	product=;locus_tag=sll0071;ID=sll0071
 Syn6803_Chromosome	Custom	gene	2567237	2568091	.	-	0	product=phosphoribosylglycinamide formyltransferase;locus_tag=purU;ID=purU
-Syn6803_Chromosome	Custom	gene	2568182	2568973	.	+	0	product=carbonic anhydrase;locus_tag=icfA;ID=icfA
+Syn6803_Chromosome	Custom	gene	2568182	2568973	.	+	0	product=carbonic anhydrase;locus_tag=icfA_Chromosome_2568182_2568973_+;ID=icfA_Chromosome_2568182_2568973_+
 Syn6803_Chromosome	Custom	gene	2568975	2569745	.	-	0	product=;locus_tag=sll0069;ID=sll0069
 Syn6803_Chromosome	Custom	gene	2569772	2573491	.	-	0	product=;locus_tag=sll0068;ID=sll0068
 Syn6803_Chromosome	Custom	gene	2573649	2574203	.	-	0	product=glutathione S-transferase;locus_tag=gst;ID=gst
@@ -5369,9 +5369,9 @@ Syn6803_Chromosome	Custom	gene	2583030	2583335	.	+	0	product=;locus_tag=slr0059;
 Syn6803_Chromosome	Custom	gene	2583410	2584519	.	+	0	product=;locus_tag=slr0060;ID=slr0060
 Syn6803_Chromosome	Custom	gene	2584793	2585458	.	+	0	product=;locus_tag=slr0061;ID=slr0061
 Syn6803_Chromosome	Custom	gene	2585489	2586523	.	-	0	product=;locus_tag=sll0060;ID=sll0060
-Syn6803_Chromosome	Custom	gene	2586572	2588650	.	-	0	product=DnaK protein;locus_tag=dnaK;ID=dnaK
+Syn6803_Chromosome	Custom	gene	2586572	2588650	.	-	0	product=DnaK protein;locus_tag=dnaK_Chromosome_2586572_2588650_-;ID=dnaK_Chromosome_2586572_2588650_-
 Syn6803_Chromosome	Custom	gene	2588884	2589633	.	-	0	product=heat shock protein_ GrpE;locus_tag=grpE;ID=grpE
-Syn6803_Chromosome	Custom	gene	2589851	2591869	.	+	0	product=general secretion pathway protein E;locus_tag=gspE;ID=gspE
+Syn6803_Chromosome	Custom	gene	2589851	2591869	.	+	0	product=general secretion pathway protein E;locus_tag=gspE_Chromosome_2589851_2591869_+;ID=gspE_Chromosome_2589851_2591869_+
 Syn6803_Chromosome	Custom	gene	2591953	2593107	.	+	0	product=;locus_tag=slr0064;ID=slr0064
 Syn6803_Chromosome	Custom	gene	2593329	2593967	.	+	0	product=;locus_tag=slr0065;ID=slr0065
 Syn6803_Chromosome	Custom	gene	2594055	2595161	.	+	0	product=riboflavin biosynthesis protein;locus_tag=ribG;ID=ribG
@@ -5385,7 +5385,7 @@ Syn6803_Chromosome	Custom	gene	2601733	2602536	.	+	0	product=conserved component
 Syn6803_Chromosome	Custom	gene	2602472	2603782	.	+	0	product=;locus_tag=slr0468;ID=slr0468
 Syn6803_Chromosome	Custom	gene	2603947	2604555	.	+	0	product=30S ribosomal protein S4;locus_tag=rps4;ID=rps4
 Syn6803_Chromosome	Custom	gene	2604794	2605894	.	-	0	product=;locus_tag=sll0462;ID=sll0462
-Syn6803_Chromosome	Custom	gene	2606095	2607357	.	-	0	product=gamma-glutamyl phosphate reductase;locus_tag=proA;ID=proA
+Syn6803_Chromosome	Custom	gene	2606095	2607357	.	-	0	product=gamma-glutamyl phosphate reductase;locus_tag=proA_Chromosome_2606095_2607357_-;ID=proA_Chromosome_2606095_2607357_-
 Syn6803_Chromosome	Custom	gene	2607812	2610058	.	+	0	product=phytochrome;locus_tag=phy;ID=phy
 Syn6803_Chromosome	Custom	gene	2610073	2610516	.	+	0	product=CheY subfamily;locus_tag=slr0474;ID=slr0474
 Syn6803_Chromosome	Custom	gene	2610706	2612715	.	-	0	product=excinuclease ABC subunit B;locus_tag=uvrB;ID=uvrB
@@ -5402,29 +5402,29 @@ Syn6803_Chromosome	Custom	gene	2620798	2622399	.	+	0	product=;locus_tag=slr0488;
 Syn6803_Chromosome	Custom	gene	2622526	2622981	.	+	0	product=;locus_tag=slr0489;ID=slr0489
 Syn6803_Chromosome	Custom	gene	2622968	2623402	.	+	0	product=;locus_tag=slr0491;ID=slr0491
 Syn6803_Chromosome	Custom	gene	2623414	2624907	.	+	0	product=O-succinylbenzoic acid--CoA ligase;locus_tag=menE;ID=menE
-Syn6803_Chromosome	Custom	gene	2625095	2625481	.	+	0	product=phosphomannose isomerase;locus_tag=rfbM;ID=rfbM
+Syn6803_Chromosome	Custom	gene	2625095	2625481	.	+	0	product=phosphomannose isomerase;locus_tag=rfbM_Chromosome_2625095_2625481_+;ID=rfbM_Chromosome_2625095_2625481_+
 Syn6803_Chromosome	Custom	gene	2625478	2626479	.	-	0	product=;locus_tag=sll0456;ID=sll0456
 Syn6803_Chromosome	Custom	gene	2626573	2627874	.	-	0	product=homoserine dehydrogenase;locus_tag=thrA;ID=thrA
 Syn6803_Chromosome	Custom	gene	2628002	2628742	.	+	0	product=lipopeptide antibiotics iturin a biosynthesis protein;locus_tag=slr0495;ID=slr0495
 Syn6803_Chromosome	Custom	gene	2628783	2629112	.	+	0	product=;locus_tag=slr0496;ID=slr0496
 Syn6803_Chromosome	Custom	gene	2629271	2630266	.	-	0	product=phenylalanyl-tRNA synthetase alpha chain;locus_tag=pheS;ID=pheS
 Syn6803_Chromosome	Custom	gene	2630469	2631071	.	-	0	product=;locus_tag=sll0691;ID=sll0691
-Syn6803_Chromosome	Custom	gene	2631207	2631608	.	-	0	product=virulence associated protein C;locus_tag=vapC;ID=vapC
+Syn6803_Chromosome	Custom	gene	2631207	2631608	.	-	0	product=virulence associated protein C;locus_tag=vapC_Chromosome_2631207_2631608_-;ID=vapC_Chromosome_2631207_2631608_-
 Syn6803_Chromosome	Custom	gene	2631611	2631868	.	-	0	product=;locus_tag=ssl1300;ID=ssl1300
 Syn6803_Chromosome	Custom	gene	2632124	2633509	.	-	0	product=Na/H+ antiporter;locus_tag=sll0689;ID=sll0689
 Syn6803_Chromosome	Custom	gene	2633852	2634655	.	-	0	product=;locus_tag=sll0688;ID=sll0688
 Syn6803_Chromosome	Custom	gene	2634660	2635217	.	-	0	product=;locus_tag=sll0687;ID=sll0687
 Syn6803_Chromosome	Custom	gene	2635219	2636046	.	-	0	product=;locus_tag=sll0686;ID=sll0686
 Syn6803_Chromosome	Custom	gene	2636236	2636724	.	-	0	product=;locus_tag=sll0685;ID=sll0685
-Syn6803_Chromosome	Custom	gene	2636828	2637628	.	-	0	product=phosphate transport ATP-binding protein_ PstB;locus_tag=pstB;ID=pstB
-Syn6803_Chromosome	Custom	gene	2637743	2638552	.	-	0	product=phosphate transport ATP-binding protein_ PstB;locus_tag=pstB;ID=pstB
-Syn6803_Chromosome	Custom	gene	2638578	2639441	.	-	0	product=phosphate transport system permease protein_ PstA;locus_tag=pstA;ID=pstA
-Syn6803_Chromosome	Custom	gene	2639627	2640580	.	-	0	product=phosphate transport system permease protein_ PstC;locus_tag=pstC;ID=pstC
-Syn6803_Chromosome	Custom	gene	2640662	2641813	.	-	0	product=phosphate-binding periplasmic protein precursor;locus_tag=pstS;ID=pstS
+Syn6803_Chromosome	Custom	gene	2636828	2637628	.	-	0	product=phosphate transport ATP-binding protein_ PstB;locus_tag=pstB_Chromosome_2636828_2637628_-;ID=pstB_Chromosome_2636828_2637628_-
+Syn6803_Chromosome	Custom	gene	2637743	2638552	.	-	0	product=phosphate transport ATP-binding protein_ PstB;locus_tag=pstB_Chromosome_2637743_2638552_-;ID=pstB_Chromosome_2637743_2638552_-
+Syn6803_Chromosome	Custom	gene	2638578	2639441	.	-	0	product=phosphate transport system permease protein_ PstA;locus_tag=pstA_Chromosome_2638578_2639441_-;ID=pstA_Chromosome_2638578_2639441_-
+Syn6803_Chromosome	Custom	gene	2639627	2640580	.	-	0	product=phosphate transport system permease protein_ PstC;locus_tag=pstC_Chromosome_2639627_2640580_-;ID=pstC_Chromosome_2639627_2640580_-
+Syn6803_Chromosome	Custom	gene	2640662	2641813	.	-	0	product=phosphate-binding periplasmic protein precursor;locus_tag=pstS_Chromosome_2640662_2641813_-;ID=pstS_Chromosome_2640662_2641813_-
 Syn6803_Chromosome	Custom	gene	2642135	2643145	.	-	0	product=SphX protein precursor;locus_tag=sphX;ID=sphX
 Syn6803_Chromosome	Custom	gene	2643403	2644569	.	+	0	product=;locus_tag=slr0719;ID=slr0719
 Syn6803_Chromosome	Custom	gene	2644795	2645097	.	+	0	product=30S ribosomal protein S14;locus_tag=rps14;ID=rps14
-Syn6803_Chromosome	Custom	gene	2645271	2646074	.	-	0	product=chloroplast membrane-associated 30 kD protein;locus_tag=im30;ID=im30
+Syn6803_Chromosome	Custom	gene	2645271	2646074	.	-	0	product=chloroplast membrane-associated 30 kD protein;locus_tag=im30_Chromosome_2645271_2646074_-;ID=im30_Chromosome_2645271_2646074_-
 Syn6803_Chromosome	Custom	gene	2646623	2647282	.	+	0	product=;locus_tag=slr0630;ID=slr0630
 Syn6803_Chromosome	Custom	gene	2647386	2650184	.	-	0	product=preprotein translocase SecA subunit;locus_tag=secA;ID=secA
 Syn6803_Chromosome	Custom	gene	2650377	2650997	.	-	0	product=transmembrane protein FT27;locus_tag=sll0615;ID=sll0615
@@ -5448,7 +5448,7 @@ Syn6803_Chromosome	Custom	gene	2669089	2670156	.	+	0	product=;locus_tag=slr0644;
 Syn6803_Chromosome	Custom	gene	2670115	2671902	.	-	0	product=2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase;locus_tag=menD;ID=menD
 Syn6803_Chromosome	Custom	gene	2671895	2673970	.	-	0	product=;locus_tag=sll0602;ID=sll0602
 Syn6803_Chromosome	Custom	gene	2674101	2674721	.	+	0	product=;locus_tag=slr0645;ID=slr0645
-Syn6803_Chromosome	Custom	gene	2674736	2676196	.	+	0	product=penicillin-binding protein 4;locus_tag=dacB;ID=dacB
+Syn6803_Chromosome	Custom	gene	2674736	2676196	.	+	0	product=penicillin-binding protein 4;locus_tag=dacB_Chromosome_2674736_2676196_+;ID=dacB_Chromosome_2674736_2676196_+
 Syn6803_Chromosome	Custom	gene	2676937	2677755	.	-	0	product=;locus_tag=sll0601;ID=sll0601
 Syn6803_Chromosome	Custom	gene	2678140	2679738	.	+	0	product=methionyl-tRNA synthetase;locus_tag=metS;ID=metS
 Syn6803_Chromosome	Custom	gene	2679884	2680489	.	+	0	product=;locus_tag=slr0650;ID=slr0650
@@ -5459,7 +5459,7 @@ Syn6803_Chromosome	Custom	gene	2683443	2684081	.	-	0	product=;locus_tag=sll0395;
 Syn6803_Chromosome	Custom	gene	2684198	2684824	.	-	0	product=;locus_tag=sll0394;ID=sll0394
 Syn6803_Chromosome	Custom	gene	2684959	2687055	.	+	0	product=Na(+)/H(+) antiporter;locus_tag=napA;ID=napA
 Syn6803_Chromosome	Custom	gene	2687109	2687549	.	+	0	product=;locus_tag=slr0416;ID=slr0416
-Syn6803_Chromosome	Custom	gene	2687952	2690534	.	+	0	product=DNA gyrase A subunit;locus_tag=gyrA;ID=gyrA
+Syn6803_Chromosome	Custom	gene	2687952	2690534	.	+	0	product=DNA gyrase A subunit;locus_tag=gyrA_Chromosome_2687952_2690534_+;ID=gyrA_Chromosome_2687952_2690534_+
 Syn6803_Chromosome	Custom	gene	2690534	2691445	.	+	0	product=;locus_tag=slr0418;ID=slr0418
 Syn6803_Chromosome	Custom	gene	2691528	2692382	.	-	0	product=ABC transporter;locus_tag=sll0385;ID=sll0385
 Syn6803_Chromosome	Custom	gene	2692304	2693077	.	-	0	product=;locus_tag=sll0384;ID=sll0384
@@ -5469,7 +5469,7 @@ Syn6803_Chromosome	Custom	gene	2694261	2695145	.	-	0	product=;locus_tag=sll0381;
 Syn6803_Chromosome	Custom	gene	2695620	2695775	.	+	0	product=;locus_tag=ssr0692;ID=ssr0692
 Syn6803_Chromosome	Custom	gene	2696125	2696406	.	-	0	product=;locus_tag=ssl0750;ID=ssl0750
 Syn6803_Chromosome	Custom	gene	2696549	2696836	.	+	0	product=;locus_tag=ssr0693;ID=ssr0693
-Syn6803_Chromosome	Custom	gene	2697151	2698248	.	-	0	product=mannosyl transferase;locus_tag=rfbW;ID=rfbW
+Syn6803_Chromosome	Custom	gene	2697151	2698248	.	-	0	product=mannosyl transferase;locus_tag=rfbW_Chromosome_2697151_2698248_-;ID=rfbW_Chromosome_2697151_2698248_-
 Syn6803_Chromosome	Custom	gene	2698258	2699145	.	-	0	product=acyl-[acyl-carrier-protein]--UDP-N- acetylglucosamine o-acyltransferase;locus_tag=lpxA;ID=lpxA
 Syn6803_Chromosome	Custom	gene	2699172	2699855	.	+	0	product=;locus_tag=slr0420;ID=slr0420
 Syn6803_Chromosome	Custom	gene	2700069	2700818	.	+	0	product=;locus_tag=slr0421;ID=slr0421
@@ -5478,7 +5478,7 @@ Syn6803_Chromosome	Custom	gene	2701931	2705530	.	-	0	product=transcription-repai
 Syn6803_Chromosome	Custom	gene	2705678	2705983	.	-	0	product=;locus_tag=sll0376;ID=sll0376
 Syn6803_Chromosome	Custom	gene	2706733	2707698	.	+	0	product=rare lipoprotein A;locus_tag=rlpA;ID=rlpA
 Syn6803_Chromosome	Custom	gene	2708257	2709006	.	-	0	product=high-affinity branched-chain amino acid transport ATP-binding protein;locus_tag=braG or livF;ID=braG or livF
-Syn6803_Chromosome	Custom	gene	2709084	2710385	.	-	0	product=gamma-glutamyl phosphate reductase;locus_tag=proA;ID=proA
+Syn6803_Chromosome	Custom	gene	2709084	2710385	.	-	0	product=gamma-glutamyl phosphate reductase;locus_tag=proA_Chromosome_2709084_2710385_-;ID=proA_Chromosome_2709084_2710385_-
 Syn6803_Chromosome	Custom	gene	2710511	2711107	.	-	0	product=;locus_tag=sll0372;ID=sll0372
 Syn6803_Chromosome	Custom	gene	2711419	2711637	.	-	0	product=;locus_tag=ssl0738;ID=ssl0738
 Syn6803_Chromosome	Custom	gene	2711740	2713305	.	-	0	product=;locus_tag=sll0371;ID=sll0371
@@ -5498,7 +5498,7 @@ Syn6803_Chromosome	Custom	gene	2726676	2727059	.	+	0	product=;locus_tag=slr0196;
 Syn6803_Chromosome	Custom	gene	2727047	2728708	.	+	0	product=ComE ORF1;locus_tag=slr0197;ID=slr0197
 Syn6803_Chromosome	Custom	gene	2728812	2730071	.	-	0	product=;locus_tag=sll0185;ID=sll0185
 Syn6803_Chromosome	Custom	gene	2730649	2731563	.	+	0	product=;locus_tag=slr0199;ID=slr0199
-Syn6803_Chromosome	Custom	gene	2731560	2732774	.	-	0	product=RNA polymerase sigma factor;locus_tag=rpoD;ID=rpoD
+Syn6803_Chromosome	Custom	gene	2731560	2732774	.	-	0	product=RNA polymerase sigma factor;locus_tag=rpoD_Chromosome_2731560_2732774_-;ID=rpoD_Chromosome_2731560_2732774_-
 Syn6803_Chromosome	Custom	gene	2733081	2733986	.	+	0	product=heterodisulfide reductase subunit B;locus_tag=hdrB;ID=hdrB
 Syn6803_Chromosome	Custom	gene	2734030	2734323	.	-	0	product=;locus_tag=ssl0353;ID=ssl0353
 Syn6803_Chromosome	Custom	gene	2734522	2735301	.	-	0	product=;locus_tag=sll0183;ID=sll0183
@@ -5557,7 +5557,7 @@ Syn6803_Chromosome	Custom	gene	2798072	2798410	.	+	0	product=;locus_tag=slr0923;
 Syn6803_Chromosome	Custom	gene	2798613	2799473	.	+	0	product=;locus_tag=slr0924;ID=slr0924
 Syn6803_Chromosome	Custom	gene	2799650	2801014	.	+	0	product=periplasmic binding protein of ABC transporter for natural amino acids;locus_tag=natB;ID=natB
 Syn6803_Chromosome	Custom	gene	2801140	2803035	.	-	0	product=;locus_tag=sll0556;ID=sll0556
-Syn6803_Chromosome	Custom	gene	2803366	2804283	.	-	0	product=methionine aminopeptidase;locus_tag=map;ID=map
+Syn6803_Chromosome	Custom	gene	2803366	2804283	.	-	0	product=methionine aminopeptidase;locus_tag=map_Chromosome_2803366_2804283_-;ID=map_Chromosome_2803366_2804283_-
 Syn6803_Chromosome	Custom	gene	2804228	2804584	.	-	0	product=ferredoxin-thioredoxin reductase, catalytic chain;locus_tag=ftrC;ID=ftrC
 Syn6803_Chromosome	Custom	gene	2804655	2805692	.	-	0	product=;locus_tag=sll0553;ID=sll0553
 Syn6803_Chromosome	Custom	gene	2805608	2806114	.	-	0	product=;locus_tag=sll0552;ID=sll0552
@@ -5575,7 +5575,7 @@ Syn6803_Chromosome	Custom	gene	2816066	2816320	.	-	0	product=;locus_tag=ssl1046;
 Syn6803_Chromosome	Custom	gene	2816517	2816960	.	+	0	product=;locus_tag=slr0573;ID=slr0573
 Syn6803_Chromosome	Custom	gene	2816991	2817110	.	-	0	product=;locus_tag=sgl0001;ID=sgl0001
 Syn6803_Chromosome	Custom	gene	2817226	2817453	.	-	0	product=;locus_tag=ssl1045;ID=ssl1045
-Syn6803_Chromosome	Custom	gene	2817862	2819196	.	+	0	product=cytochrome P450;locus_tag=cyp;ID=cyp
+Syn6803_Chromosome	Custom	gene	2817862	2819196	.	+	0	product=cytochrome P450;locus_tag=cyp_Chromosome_2817862_2819196_+;ID=cyp_Chromosome_2817862_2819196_+
 Syn6803_Chromosome	Custom	gene	2819323	2819877	.	+	0	product=;locus_tag=slr0575;ID=slr0575
 Syn6803_Chromosome	Custom	gene	2819894	2821855	.	-	0	product=acetyl-coenzyme A synthetase;locus_tag=acs;ID=acs
 Syn6803_Chromosome	Custom	gene	2822101	2822454	.	+	0	product=;locus_tag=slr0579;ID=slr0579
@@ -5597,9 +5597,9 @@ Syn6803_Chromosome	Custom	gene	2838924	2839379	.	-	0	product=;locus_tag=sll0832;
 Syn6803_Chromosome	Custom	gene	2839689	2839904	.	+	0	product=;locus_tag=ssr1407;ID=ssr1407
 Syn6803_Chromosome	Custom	gene	2839957	2842575	.	+	0	product=replicative DNA helicase;locus_tag=dnaB;ID=dnaB
 Syn6803_Chromosome	Custom	gene	2842772	2843683	.	+	0	product=MoxR protein;locus_tag=moxR;ID=moxR
-Syn6803_Chromosome	Custom	gene	2843714	2844742	.	+	0	product=dTDP-glucose 4,6-dehydratase;locus_tag=rfbB;ID=rfbB
+Syn6803_Chromosome	Custom	gene	2843714	2844742	.	+	0	product=dTDP-glucose 4,6-dehydratase;locus_tag=rfbB_Chromosome_2843714_2844742_+;ID=rfbB_Chromosome_2843714_2844742_+
 Syn6803_Chromosome	Custom	gene	2844809	2845072	.	-	0	product=;locus_tag=ssl1552;ID=ssl1552
-Syn6803_Chromosome	Custom	gene	2845180	2847189	.	-	0	product=elongation factor EF-G;locus_tag=fus;ID=fus
+Syn6803_Chromosome	Custom	gene	2845180	2847189	.	-	0	product=elongation factor EF-G;locus_tag=fus_Chromosome_2845180_2847189_-;ID=fus_Chromosome_2845180_2847189_-
 Syn6803_Chromosome	Custom	gene	2847323	2848348	.	+	0	product=phosphoribosyl formylglycinamidine cyclo-ligase;locus_tag=purM;ID=purM
 Syn6803_Chromosome	Custom	gene	2848345	2848983	.	-	0	product=methyltransferase;locus_tag=rapQ;ID=rapQ
 Syn6803_Chromosome	Custom	gene	2849096	2850259	.	+	0	product=ferrochelatase;locus_tag=hemH;ID=hemH
@@ -5607,12 +5607,12 @@ Syn6803_Chromosome	Custom	gene	2850331	2851851	.	-	0	product=6-aminohexanoate-cy
 Syn6803_Chromosome	Custom	gene	2851854	2853344	.	-	0	product=;locus_tag=sll0827;ID=sll0827
 Syn6803_Chromosome	Custom	gene	2853611	2854486	.	+	0	product=;locus_tag=slr0841;ID=slr0841
 Syn6803_Chromosome	Custom	gene	2854916	2856130	.	+	0	product=;locus_tag=slr0842;ID=slr0842
-Syn6803_Chromosome	Custom	gene	2856160	2857410	.	-	0	product=polyA polymerase;locus_tag=pcnB;ID=pcnB
+Syn6803_Chromosome	Custom	gene	2856160	2857410	.	-	0	product=polyA polymerase;locus_tag=pcnB_Chromosome_2856160_2857410_-;ID=pcnB_Chromosome_2856160_2857410_-
 Syn6803_Chromosome	Custom	gene	2857507	2857755	.	+	0	product=ycf34 gene product;locus_tag=ycf34;ID=ycf34
-Syn6803_Chromosome	Custom	gene	2857874	2859919	.	+	0	product=NADH dehydrogenase subunit 5;locus_tag=ndhF;ID=ndhF
+Syn6803_Chromosome	Custom	gene	2857874	2859919	.	+	0	product=NADH dehydrogenase subunit 5;locus_tag=ndhF_Chromosome_2857874_2859919_+;ID=ndhF_Chromosome_2857874_2859919_+
 Syn6803_Chromosome	Custom	gene	2860071	2860289	.	-	0	product=;locus_tag=ssl1533;ID=ssl1533
 Syn6803_Chromosome	Custom	gene	2860500	2861072	.	+	0	product=;locus_tag=slr0845;ID=slr0845
-Syn6803_Chromosome	Custom	gene	2861101	2861838	.	-	0	product=succinate dehydrogenase iron-sulfur protein;locus_tag=sdhB;ID=sdhB
+Syn6803_Chromosome	Custom	gene	2861101	2861838	.	-	0	product=succinate dehydrogenase iron-sulfur protein;locus_tag=sdhB_Chromosome_2861101_2861838_-;ID=sdhB_Chromosome_2861101_2861838_-
 Syn6803_Chromosome	Custom	gene	2862005	2862394	.	-	0	product=;locus_tag=sll0822;ID=sll0822
 Syn6803_Chromosome	Custom	gene	2862558	2863031	.	+	0	product=;locus_tag=slr0846;ID=slr0846
 Syn6803_Chromosome	Custom	gene	2863093	2866923	.	-	0	product=;locus_tag=sll0821;ID=sll0821
@@ -5624,13 +5624,13 @@ Syn6803_Chromosome	Custom	gene	2870696	2871418	.	-	0	product=;locus_tag=sll0088;
 Syn6803_Chromosome	Custom	gene	2871674	2873116	.	+	0	product=ABC transporter subunit;locus_tag=ycf24;ID=ycf24
 Syn6803_Chromosome	Custom	gene	2873258	2874028	.	+	0	product=ABC transporter subunit;locus_tag=ycf16;ID=ycf16
 Syn6803_Chromosome	Custom	gene	2874164	2875525	.	+	0	product=;locus_tag=slr0076;ID=slr0076
-Syn6803_Chromosome	Custom	gene	2875593	2876855	.	+	0	product=NifS protein;locus_tag=nifS;ID=nifS
+Syn6803_Chromosome	Custom	gene	2875593	2876855	.	+	0	product=NifS protein;locus_tag=nifS_Chromosome_2875593_2876855_+;ID=nifS_Chromosome_2875593_2876855_+
 Syn6803_Chromosome	Custom	gene	2876845	2878035	.	-	0	product=;locus_tag=sll0086;ID=sll0086
 Syn6803_Chromosome	Custom	gene	2878078	2879289	.	-	0	product=;locus_tag=sll0085;ID=sll0085
-Syn6803_Chromosome	Custom	gene	2879286	2879771	.	-	0	product=imidazoleglycerol-phosphate dehydratase_ histidinol-phosphatase;locus_tag=hisB;ID=hisB
+Syn6803_Chromosome	Custom	gene	2879286	2879771	.	-	0	product=imidazoleglycerol-phosphate dehydratase_ histidinol-phosphatase;locus_tag=hisB_Chromosome_2879286_2879771_-;ID=hisB_Chromosome_2879286_2879771_-
 Syn6803_Chromosome	Custom	gene	2879965	2880549	.	-	0	product=phosphoheptose isomerase;locus_tag=gmhA;ID=gmhA
 Syn6803_Chromosome	Custom	gene	2880766	2881155	.	+	0	product=;locus_tag=slr0078;ID=slr0078
-Syn6803_Chromosome	Custom	gene	2881378	2883819	.	+	0	product=general secretion pathway protein E;locus_tag=gspE;ID=gspE
+Syn6803_Chromosome	Custom	gene	2881378	2883819	.	+	0	product=general secretion pathway protein E;locus_tag=gspE_Chromosome_2881378_2883819_+;ID=gspE_Chromosome_2881378_2883819_+
 Syn6803_Chromosome	Custom	gene	2883920	2884276	.	-	0	product=;locus_tag=sll0082;ID=sll0082
 Syn6803_Chromosome	Custom	gene	2884357	2884839	.	+	0	product=ribonuclease H;locus_tag=rnhA;ID=rnhA
 Syn6803_Chromosome	Custom	gene	2885022	2885810	.	+	0	product=OmpR subfamily;locus_tag=slr0081;ID=slr0081
@@ -5645,12 +5645,12 @@ Syn6803_Chromosome	Custom	gene	2896657	2897610	.	+	0	product=delta(24)-sterol C-
 Syn6803_Chromosome	Custom	gene	2897634	2898653	.	+	0	product=4-hydroxyphenylpyruvic acid dioxgenase;locus_tag=ppd;ID=ppd
 Syn6803_Chromosome	Custom	gene	2898710	2900080	.	+	0	product=aldehyde dehydrogenase;locus_tag=slr0091;ID=slr0091
 Syn6803_Chromosome	Custom	gene	2900089	2900862	.	+	0	product=;locus_tag=slr0092;ID=slr0092
-Syn6803_Chromosome	Custom	gene	2900980	2901978	.	+	0	product=DnaJ protein;locus_tag=dnaJ;ID=dnaJ
+Syn6803_Chromosome	Custom	gene	2900980	2901978	.	+	0	product=DnaJ protein;locus_tag=dnaJ_Chromosome_2900980_2901978_+;ID=dnaJ_Chromosome_2900980_2901978_+
 Syn6803_Chromosome	Custom	gene	2902007	2902669	.	+	0	product=O-methyltransferase;locus_tag=slr0095;ID=slr0095
 Syn6803_Chromosome	Custom	gene	2902831	2904501	.	+	0	product=low affinity sulfate transporter;locus_tag=slr0096;ID=slr0096
 Syn6803_Chromosome	Custom	gene	2904531	2905235	.	+	0	product=;locus_tag=slr0498;ID=slr0498
 Syn6803_Chromosome	Custom	gene	2905482	2906510	.	-	0	product=ABC transporter;locus_tag=sll0489;ID=sll0489
-Syn6803_Chromosome	Custom	gene	2906797	2907429	.	+	0	product=imidazoleglycerol-phosphate dehydratase;locus_tag=hisB;ID=hisB
+Syn6803_Chromosome	Custom	gene	2906797	2907429	.	+	0	product=imidazoleglycerol-phosphate dehydratase;locus_tag=hisB_Chromosome_2906797_2907429_+;ID=hisB_Chromosome_2906797_2907429_+
 Syn6803_Chromosome	Custom	gene	2907447	2908058	.	-	0	product=;locus_tag=sll0488;ID=sll0488
 Syn6803_Chromosome	Custom	gene	2908175	2909383	.	-	0	product=;locus_tag=sll0487;ID=sll0487
 Syn6803_Chromosome	Custom	gene	2909493	2909801	.	-	0	product=;locus_tag=sll0486;ID=sll0486
@@ -5678,7 +5678,7 @@ Syn6803_Chromosome	Custom	gene	2929703	2930755	.	-	0	product=;locus_tag=sll0473;
 Syn6803_Chromosome	Custom	gene	2930768	2931382	.	+	0	product=;locus_tag=slr0517;ID=slr0517
 Syn6803_Chromosome	Custom	gene	2931476	2932009	.	+	0	product=arabinofuranosidase;locus_tag=abfB;ID=abfB
 Syn6803_Chromosome	Custom	gene	2932211	2932513	.	+	0	product=;locus_tag=slr0519;ID=slr0519
-Syn6803_Chromosome	Custom	gene	2932510	2933184	.	+	0	product=phosphoribosyl formylglycinamidine synthase;locus_tag=purL;ID=purL
+Syn6803_Chromosome	Custom	gene	2932510	2933184	.	+	0	product=phosphoribosyl formylglycinamidine synthase;locus_tag=purL_Chromosome_2932510_2933184_+;ID=purL_Chromosome_2932510_2933184_+
 Syn6803_Chromosome	Custom	gene	2933159	2934172	.	+	0	product=;locus_tag=slr0521;ID=slr0521
 Syn6803_Chromosome	Custom	gene	2934430	2935320	.	+	0	product=;locus_tag=slr0522;ID=slr0522
 Syn6803_Chromosome	Custom	gene	2935471	2937525	.	-	0	product=;locus_tag=sll0471;ID=sll0471
@@ -5700,9 +5700,9 @@ Syn6803_Chromosome	Custom	gene	2954506	2956089	.	+	0	product=cobyric acid syntha
 Syn6803_Chromosome	Custom	gene	2956107	2957153	.	+	0	product=;locus_tag=slr0619;ID=slr0619
 Syn6803_Chromosome	Custom	gene	2957125	2957364	.	+	0	product=;locus_tag=ssr1041;ID=ssr1041
 Syn6803_Chromosome	Custom	gene	2957479	2957940	.	-	0	product=;locus_tag=sll0588;ID=sll0588
-Syn6803_Chromosome	Custom	gene	2958036	2959487	.	-	0	product=pyruvate kinase;locus_tag=pykF;ID=pykF
+Syn6803_Chromosome	Custom	gene	2958036	2959487	.	-	0	product=pyruvate kinase;locus_tag=pykF_Chromosome_2958036_2959487_-;ID=pykF_Chromosome_2958036_2959487_-
 Syn6803_Chromosome	Custom	gene	2959530	2960756	.	-	0	product=;locus_tag=sll0586;ID=sll0586
-Syn6803_Chromosome	Custom	gene	2961120	2961443	.	+	0	product=thioredoxin;locus_tag=trxA;ID=trxA
+Syn6803_Chromosome	Custom	gene	2961120	2961443	.	+	0	product=thioredoxin;locus_tag=trxA_Chromosome_2961120_2961443_+;ID=trxA_Chromosome_2961120_2961443_+
 Syn6803_Chromosome	Custom	gene	2961619	2962647	.	-	0	product=;locus_tag=sll0585;ID=sll0585
 Syn6803_Chromosome	Custom	gene	2962706	2963227	.	-	0	product=;locus_tag=ycf36;ID=ycf36
 Syn6803_Chromosome	Custom	gene	2963397	2964512	.	+	0	product=;locus_tag=slr0624;ID=slr0624
@@ -5719,7 +5719,7 @@ Syn6803_Chromosome	Custom	gene	2977086	2978162	.	-	0	product=;locus_tag=sll0102;
 Syn6803_Chromosome	Custom	gene	2978508	2979896	.	+	0	product=;locus_tag=slr0105;ID=slr0105
 Syn6803_Chromosome	Custom	gene	2979896	2980600	.	+	0	product=;locus_tag=slr0106;ID=slr0106
 Syn6803_Chromosome	Custom	gene	2980659	2980967	.	-	0	product=;locus_tag=sll0101;ID=sll0101
-Syn6803_Chromosome	Custom	gene	2981009	2982190	.	-	0	product=N-acyl-L-amino acid amidohydrolase;locus_tag=ama;ID=ama
+Syn6803_Chromosome	Custom	gene	2981009	2982190	.	-	0	product=N-acyl-L-amino acid amidohydrolase;locus_tag=ama_Chromosome_2981009_2982190_-;ID=ama_Chromosome_2981009_2982190_-
 Syn6803_Chromosome	Custom	gene	2982289	2983566	.	-	0	product=precorrin-6y methylase;locus_tag=cbiE;ID=cbiE
 Syn6803_Chromosome	Custom	gene	2983695	2984747	.	-	0	product=;locus_tag=sll0098;ID=sll0098
 Syn6803_Chromosome	Custom	gene	2984985	2986241	.	+	0	product=;locus_tag=slr0108;ID=slr0108
@@ -5769,7 +5769,7 @@ Syn6803_Chromosome	Custom	gene	3039858	3040721	.	+	0	product=;locus_tag=slr0317;
 Syn6803_Chromosome	Custom	gene	3040804	3041415	.	+	0	product=;locus_tag=slr0318;ID=slr0318
 Syn6803_Chromosome	Custom	gene	3041494	3042408	.	+	0	product=beta-lactamase;locus_tag=blaOXA-3;ID=blaOXA-3
 Syn6803_Chromosome	Custom	gene	3042487	3042684	.	-	0	product=;locus_tag=ssl0511;ID=ssl0511
-Syn6803_Chromosome	Custom	gene	3042789	3043613	.	+	0	product=methionine aminopeptidase;locus_tag=map;ID=map
+Syn6803_Chromosome	Custom	gene	3042789	3043613	.	+	0	product=methionine aminopeptidase;locus_tag=map_Chromosome_3042789_3043613_+;ID=map_Chromosome_3042789_3043613_+
 Syn6803_Chromosome	Custom	gene	3043528	3043926	.	-	0	product=;locus_tag=sll0800;ID=sll0800
 Syn6803_Chromosome	Custom	gene	3044833	3045852	.	+	0	product=;locus_tag=slr0787;ID=slr0787
 Syn6803_Chromosome	Custom	gene	3045877	3047265	.	+	0	product=pre-B cell enhancing factor;locus_tag=slr0788;ID=slr0788
@@ -5781,7 +5781,7 @@ Syn6803_Chromosome	Custom	gene	3051086	3051733	.	+	0	product=;locus_tag=slr0793;
 Syn6803_Chromosome	Custom	gene	3051772	3054936	.	+	0	product=cation or drug efflux system protein;locus_tag=slr0794;ID=slr0794
 Syn6803_Chromosome	Custom	gene	3054872	3055699	.	+	0	product=;locus_tag=slr0795;ID=slr0795
 Syn6803_Chromosome	Custom	gene	3055814	3057151	.	+	0	product=nickel resistance;locus_tag=nreB;ID=nreB
-Syn6803_Chromosome	Custom	gene	3057217	3058329	.	-	0	product=mercuric resistance operon regulatory protein_ precorrin isomerase;locus_tag=merR;ID=merR
+Syn6803_Chromosome	Custom	gene	3057217	3058329	.	-	0	product=mercuric resistance operon regulatory protein_ precorrin isomerase;locus_tag=merR_Chromosome_3057217_3058329_-;ID=merR_Chromosome_3057217_3058329_-
 Syn6803_Chromosome	Custom	gene	3058411	3060339	.	+	0	product=cation-transporting ATPase_ E1-E2 ATPase;locus_tag=slr0797;ID=slr0797
 Syn6803_Chromosome	Custom	gene	3060469	3060795	.	-	0	product=;locus_tag=sll0793;ID=sll0793
 Syn6803_Chromosome	Custom	gene	3060807	3061205	.	-	0	product=transcriptional repressor_ SmtB;locus_tag=smtB;ID=smtB
@@ -5795,7 +5795,7 @@ Syn6803_Chromosome	Custom	gene	3067358	3067648	.	-	0	product=;locus_tag=ssl1464;
 Syn6803_Chromosome	Custom	gene	3067652	3068620	.	-	0	product=;locus_tag=sll0787;ID=sll0787
 Syn6803_Chromosome	Custom	gene	3068630	3069208	.	-	0	product=;locus_tag=sll0786;ID=sll0786
 Syn6803_Chromosome	Custom	gene	3069162	3070250	.	-	0	product=;locus_tag=sll0785;ID=sll0785
-Syn6803_Chromosome	Custom	gene	3070281	3071321	.	-	0	product=nitrilase;locus_tag=merR;ID=merR
+Syn6803_Chromosome	Custom	gene	3070281	3071321	.	-	0	product=nitrilase;locus_tag=merR_Chromosome_3070281_3071321_-;ID=merR_Chromosome_3070281_3071321_-
 Syn6803_Chromosome	Custom	gene	3071459	3071941	.	-	0	product=;locus_tag=sll0783;ID=sll0783
 Syn6803_Chromosome	Custom	gene	3072406	3073656	.	+	0	product=;locus_tag=slr0801;ID=slr0801
 Syn6803_Chromosome	Custom	gene	3073629	3074738	.	-	0	product=putative protein kinase;locus_tag=sll0782;ID=sll0782
@@ -5804,14 +5804,14 @@ Syn6803_Chromosome	Custom	gene	3075546	3075848	.	-	0	product=;locus_tag=sll0780;
 Syn6803_Chromosome	Custom	gene	3075896	3078550	.	-	0	product=;locus_tag=sll0779;ID=sll0779
 Syn6803_Chromosome	Custom	gene	3078838	3081210	.	-	0	product=ABC transporter;locus_tag=sll0778;ID=sll0778
 Syn6803_Chromosome	Custom	gene	3081264	3082181	.	-	0	product=;locus_tag=sll0777;ID=sll0777
-Syn6803_Chromosome	Custom	gene	3082151	3083668	.	-	0	product=eukaryotic protein kinase;locus_tag=pknA;ID=pknA
+Syn6803_Chromosome	Custom	gene	3082151	3083668	.	-	0	product=eukaryotic protein kinase;locus_tag=pknA_Chromosome_3082151_3083668_-;ID=pknA_Chromosome_3082151_3083668_-
 Syn6803_Chromosome	Custom	gene	3083746	3084123	.	-	0	product=;locus_tag=sll0775;ID=sll0775
 Syn6803_Chromosome	Custom	gene	3084346	3084585	.	+	0	product=salt-stress induced hydrophobic peptide;locus_tag=ESI3;ID=ESI3
 Syn6803_Chromosome	Custom	gene	3084677	3088435	.	+	0	product=;locus_tag=slr0697;ID=slr0697
 Syn6803_Chromosome	Custom	gene	3088419	3088883	.	+	0	product=;locus_tag=slr0698;ID=slr0698
 Syn6803_Chromosome	Custom	gene	3089093	3089515	.	+	0	product=;locus_tag=slr0699;ID=slr0699
 Syn6803_Chromosome	Custom	gene	3089656	3091014	.	+	0	product=;locus_tag=slr0700;ID=slr0700
-Syn6803_Chromosome	Custom	gene	3091244	3091657	.	+	0	product=mercuric resistance operon regulatory protein;locus_tag=merR;ID=merR
+Syn6803_Chromosome	Custom	gene	3091244	3091657	.	+	0	product=mercuric resistance operon regulatory protein;locus_tag=merR_Chromosome_3091244_3091657_+;ID=merR_Chromosome_3091244_3091657_+
 Syn6803_Chromosome	Custom	gene	3091764	3093017	.	+	0	product=;locus_tag=slr0702;ID=slr0702
 Syn6803_Chromosome	Custom	gene	3093408	3093845	.	-	0	product=;locus_tag=sll0678;ID=sll0678
 Syn6803_Chromosome	Custom	gene	3093908	3094693	.	-	0	product=transposase;locus_tag=sll0677;ID=sll0677
@@ -5848,7 +5848,7 @@ Syn6803_Chromosome	Custom	gene	3121193	3121687	.	-	0	product=;locus_tag=sll0658;
 Syn6803_Chromosome	Custom	gene	3121684	3121953	.	-	0	product=;locus_tag=ssl1255;ID=ssl1255
 Syn6803_Chromosome	Custom	gene	3121972	3123069	.	-	0	product=phospho-N-acetylmuramoyl-pentapeptide- transferase;locus_tag=mraY;ID=mraY
 Syn6803_Chromosome	Custom	gene	3123182	3125035	.	+	0	product=;locus_tag=slr0765;ID=slr0765
-Syn6803_Chromosome	Custom	gene	3125045	3126199	.	-	0	product=phosphofructokinase;locus_tag=pfkA;ID=pfkA
+Syn6803_Chromosome	Custom	gene	3125045	3126199	.	-	0	product=phosphofructokinase;locus_tag=pfkA_Chromosome_3125045_3126199_-;ID=pfkA_Chromosome_3125045_3126199_-
 Syn6803_Chromosome	Custom	gene	3126311	3127342	.	-	0	product=;locus_tag=sll0744;ID=sll0744
 Syn6803_Chromosome	Custom	gene	3127364	3127846	.	-	0	product=;locus_tag=sll0743;ID=sll0743
 Syn6803_Chromosome	Custom	gene	3127864	3128313	.	-	0	product=;locus_tag=sll0742;ID=sll0742
@@ -5874,7 +5874,7 @@ Syn6803_Chromosome	Custom	gene	3156760	3157677	.	+	0	product=branched-chain amin
 Syn6803_Chromosome	Custom	gene	3157734	3158048	.	+	0	product=;locus_tag=slr0033;ID=slr0033
 Syn6803_Chromosome	Custom	gene	3158106	3159116	.	-	0	product=;locus_tag=sll0037;ID=sll0037
 Syn6803_Chromosome	Custom	gene	3159350	3160651	.	-	0	product=;locus_tag=sll0036;ID=sll0036
-Syn6803_Chromosome	Custom	gene	3160717	3161886	.	+	0	product=aspartate aminotransferase;locus_tag=aspC;ID=aspC
+Syn6803_Chromosome	Custom	gene	3160717	3161886	.	+	0	product=aspartate aminotransferase;locus_tag=aspC_Chromosome_3160717_3161886_+;ID=aspC_Chromosome_3160717_3161886_+
 Syn6803_Chromosome	Custom	gene	3161899	3162675	.	-	0	product=;locus_tag=sll0034;ID=sll0034
 Syn6803_Chromosome	Custom	gene	3162738	3164243	.	-	0	product=;locus_tag=sll0033;ID=sll0033
 Syn6803_Chromosome	Custom	gene	3164404	3165591	.	-	0	product=;locus_tag=sll0031;ID=sll0031
@@ -5884,10 +5884,10 @@ Syn6803_Chromosome	Custom	gene	3167887	3168801	.	-	0	product=CmpR;locus_tag=cmpR
 Syn6803_Chromosome	Custom	gene	3169054	3170412	.	+	0	product=bicarbonate transporter;locus_tag=cmpA;ID=cmpA
 Syn6803_Chromosome	Custom	gene	3170475	3171317	.	+	0	product=unknown protein;locus_tag=cmpB;ID=cmpB
 Syn6803_Chromosome	Custom	gene	3171428	3173158	.	+	0	product=;locus_tag=slr0042;ID=slr0042
-Syn6803_Chromosome	Custom	gene	3173335	3175338	.	+	0	product=nitrate transport protein_ NrtC;locus_tag=nrtC;ID=nrtC
-Syn6803_Chromosome	Custom	gene	3175411	3176259	.	+	0	product=nitrate transport protein_ NrtD;locus_tag=nrtD;ID=nrtD
-Syn6803_Chromosome	Custom	gene	3176543	3178066	.	-	0	product=NADH dehydrogenase subunit 4;locus_tag=ndhD;ID=ndhD
-Syn6803_Chromosome	Custom	gene	3178231	3180135	.	-	0	product=NADH dehydrogenase subunit 5;locus_tag=ndhF;ID=ndhF
+Syn6803_Chromosome	Custom	gene	3173335	3175338	.	+	0	product=nitrate transport protein_ NrtC;locus_tag=nrtC_Chromosome_3173335_3175338_+;ID=nrtC_Chromosome_3173335_3175338_+
+Syn6803_Chromosome	Custom	gene	3175411	3176259	.	+	0	product=nitrate transport protein_ NrtD;locus_tag=nrtD_Chromosome_3175411_3176259_+;ID=nrtD_Chromosome_3175411_3176259_+
+Syn6803_Chromosome	Custom	gene	3176543	3178066	.	-	0	product=NADH dehydrogenase subunit 4;locus_tag=ndhD_Chromosome_3176543_3178066_-;ID=ndhD_Chromosome_3176543_3178066_-
+Syn6803_Chromosome	Custom	gene	3178231	3180135	.	-	0	product=NADH dehydrogenase subunit 5;locus_tag=ndhF_Chromosome_3178231_3180135_-;ID=ndhF_Chromosome_3178231_3180135_-
 Syn6803_Chromosome	Custom	gene	3180380	3181537	.	-	0	product=;locus_tag=sll0518;ID=sll0518
 Syn6803_Chromosome	Custom	gene	3181708	3182013	.	-	0	product=RNA binding protein;locus_tag=rbpA;ID=rbpA
 Syn6803_Chromosome	Custom	gene	3182315	3183007	.	+	0	product=Mg-protoporphyrin IX methyl transferase;locus_tag=chlM;ID=chlM
@@ -5914,7 +5914,7 @@ Syn6803_Chromosome	Custom	gene	3207272	3208696	.	-	0	product=;locus_tag=sll0503;
 Syn6803_Chromosome	Custom	gene	3208698	3210452	.	-	0	product=arginyl-tRNA-synthetase;locus_tag=argS;ID=argS
 Syn6803_Chromosome	Custom	gene	3210650	3211606	.	-	0	product=;locus_tag=sll0501;ID=sll0501
 Syn6803_Chromosome	Custom	gene	3211808	3212518	.	+	0	product=;locus_tag=slr0541;ID=slr0541
-Syn6803_Chromosome	Custom	gene	3212598	3213194	.	+	0	product=ATP-dependent protease_ ClpP;locus_tag=clpP;ID=clpP
+Syn6803_Chromosome	Custom	gene	3212598	3213194	.	+	0	product=ATP-dependent protease_ ClpP;locus_tag=clpP_Chromosome_3212598_3213194_+;ID=clpP_Chromosome_3212598_3213194_+
 Syn6803_Chromosome	Custom	gene	3213272	3214510	.	+	0	product=tryptophan synthase beta subunit;locus_tag=trpB;ID=trpB
 Syn6803_Chromosome	Custom	gene	3214581	3217427	.	-	0	product=;locus_tag=sll0499;ID=sll0499
 Syn6803_Chromosome	Custom	gene	3217855	3218655	.	+	0	product=ABC transporter;locus_tag=slr0544;ID=slr0544
@@ -5938,14 +5938,14 @@ Syn6803_Chromosome	Custom	gene	3233816	3235186	.	-	0	product=UDP-N-acetylglucosa
 Syn6803_Chromosome	Custom	gene	3235429	3235680	.	+	0	product=;locus_tag=ssr1562;ID=ssr1562
 Syn6803_Chromosome	Custom	gene	3235746	3236855	.	-	0	product=;locus_tag=sll0898;ID=sll0898
 Syn6803_Chromosome	Custom	gene	3236874	3237128	.	-	0	product=;locus_tag=ssl1707;ID=ssl1707
-Syn6803_Chromosome	Custom	gene	3237125	3238258	.	-	0	product=DnaJ protein;locus_tag=dnaJ;ID=dnaJ
+Syn6803_Chromosome	Custom	gene	3237125	3238258	.	-	0	product=DnaJ protein;locus_tag=dnaJ_Chromosome_3237125_3238258_-;ID=dnaJ_Chromosome_3237125_3238258_-
 Syn6803_Chromosome	Custom	gene	3238365	3238868	.	-	0	product=Holliday juction resolvase_ RuvC;locus_tag=sll0896;ID=sll0896
 Syn6803_Chromosome	Custom	gene	3238873	3239748	.	-	0	product=ammonium transport protein;locus_tag=cysQ;ID=cysQ
 Syn6803_Chromosome	Custom	gene	3240181	3241068	.	+	0	product=indole-3-glycerol phosphate synthase;locus_tag=trpC;ID=trpC
 Syn6803_Chromosome	Custom	gene	3241089	3242714	.	-	0	product=ammonium/methylammonium permease;locus_tag=amt3;ID=amt3
 Syn6803_Chromosome	Custom	gene	3242711	3243781	.	-	0	product=;locus_tag=sll0536;ID=sll0536
 Syn6803_Chromosome	Custom	gene	3244079	3245416	.	-	0	product=ATP-dependent protease ATPase subunit;locus_tag=clpX;ID=clpX
-Syn6803_Chromosome	Custom	gene	3245421	3246101	.	-	0	product=ATP-dependent Clp protease proteolytic subunit;locus_tag=clpP;ID=clpP
+Syn6803_Chromosome	Custom	gene	3245421	3246101	.	-	0	product=ATP-dependent Clp protease proteolytic subunit;locus_tag=clpP_Chromosome_3245421_3246101_-;ID=clpP_Chromosome_3245421_3246101_-
 Syn6803_Chromosome	Custom	gene	3246401	3247816	.	-	0	product=trigger factor;locus_tag=tig;ID=tig
 Syn6803_Chromosome	Custom	gene	3248484	3249326	.	+	0	product=aspartate beta-semialdehyde dehydrogenese;locus_tag=asd;ID=asd
 Syn6803_Chromosome	Custom	gene	3249386	3250291	.	+	0	product=dihydrodipicolinate synthase;locus_tag=dapA;ID=dapA
@@ -5974,7 +5974,7 @@ Syn6803_Chromosome	Custom	gene	3278122	3279135	.	-	0	product=glyceraldehyde-3-ph
 Syn6803_Chromosome	Custom	gene	3279390	3280907	.	+	0	product=UDP-N-acetylmuramate-alanine ligase;locus_tag=murC;ID=murC
 Syn6803_Chromosome	Custom	gene	3280979	3281932	.	+	0	product=;locus_tag=slr1424;ID=slr1424
 Syn6803_Chromosome	Custom	gene	3281954	3282307	.	+	0	product=;locus_tag=slr1425;ID=slr1425
-Syn6803_Chromosome	Custom	gene	3282442	3282912	.	-	0	product=bacterioferritin;locus_tag=bfr;ID=bfr
+Syn6803_Chromosome	Custom	gene	3282442	3282912	.	-	0	product=bacterioferritin;locus_tag=bfr_Chromosome_3282442_3282912_-;ID=bfr_Chromosome_3282442_3282912_-
 Syn6803_Chromosome	Custom	gene	3283104	3283406	.	-	0	product=;locus_tag=sll1340;ID=sll1340
 Syn6803_Chromosome	Custom	gene	3283467	3284165	.	+	0	product=recombination protein;locus_tag=recR;ID=recR
 Syn6803_Chromosome	Custom	gene	3284283	3284846	.	-	0	product=;locus_tag=sll1338;ID=sll1338
@@ -6000,7 +6000,7 @@ Syn6803_Chromosome	Custom	gene	3305654	3308773	.	-	0	product=helicase of the snf
 Syn6803_Chromosome	Custom	gene	3308878	3309474	.	+	0	product=;locus_tag=slr1461;ID=slr1461
 Syn6803_Chromosome	Custom	gene	3309530	3311431	.	-	0	product=;locus_tag=sll1365;ID=sll1365
 Syn6803_Chromosome	Custom	gene	3311660	3313345	.	+	0	product=;locus_tag=slr1462;ID=slr1462
-Syn6803_Chromosome	Custom	gene	3313667	3315754	.	+	0	product=elongation factor EF-G;locus_tag=fus;ID=fus
+Syn6803_Chromosome	Custom	gene	3313667	3315754	.	+	0	product=elongation factor EF-G;locus_tag=fus_Chromosome_3313667_3315754_+;ID=fus_Chromosome_3313667_3315754_+
 Syn6803_Chromosome	Custom	gene	3315938	3316735	.	+	0	product=;locus_tag=slr1464;ID=slr1464
 Syn6803_Chromosome	Custom	gene	3317363	3317593	.	-	0	product=NifU protein;locus_tag=ssl2667;ID=ssl2667
 Syn6803_Chromosome	Custom	gene	3317701	3318804	.	-	0	product=ketol-acid reductoisomerase;locus_tag=ilvC;ID=ilvC
@@ -6008,7 +6008,7 @@ Syn6803_Chromosome	Custom	gene	3318829	3319212	.	+	0	product=;locus_tag=slr0651;
 Syn6803_Chromosome	Custom	gene	3319281	3320051	.	+	0	product=phosphorybosilformimino-5-amino-phosphorybosil- 4-imidazolecarboxamideisomerase;locus_tag=hisA;ID=hisA
 Syn6803_Chromosome	Custom	gene	3320075	3321736	.	-	0	product=L-aspartate oxidase;locus_tag=nadB;ID=nadB
 Syn6803_Chromosome	Custom	gene	3321844	3322281	.	-	0	product=;locus_tag=sll0630;ID=sll0630
-Syn6803_Chromosome	Custom	gene	3322377	3322763	.	-	0	product=photosystem I subunit X;locus_tag=psaK;ID=psaK
+Syn6803_Chromosome	Custom	gene	3322377	3322763	.	-	0	product=photosystem I subunit X;locus_tag=psaK_Chromosome_3322377_3322763_-;ID=psaK_Chromosome_3322377_3322763_-
 Syn6803_Chromosome	Custom	gene	3323275	3324552	.	+	0	product=RNA polymerase sigma factor;locus_tag=rpoDI;ID=rpoDI
 Syn6803_Chromosome	Custom	gene	3330281	3331042	.	+	0	product=;locus_tag=slr0654;ID=slr0654
 Syn6803_Chromosome	Custom	gene	3331045	3331587	.	+	0	product=;locus_tag=slr0655;ID=slr0655
@@ -6020,7 +6020,7 @@ Syn6803_Chromosome	Custom	gene	3338682	3339485	.	+	0	product=pyrroline carboxyla
 Syn6803_Chromosome	Custom	gene	3339500	3340969	.	-	0	product=LIM17 protein;locus_tag=lim17;ID=lim17
 Syn6803_Chromosome	Custom	gene	3341166	3341843	.	-	0	product=;locus_tag=sll0625;ID=sll0625
 Syn6803_Chromosome	Custom	gene	3342125	3342442	.	-	0	product=;locus_tag=sll0624;ID=sll0624
-Syn6803_Chromosome	Custom	gene	3342857	3344944	.	+	0	product=arginine decarboxylase;locus_tag=speA;ID=speA
+Syn6803_Chromosome	Custom	gene	3342857	3344944	.	+	0	product=arginine decarboxylase;locus_tag=speA_Chromosome_3342857_3344944_+;ID=speA_Chromosome_3342857_3344944_+
 Syn6803_Chromosome	Custom	gene	3345027	3345815	.	-	0	product=;locus_tag=sll0623;ID=sll0623
 Syn6803_Chromosome	Custom	gene	3345861	3346817	.	-	0	product=quinolinate synthetase;locus_tag=nadA;ID=nadA
 Syn6803_Chromosome	Custom	gene	3346910	3347656	.	-	0	product=thiol:disulfide interchange protein_ DsbD;locus_tag=dsbD;ID=dsbD
@@ -6030,15 +6030,15 @@ Syn6803_Chromosome	Custom	gene	3348690	3351296	.	+	0	product=;locus_tag=slr0665;
 Syn6803_Chromosome	Custom	gene	3351526	3352353	.	+	0	product=;locus_tag=slr0666;ID=slr0666
 Syn6803_Chromosome	Custom	gene	3352682	3353203	.	+	0	product=;locus_tag=slr0667;ID=slr0667
 Syn6803_Chromosome	Custom	gene	3353196	3353732	.	+	0	product=;locus_tag=slr0668;ID=slr0668
-Syn6803_Chromosome	Custom	gene	3354192	3358862	.	-	0	product=ferredoxin-dependent glutamate synthase;locus_tag=gltB;ID=gltB
+Syn6803_Chromosome	Custom	gene	3354192	3358862	.	-	0	product=ferredoxin-dependent glutamate synthase;locus_tag=gltB_Chromosome_3354192_3358862_-;ID=gltB_Chromosome_3354192_3358862_-
 Syn6803_Chromosome	Custom	gene	3359578	3360579	.	+	0	product=2-hydroxyaciddehydrogenase;locus_tag=ddh;ID=ddh
 Syn6803_Chromosome	Custom	gene	3360732	3362006	.	-	0	product=carbamoyl-phosphate synthetase subunit A;locus_tag=carA;ID=carA
 Syn6803_Chromosome	Custom	gene	3362057	3363166	.	+	0	product=;locus_tag=slr1557;ID=slr1557
 Syn6803_Chromosome	Custom	gene	3363266	3365797	.	-	0	product=mannose-1-phosphate guanyltransferase;locus_tag=sll1496;ID=sll1496
 Syn6803_Chromosome	Custom	gene	3365944	3367137	.	-	0	product=;locus_tag=sll1495;ID=sll1495
 Syn6803_Chromosome	Custom	gene	3367417	3368289	.	+	0	product=shikimate 5-dehydrogenase;locus_tag=aroE;ID=aroE
-Syn6803_Chromosome	Custom	gene	3368416	3369621	.	+	0	product=histidyl tRNA synthetase;locus_tag=hisS;ID=hisS
-Syn6803_Chromosome	Custom	gene	3369699	3370028	.	+	0	product=glutaredoxin;locus_tag=grxC;ID=grxC
+Syn6803_Chromosome	Custom	gene	3368416	3369621	.	+	0	product=histidyl tRNA synthetase;locus_tag=hisS_Chromosome_3368416_3369621_+;ID=hisS_Chromosome_3368416_3369621_+
+Syn6803_Chromosome	Custom	gene	3369699	3370028	.	+	0	product=glutaredoxin;locus_tag=grxC_Chromosome_3369699_3370028_+;ID=grxC_Chromosome_3369699_3370028_+
 Syn6803_Chromosome	Custom	gene	3370059	3370946	.	+	0	product=;locus_tag=slr1563;ID=slr1563
 Syn6803_Chromosome	Custom	gene	3371247	3372023	.	+	0	product=RNA polymerase sigma-37;locus_tag=rpoF;ID=rpoF
 Syn6803_Chromosome	Custom	gene	3372152	3372493	.	+	0	product=;locus_tag=slr1565;ID=slr1565
@@ -6059,7 +6059,7 @@ Syn6803_Chromosome	Custom	gene	3386005	3386493	.	+	0	product=;locus_tag=slr1577;
 Syn6803_Chromosome	Custom	gene	3386777	3388465	.	+	0	product=;locus_tag=slr1579;ID=slr1579
 Syn6803_Chromosome	Custom	gene	3388694	3389491	.	-	0	product=;locus_tag=sll1486;ID=sll1486
 Syn6803_Chromosome	Custom	gene	3389395	3389883	.	-	0	product=;locus_tag=sll1485;ID=sll1485
-Syn6803_Chromosome	Custom	gene	3390028	3391602	.	-	0	product=NADH dehydrogenase;locus_tag=ndh;ID=ndh
+Syn6803_Chromosome	Custom	gene	3390028	3391602	.	-	0	product=NADH dehydrogenase;locus_tag=ndh_Chromosome_3390028_3391602_-;ID=ndh_Chromosome_3390028_3391602_-
 Syn6803_Chromosome	Custom	gene	3391645	3392187	.	-	0	product=transforming growth factor induced protein;locus_tag=sll1483;ID=sll1483
 Syn6803_Chromosome	Custom	gene	3392302	3393453	.	-	0	product=;locus_tag=sll1482;ID=sll1482
 Syn6803_Chromosome	Custom	gene	3393495	3394850	.	-	0	product=;locus_tag=sll1481;ID=sll1481
@@ -6071,7 +6071,7 @@ Syn6803_Chromosome	Custom	gene	3399457	3400350	.	-	0	product=sensory transductio
 Syn6803_Chromosome	Custom	gene	3400402	3401418	.	-	0	product=transposase;locus_tag=sll1474;ID=sll1474
 Syn6803_Chromosome	Custom	gene	3401456	3402901	.	-	0	product=;locus_tag=sll1473;ID=sll1473
 Syn6803_Chromosome	Custom	gene	3402929	3403372	.	-	0	product=;locus_tag=sll1472;ID=sll1472
-Syn6803_Chromosome	Custom	gene	3403557	3404306	.	-	0	product=phycobilisome rod-core linker polypeptide_ CpcG;locus_tag=cpcG;ID=cpcG
+Syn6803_Chromosome	Custom	gene	3403557	3404306	.	-	0	product=phycobilisome rod-core linker polypeptide_ CpcG;locus_tag=cpcG_Chromosome_3403557_3404306_-;ID=cpcG_Chromosome_3403557_3404306_-
 Syn6803_Chromosome	Custom	gene	3404545	3405249	.	+	0	product=OmpR subfamily;locus_tag=slr1584;ID=slr1584
 Syn6803_Chromosome	Custom	gene	3405462	3405848	.	+	0	product=transposase;locus_tag=slr1585;ID=slr1585
 Syn6803_Chromosome	Custom	gene	3405991	3406311	.	+	0	product=transposase;locus_tag=slr1586;ID=slr1586
@@ -6105,9 +6105,9 @@ Syn6803_Chromosome	Custom	gene	3442661	3443311	.	-	0	product=;locus_tag=sll0722;
 Syn6803_Chromosome	Custom	gene	3443514	3447386	.	-	0	product=leukotoxin_ LtA;locus_tag=sll0721;ID=sll0721
 Syn6803_Chromosome	Custom	gene	3447715	3448158	.	-	0	product=apxIC gene product hemolysin activation protein;locus_tag=sll0720;ID=sll0720
 Syn6803_Chromosome	Custom	gene	3448208	3449110	.	-	0	product=;locus_tag=sll1552;ID=sll1552
-Syn6803_Chromosome	Custom	gene	3449928	3452129	.	+	0	product=haemolysin secretion ATP-binding protein;locus_tag=hlyB;ID=hlyB
+Syn6803_Chromosome	Custom	gene	3449928	3452129	.	+	0	product=haemolysin secretion ATP-binding protein;locus_tag=hlyB_Chromosome_3449928_3452129_+;ID=hlyB_Chromosome_3449928_3452129_+
 Syn6803_Chromosome	Custom	gene	3452461	3453162	.	+	0	product=;locus_tag=slr1652;ID=slr1652
-Syn6803_Chromosome	Custom	gene	3453175	3454425	.	+	0	product=N-acyl-L-amino acid amidohydrolase;locus_tag=ama;ID=ama
+Syn6803_Chromosome	Custom	gene	3453175	3454425	.	+	0	product=N-acyl-L-amino acid amidohydrolase;locus_tag=ama_Chromosome_3453175_3454425_+;ID=ama_Chromosome_3453175_3454425_+
 Syn6803_Chromosome	Custom	gene	3454422	3456056	.	-	0	product=;locus_tag=sll1550;ID=sll1550
 Syn6803_Chromosome	Custom	gene	3456238	3456954	.	-	0	product=;locus_tag=sll1549;ID=sll1549
 Syn6803_Chromosome	Custom	gene	3457459	3457932	.	+	0	product=photosystem I subunit XI;locus_tag=psaL;ID=psaL
@@ -6170,10 +6170,10 @@ Syn6803_Chromosome	Custom	gene	3523717	3524799	.	+	0	product=photosystem II D1 p
 Syn6803_Chromosome	Custom	gene	3524938	3525450	.	+	0	product=;locus_tag=slr1182;ID=slr1182
 Syn6803_Chromosome	Custom	gene	3525482	3526066	.	+	0	product=;locus_tag=slr1183;ID=slr1183
 Syn6803_Chromosome	Custom	gene	3526097	3526591	.	+	0	product=;locus_tag=slr1184;ID=slr1184
-Syn6803_Chromosome	Custom	gene	3527045	3527581	.	+	0	product=cytochrome b6/f-complex iron-sulfur protein;locus_tag=petC;ID=petC
+Syn6803_Chromosome	Custom	gene	3527045	3527581	.	+	0	product=cytochrome b6/f-complex iron-sulfur protein;locus_tag=petC_Chromosome_3527045_3527581_+;ID=petC_Chromosome_3527045_3527581_+
 Syn6803_Chromosome	Custom	gene	3527642	3528088	.	+	0	product=;locus_tag=slr1186;ID=slr1186
 Syn6803_Chromosome	Custom	gene	3528265	3529305	.	+	0	product=;locus_tag=slr1187;ID=slr1187
-Syn6803_Chromosome	Custom	gene	3529323	3529994	.	+	0	product=chloroplast membrane-associated 30 kD protein;locus_tag=im30;ID=im30
+Syn6803_Chromosome	Custom	gene	3529323	3529994	.	+	0	product=chloroplast membrane-associated 30 kD protein;locus_tag=im30_Chromosome_3529323_3529994_+;ID=im30_Chromosome_3529323_3529994_+
 Syn6803_Chromosome	Custom	gene	3529916	3530971	.	+	0	product=;locus_tag=slr1189;ID=slr1189
 Syn6803_Chromosome	Custom	gene	3530979	3531755	.	-	0	product=;locus_tag=sll1107;ID=sll1107
 Syn6803_Chromosome	Custom	gene	3531885	3532400	.	-	0	product=;locus_tag=sll1106;ID=sll1106
@@ -6187,8 +6187,8 @@ Syn6803_Chromosome	Custom	gene	3538411	3538803	.	+	0	product=;locus_tag=slr0588;
 Syn6803_Chromosome	Custom	gene	3538833	3539387	.	+	0	product=;locus_tag=slr0589;ID=slr0589
 Syn6803_Chromosome	Custom	gene	3539496	3540212	.	+	0	product=;locus_tag=slr0590;ID=slr0590
 Syn6803_Chromosome	Custom	gene	3540326	3541264	.	-	0	product=HrEpiB;locus_tag=sll0576;ID=sll0576
-Syn6803_Chromosome	Custom	gene	3541344	3542108	.	-	0	product=ATP-binding protein;locus_tag=rfbB;ID=rfbB
-Syn6803_Chromosome	Custom	gene	3542121	3542936	.	-	0	product=integral membrane O-antigen translocator protein;locus_tag=rfbA;ID=rfbA
+Syn6803_Chromosome	Custom	gene	3541344	3542108	.	-	0	product=ATP-binding protein;locus_tag=rfbB_Chromosome_3541344_3542108_-;ID=rfbB_Chromosome_3541344_3542108_-
+Syn6803_Chromosome	Custom	gene	3542121	3542936	.	-	0	product=integral membrane O-antigen translocator protein;locus_tag=rfbA_Chromosome_3542121_3542936_-;ID=rfbA_Chromosome_3542121_3542936_-
 Syn6803_Chromosome	Custom	gene	3543143	3544210	.	+	0	product=;locus_tag=slr0591;ID=slr0591
 Syn6803_Chromosome	Custom	gene	3544207	3545133	.	-	0	product=carbamate kinase;locus_tag=arcC;ID=arcC
 Syn6803_Chromosome	Custom	gene	3545120	3546532	.	-	0	product=;locus_tag=sll0572;ID=sll0572
@@ -6196,7 +6196,7 @@ Syn6803_Chromosome	Custom	gene	3546840	3548315	.	+	0	product=;locus_tag=slr0592;
 Syn6803_Chromosome	Custom	gene	3548402	3549706	.	+	0	product=cAMP protein kinase regulatory chain;locus_tag=slr0593;ID=slr0593
 Syn6803_Chromosome	Custom	gene	3549956	3551020	.	-	0	product=RecA gene product;locus_tag=recA;ID=recA
 Syn6803_Chromosome	Custom	gene	3551159	3552382	.	+	0	product=;locus_tag=slr0594;ID=slr0594
-Syn6803_Chromosome	Custom	gene	3552457	3552954	.	-	0	product=ferric uptake regulation protein;locus_tag=fur;ID=fur
+Syn6803_Chromosome	Custom	gene	3552457	3552954	.	-	0	product=ferric uptake regulation protein;locus_tag=fur_Chromosome_3552457_3552954_-;ID=fur_Chromosome_3552457_3552954_-
 Syn6803_Chromosome	Custom	gene	3553097	3553918	.	+	0	product=creatinine amidohydrolase;locus_tag=slr0596;ID=slr0596
 Syn6803_Chromosome	Custom	gene	3553851	3555512	.	+	0	product=phosphoribosyl aminoimidazole carboxy formyl formyltransferase/inosinemonophosphate cyclohydrolase_ PUR-H(J);locus_tag=purH;ID=purH
 Syn6803_Chromosome	Custom	gene	3555674	3556075	.	-	0	product=;locus_tag=sll0565;ID=sll0565
@@ -6207,7 +6207,7 @@ Syn6803_Chromosome	Custom	gene	3559199	3560179	.	+	0	product=;locus_tag=slr0600;
 Syn6803_Chromosome	Custom	gene	3560323	3560709	.	+	0	product=;locus_tag=slr0601;ID=slr0601
 Syn6803_Chromosome	Custom	gene	3560755	3561144	.	+	0	product=;locus_tag=slr0602;ID=slr0602
 Syn6803_Chromosome	Custom	gene	3561162	3561794	.	-	0	product=;locus_tag=sll0563;ID=sll0563
-Syn6803_Chromosome	Custom	gene	3561946	3564639	.	+	0	product=DNA polymerase III alpha subunit;locus_tag=dnaE;ID=dnaE
+Syn6803_Chromosome	Custom	gene	3561946	3564639	.	+	0	product=DNA polymerase III alpha subunit;locus_tag=dnaE_Chromosome_3561946_3564639_+;ID=dnaE_Chromosome_3561946_3564639_+
 Syn6803_Chromosome	Custom	gene	3564838	3566649	.	+	0	product=LepA gene product;locus_tag=lepA;ID=lepA
 Syn6803_Chromosome	Custom	gene	3566761	3567720	.	+	0	product=;locus_tag=slr0605;ID=slr0605
 Syn6803_Chromosome	Custom	gene	3568022	3568975	.	+	0	product=;locus_tag=slr0606;ID=slr0606

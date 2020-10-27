@@ -65,45 +65,110 @@ for line in open(infile).readlines():
                 features[-1][attribute] += " "
             features[-1][attribute] += line.split('=', maxsplit=1)[0].strip('"')
 
-# Write features to GFF
-
-outfile = open(outfile, 'w')
+# Count all old_locus_tag, locus_tag, and gene to find non-unique tags
+tag_counts = {"old_locus_tag":{}, "locus_tag":{}, "gene":{}}
 
 for i in range(len(features)):
     # Only consider coding sequences
     if not features[i]['feature'] == "CDS":
         continue
+    # Count old_locus_tag
+    try:
+        tag_counts['old_locus_tag'][features[i]['old_locus_tag']] += 1
+    except KeyError:
+        try:
+            tag_counts['old_locus_tag'][features[i]['old_locus_tag']] = 1
+        except KeyError:
+            pass
+    # Count locus_tag
+    try:
+        tag_counts['locus_tag'][features[i]['locus_tag']] += 1
+    except KeyError:
+        try:
+            tag_counts['locus_tag'][features[i]['locus_tag']] = 1
+        except KeyError:
+            pass
+    # Count gene
+    try:
+        tag_counts['gene'][features[i]['gene']] += 1
+    except KeyError:
+        try:
+            tag_counts['gene'][features[i]['gene']] = 1
+        except KeyError:
+            pass
+
+# Identify all non-unique old_locus_tag, locus_tag, and gene tags
+non_uniq = {
+    'old_locus_tag':set(filter(
+        lambda x: tag_counts['old_locus_tag'][x] > 1,
+        tag_counts['old_locus_tag']
+    )),
+    'locus_tag':set(filter(
+        lambda x: tag_counts['locus_tag'][x] > 1,
+        tag_counts['locus_tag']
+    )),
+    'gene':set(filter(
+        lambda x: tag_counts['gene'][x] > 1,
+        tag_counts['gene']
+    ))
+}
+
+# Rename all features that are non-unique
+def rename_feature(feature, feature_type):
+    try:
+        if feature[feature_type] in non_uniq[feature_type]:
+            feature[feature_type] = "_".join([
+                feature[feature_type], feature['sequence'],
+                feature['start'], feature['end'], feature['strand']
+            ])
+    except KeyError:
+        pass
+    return feature
+
+# Write features to GFF
+
+outfile = open(outfile, 'w')
+
+for i in range(len(features)):
+    # Select feature
+    feature = features[i]
+    # Only consider coding sequences
+    if not feature['feature'] == "CDS":
+        continue
+    # Rename non-unique tags
+    for feature_type in ['old_locus_tag', 'locus_tag', 'gene']:
+        feature = rename_feature(feature, feature_type)
     # Write column 1: Sequence
-    output = features[i]['sequence'] + "\t"
+    output = feature['sequence'] + "\t"
     # Write column 2: Source
     output += 'Custom' + "\t"
     # Write column 3: Type
     output += 'gene' + "\t"
     # Write column 4: Start
-    output += features[i]['start'] + "\t"
+    output += feature['start'] + "\t"
     # Write column 5: End
-    output += features[i]['end'] + "\t"
+    output += feature['end'] + "\t"
     # Write column 6: Score
     output += '.' + "\t"
     # Write column 7: Strand
-    output += features[i]['strand'] + "\t"
+    output += feature['strand'] + "\t"
     # Write column 8: Frame
     output += '0' + "\t"
     # Write column 9: Attributes
     try:
-        locus_tag = features[i]['old_locus_tag']
+        locus_tag = feature['old_locus_tag']
     except KeyError:
         try:
-            locus_tag = features[i]['locus_tag']
+            locus_tag = feature['locus_tag']
         except KeyError:
-            locus_tag = features[i]['gene']
+            locus_tag = feature['gene']
     try:
-        ID = features[i]['locus_tag']
+        ID = feature['locus_tag']
     except KeyError:
-        ID = features[i]['gene']
+        ID = feature['gene']
     locus_tag = "locus_tag=" + locus_tag
     ID = "ID=" + ID
-    product = "product=" + features[i]['product'].replace(";", "_")
+    product = "product=" + feature['product'].replace(";", "_")
     output += ";".join([product, locus_tag, ID]) + "\n"
     junk = outfile.write(output)
 

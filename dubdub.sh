@@ -27,27 +27,27 @@ FASTQDIR=`echo $FASTQDIR | sed -e 's|/$||'`
 # Create working directory if it does not exist
 [ ! -d "$WORKDIR" ] && mkdir -p $WORKDIR
 
-# Exit if working directory is not empty
-if [ "$(ls -A $WORKDIR)" ]; then
-	echo "Error: Output directory is not empty."; exit 1
-fi
-
 # Exit if any of the required inputs do not exist
 if [ ! -d "$WORKDIR" ]; then
-	echo "Error: Output directory does not exist."; exit 1
+	echo -e "\n\e[31mError: Output directory does not exist.\e[0m\n"; exit 1
 fi
 
 if [ ! -d "$FASTQDIR" ]; then
-	echo "Error: FASTQ directory does not exist."; exit 1
+	echo -e "\n\e[31mError: FASTQ directory does not exist.\e[0m\n"; exit 1
 fi
 
 if [ ! -f "$LAYOUT" ]; then
-	echo "Error: Barseq layout file does not exist."; exit 1
+	echo -e "\n\e[31mError: Barseq layout file does not exist.\e[0m\n"; exit 1
 fi
 
 BPAG="`dirname $(realpath $0)`/libraries/${LIBRARY}/${LIBRARY}.bpag.tab"
 if [ ! -f "$BPAG" ]; then
-	echo "Error: DubSeq library (BPAG) does not exist."; exit 1
+	echo -e "\n\e[31mError: DubSeq library (BPAG) does not exist.\e[0m\n"; exit 1
+fi
+
+# Exit if working directory is not empty
+if [ "$(ls -A $WORKDIR)" ]; then
+	echo -e "\n\e[31mError: Output directory is not empty.\e[0m\n"; exit 1
 fi
 
 # Set step counter to zero
