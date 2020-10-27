@@ -9,7 +9,7 @@ mult_file = args[2]
 gene_file = args[3]
 
 # Load data
-fscr = read_tsv(fscr_file)
+fscr = read_tsv(fscr_file, col_types = cols(sample = col_character()))
 mult = read_tsv(mult_file)
 gene = read_tsv(
   gene_file,

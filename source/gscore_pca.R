@@ -11,7 +11,7 @@ idir_name = args[1]
 
 # Load data
 gscr_file = file.path(idir_name, "gene_scores.tab")
-gscr = read_tsv(gscr_file) %>%
+gscr = read_tsv(gscr_file, col_types = cols(sample = col_character())) %>%
   select(locus_tag, sample, score_cnnls)
 
 # Center the data
