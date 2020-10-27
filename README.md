@@ -148,7 +148,7 @@ Note that non-default upstream and downstream sequences are needed for the examp
 
 ### Expected output
 
-The pipeline will store five files in the specified output directory:
+The pipeline will store seven files in the specified output directory:
 
 ```
 ls -1 example/results
@@ -159,10 +159,12 @@ gene_score_PCA.pdf
 gene_scores.tab
 intermediate_data.tar.gz
 layout.tab
+layout.valid.tab
 sample_itnum.tab
+valid_samples.txt
 ```
 
-The `gene_score_PCA.pdf` plots PCA results based on the NNLS gene fitness scores for all samples. The `gene_scores.tab` table contains all fitness scores for each gene in all samples. The compressed archive `intermediate_data.tar.gz` contains intermediate files and may be deleted to save space. The `layout.tab` table is a copy of the supplied barseq layout table, but with 'itnum' IDs instead of sample IDs. The `sample_itnum.tab` table maps 'itnum' IDs to the original sample IDs.
+The `gene_score_PCA.pdf` plots PCA results based on the NNLS gene fitness scores for all samples. The `gene_scores.tab` table contains all fitness scores for each gene in all samples. The compressed archive `intermediate_data.tar.gz` contains intermediate files and may be deleted to save space. The `layout.tab` table is a copy of the supplied barseq layout table, but with 'itnum' IDs instead of sample IDs. The `layout.valid.tab` contains only valid samples, _i.e._ those with at least one barcode that is "recommended" and has at least 10 time zero reads. The `sample_itnum.tab` table maps 'itnum' IDs to the original sample IDs. The `valid_samples.txt` file lists the valid samples (see above).
 
 The PCA clustering analysis should look like this:
 ![Example PCA](example/example_PCA.png)
