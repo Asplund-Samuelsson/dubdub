@@ -7,7 +7,7 @@ DUBDIR=`dirname $0`
 source ${DUBDIR}/config.sh
 
 # Read input flags
-while getopts d:f:l:L:U:P:D: flag
+while getopts d:f:l:L:U:P:D:t: flag
 	do
 	    case "${flag}" in
 	        d) WORKDIR=${OPTARG};;  # Working directory in which results appear
@@ -17,6 +17,7 @@ while getopts d:f:l:L:U:P:D: flag
           U) LSEQ=${OPTARG};;     # If necessary, supply alternative LSEQ
           P) LPOS=${OPTARG};;     # If necessary, supply alternative LPOS
           D) RSEQ=${OPTARG};;     # If necessary, supply alternative RSEQ
+					t) ZEROCUT=${OPTARG};;  # If necessary, supply time0 read count cutoff
 	    esac
 	done
 
@@ -144,7 +145,7 @@ if [ -f "$DEDUP" ]; then
 	${WORKDIR}/layout.tab
 	echo -e "\n\e[95mDedup detour: Calculating fragment fitness values...\e[0m\n"
 	${DUBDIR}/source/run_fscore.sh ${WORKDIR}/bstat ${WORKDIR}/fscore \
-	$LIBRARY ${WORKDIR}/layout.valid.dedup.tab
+	$LIBRARY ${WORKDIR}/layout.valid.dedup.tab $ZEROCUT
 	echo -e "\n\e[95mDedup detour: Creating combined fragment score table...\e[0m\n"
 	${DUBDIR}/source/create_fscore_table.R $WORKDIR
 	echo -e "\n\e[95mDedup detour: Adding genes and multi-barcodes...\e[0m\n"
@@ -160,7 +161,7 @@ fi
 echo -e "\n\e[94mStep $S of $T: Calculating gene fitness values...\e[0m\n"
 
 ${DUBDIR}/source/run_gscore.sh ${WORKDIR}/bstat ${WORKDIR}/gscore \
-$LIBRARY ${WORKDIR}/layout.valid.tab
+$LIBRARY ${WORKDIR}/layout.valid.tab $ZEROCUT
 
 FILECOUNT=`find ${WORKDIR}/gscore -name *gscore.tsv | wc -l`
 if [ "$FILECOUNT" -lt "1" ]; then

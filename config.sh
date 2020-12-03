@@ -4,3 +4,5 @@ LSEQ="ACGGATCCT"
 LPOS="16"
 # 9 nt perfectly matching the sequence downstream (right) of the barcode
 RSEQ="CGTACACTT"
+# Time0 read count cutoff
+ZEROCUT=10

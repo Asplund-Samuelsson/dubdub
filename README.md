@@ -8,7 +8,7 @@ Automated [DubSeq](https://github.com/psnovichkov/DubSeq) data analysis.
 ## About
 
 ```
-./dubdub.sh -d <results directory> -f <fastq.gz directory> -l <barseq layout table> -L <library> [-U <pre-sequence> -P <pre-sequence position> -D <post-sequence>]
+./dubdub.sh -d <results directory> -f <fastq.gz directory> -l <barseq layout table> -L <library> [-U <pre-sequence> -P <pre-sequence position> -D <post-sequence> -t <time0 read count cutoff>]
 ```
 to run pipeline in the _results directory_ using the specified _fastq.gz directory_ barcode sequencing files and _barseq layout table_ on the specified DubSeq _library_. Parameters in brackets are optional and are by default obtained from `config.sh`. Note that it is not necessary to run the pipeline from within the DubDub directory, _i.e._ any valid path to `dubdub.sh` works.
 

@@ -8,6 +8,9 @@ OUTDIR=$(realpath $2) # Directory with fscore output
 LIBRARY=$3 # The library to use
 LAYOUT=$(realpath $4) # Barseq layout file
 
+# Define time0 read count cutoff
+ZEROCUT=$5
+
 # Create fscore output directory
 mkdir $OUTDIR
 
@@ -21,4 +24,4 @@ GFF="`dirname $(realpath $0)`/../libraries/${LIBRARY}/${LIBRARY}.gff"
 cd `dirname $0`/../DubSeq/dubseq
 
 # Run fscore.py
-./gscore.py -i $INDIR -l $LAYOUT -p $BPAG -g $GFF -o $OUTDIR
+./gscore.py -i $INDIR -l $LAYOUT -p $BPAG -g $GFF -t $ZEROCUT -o $OUTDIR

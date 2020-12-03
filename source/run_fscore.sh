@@ -8,6 +8,9 @@ OUTDIR=$(realpath $2) # Directory with fscore output
 LIBRARY=$3 # The library to use
 LAYOUT=$(realpath $4) # Barseq layout file
 
+# Define time0 read count cutoff
+ZEROCUT=$5
+
 # Create fscore output directory
 mkdir $OUTDIR
 
@@ -18,4 +21,4 @@ BPAG="`dirname $(realpath $0)`/../libraries/${LIBRARY}/${LIBRARY}.dedup.bpag.tab
 cd `dirname $0`/../DubSeq/dubseq
 
 # Run fscore.py
-./fscore.py -i $INDIR -l $LAYOUT -p $BPAG -o $OUTDIR
+./fscore.py -i $INDIR -l $LAYOUT -p $BPAG -t $ZEROCUT -o $OUTDIR
