@@ -203,7 +203,7 @@ It may be desirable to analyze data obtained from experiments where multiple lib
 source/combine_libraries.R <new library name> <library 1> <library 2> <...>
 ```
 
-Any number of libraries may be combined. The `combo` library was created from `7002`, `Syn6803`, and `Utex` in this way. If the same barcodes label multiple genomic fragments, deduplicated (`dedup`) and multi-fragment (`multi`) barcode files are generated along the regular unique barcode "BPAG" file in the new library:
+Any number of libraries may be combined. The `combo` library was created from `7002`, `Syn6803`, `Syn6803_OE1`, and `Utex` in this way. If the same barcodes label multiple genomic fragments, deduplicated (`dedup`) and multi-fragment (`multi`) barcode files are generated along the regular unique barcode "BPAG" file in the new library:
 
 ```
 ls -1 libraries/combo
@@ -217,6 +217,12 @@ combo.multi.bpag.tab
 ```
 
 When running DubDub on such a library it will take a `Dedup detour` to run the `fscore.py` script in order to calculate fragment scores along the gene scores. Gene scores can only be calculated based on fragments with unique barcodes, so the fragment scores may be used to investigate further the impact of genes situated on fragments with non-unique barcodes. Fragment scores are stored in a file named `fragment_scores.tab`, which includes information about what genes are present on the fragments.
+
+Note that in order to accommodate that `Syn6803` and `Syn6803_OE1` represent the same organism, it was necessary to make the `Syn6803_OE1` GFF file empty, and run the following command after combining the libraries:
+
+```
+perl -p -i -e 's/Syn6803_OE1_/Syn6803_/g' libraries/combo/*
+```
 
 #### Concatenating compressed FASTQ files
 
