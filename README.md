@@ -232,6 +232,6 @@ The pipeline automatically removes concatenated `fastq.gz` files from the output
 source/concatenate_fastq.sh example/data example/fastq
 ```
 
-## Authors
+## Author
 
-Johannes Asplund-Samuelsson, KTH (johannes.asplund.samuelsson@scilifelab.se)
+Johannes Asplund-Samuelsson (johannes.aspsam@gmail.com)
